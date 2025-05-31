@@ -42,7 +42,7 @@ def delete_pending_user(email):
 
 def send_verification_email(recipient_email):
     verification_token = create_access_token(identity=recipient_email, expires_delta=timedelta(hours=1))
-    verify_link = f"http://localhost:3001/verify-email/{verification_token}"
+    verify_link = f"http://localhost:3000/verify-email/{verification_token}"
 
     html_content = render_template_string("""
     <html>
@@ -106,7 +106,7 @@ def insert_user(email, hashed_password):
 
 def send_password_reset_email(email):
     reset_token = create_access_token(identity=email, expires_delta=timedelta(minutes=10))
-    reset_link = f"http://localhost:3001/reset-password/{reset_token}"
+    reset_link = f"http://localhost:3000/reset-password/{reset_token}"
 
     html_content = render_template_string("""
     <html>

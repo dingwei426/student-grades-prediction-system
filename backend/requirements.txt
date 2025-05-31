@@ -20,3 +20,4 @@ lightgbm
 pandas
 joblib
 numpy
+redis

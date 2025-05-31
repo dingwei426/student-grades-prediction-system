@@ -27,3 +27,4 @@ class Config:
     MAIL_DEFAULT_SENDER = os.getenv("MAIL_DEFAULT_SENDER", "dingwei0426@gmail.com")  # Default sender!
     
     OPENROUTER_API_KEY = os.getenv('OPENROUTER_API_KEY', '')
+    REDIS = os.getenv('REDIS', 'localhost')

@@ -1,0 +1,15 @@
+__pycache__/
+node_modules/
+.env
+*.pyc
+*.pyo
+*.pyd
+*.db
+.DS_Store
+
+# Ignore model and backup files
+lgbm_4/
+lgbm_9_old/
+backup/
+rf-cgpa-9-old.pkl
+rf_4/

@@ -35,7 +35,7 @@ def create_app():
     
     # Setup Redis Connection
     app.config["SESSION_REDIS"] = redis.StrictRedis(
-        host="localhost",  # Use "redis" if using Docker
+        host=Config.REDIS,  # Use "redis" if using Docker
         port=6379,
         db=0,
         decode_responses=True

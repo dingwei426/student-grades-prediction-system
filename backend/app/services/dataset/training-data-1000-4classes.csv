@@ -1,0 +1,1001 @@
+Gender,Most Comfortable Language,Location of Secondary School,Science Stream,Type of Qualification Completed,Grades Obtained in Qualification,Frequency of Working with Classmates,Academic Year and Trimester,Year of Birth,English Proficiency,Interest in Studying Computer,Average Studying Hours per Week,CGPA,PROGRAMMING AND PROBLEM SOLVING,SOFTWARE AND REQUIREMENTS,TCP/IP NETWORK FUNDAMENTALS,PROBABILITY AND STATISTICS FOR COMPUTING,OBJECT-ORIENTED APPLICATION DEVELOPMENT,DATABASE SYSTEM FUNDAMENTALS,WEB APPLICATION DEVELOPMENT,SOFTWARE DESIGN,SOFTWARE TESTING,COMPUTER ETHICS AND PROFESSIONAL RESPONSIBILITY,INTRODUCTION TO COMPUTER ORGANISATION AND ARCHITECTURE,HUMAN COMPUTER INTERACTION DESIGN,OPERATING SYSTEMS,PROBLEM SOLVING WITH DATA STRUCTURES AND ALGORITHMS,SOFTWARE PROJECT MANAGEMENT,SOFTWARE CONSTRUCTION AND CONFIGURATION,WIRELESS APPLICATION DEVELOPMENT,ADVANCED WEB APPLICATION DEVELOPMENT,SOFTWARE QUALITY ASSURANCE,SOFTWARE ENTREPRENEURSHIP,PROJECT,MULTIMEDIA TECHNOLOGY,ARTIFICIAL INTELLIGENCE,TEAM PROJECT,PROGRAMMING WITH GAME ENGINES,ADVANCED DATABASE SYSTEMS,CLOUD COMPUTING,DIGITAL IMAGE PROCESSING,FUNDAMENTALS OF CYBERSECURITY,PARALLEL PROCESSING,DATA MINING,TCP/IP NETWORK ROUTING,SERVER CONFIGURATION AND MANAGEMENT,TCP/IP NETWORK APPLICATION DEVELOPMENT,NETWORK SECURITY MANAGEMENT
+Female,English,Malacca,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 1,2003,4,3,7,3.556,B,A,A,B,B,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,B,B,A,A,A,B,B,B,B,C,B,A,B
+Female,Chinese,Pahang,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 3,2002,4,4,3,2.7403,B,A,C,B,B,B,C,C,F,B,A,B,B,B,A,C,C,C,C,A,B,B,B,B,C,B,C,A,B,B,C,C,B,C,B
+Male,English,Perak,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 2,2001,4,4,3,3.4185,B,B,A,B,B,F,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,B,C,A,B,F,A,A,B,A,B,B,B,A,B
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2002,5,4,10,3.4052,B,A,A,A,A,A,B,A,A,A,A,A,A,C,B,A,B,A,A,A,C,B,B,A,B,C,A,A,B,A,B,B,A,A,A
+Male,Chinese,Johor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 1,2002,3,3,14,3.4106,A,A,A,A,B,B,A,B,A,B,C,A,B,A,A,B,A,A,A,B,B,A,A,B,B,A,B,B,A,A,C,C,B,A,A
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Often,Year 1 Trimester 3,2004,3,4,13,3.6238,B,A,B,B,A,B,A,A,A,A,B,A,A,A,C,A,B,A,A,A,A,A,A,A,A,A,A,B,B,B,B,A,A,B,C
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 2,2002,5,5,6,3.3912,A,B,A,B,B,B,B,B,A,A,B,A,A,B,A,A,B,B,B,B,A,A,A,B,B,A,B,A,B,B,A,B,A,A,B
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Very Often,Year 1 Trimester 2,2001,3,4,10,3.8035,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,B,A,A,B,A,B,A,A,B,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 2,2002,3,4,0,3.6044,A,A,B,A,B,C,B,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,B,A,B,A,A,A,A,A,B,B,A
+Female,English,Sarawak,Yes,UEC (Unified Examination Certificate),Mostly C's,Never,Year 2 Trimester 2,2003,4,4,-6,3.2391,A,B,F,B,A,B,B,B,B,A,A,A,A,B,A,B,A,B,B,B,B,B,A,A,A,B,C,C,C,C,A,A,B,A,A
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Often,Year 2 Trimester 3,2001,4,4,2,3.3821,A,B,C,B,B,C,A,B,B,A,C,B,A,A,B,A,B,A,A,B,A,A,A,A,A,B,A,A,A,A,B,B,A,F,A
+Male,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 1,2003,3,4,1,3.7434,B,A,A,B,A,B,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,B,A,A,B,B,A,A,B,A,B,A,A,A,A
+Male,Chinese,Kelantan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 2 Trimester 3,2002,3,4,7,3.8695,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,B
+Male,English,Selangor,Yes,Diploma,Mostly A's,Sometimes,Year 2 Trimester 3,2004,6,3,9,3.6534,A,A,A,B,A,A,A,B,B,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,B,B,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2001,4,5,11,3.4817,B,A,A,B,B,B,B,A,B,A,A,B,A,A,B,A,B,A,B,A,A,A,A,A,A,B,A,B,B,B,B,B,B,A,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 3,2003,3,4,7,3.3022,A,A,B,A,B,B,B,B,B,B,A,B,B,B,B,A,A,A,C,B,B,A,B,B,A,B,A,A,A,B,B,B,A,A,C
+Female,English,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 1,2003,4,3,11,3.8374,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,B,A,B,A,A,A,A,A,A,A,A,A,A,B,A
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 2,2004,3,4,10,3.2112,B,B,B,B,B,B,B,B,A,B,B,A,A,A,B,B,A,A,C,B,B,A,B,B,A,B,A,A,B,B,B,B,B,A,C
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 2,2004,5,4,12,3.4615,A,A,B,B,B,A,A,B,B,A,B,B,B,B,B,A,B,A,B,B,A,A,B,C,B,A,A,A,A,B,A,A,B,B,A
+Male,Chinese,Johor,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 2 Trimester 2,2002,3,4,5,3.5674,B,A,B,A,A,B,A,A,A,A,A,A,A,A,C,A,B,C,A,A,A,A,B,B,A,A,A,A,B,A,A,B,A,B,B
+Female,English,Sarawak,No,Diploma,Mostly B's,Sometimes,Year 3 Trimester 1,2002,4,4,10,2.6665,B,B,B,C,B,A,C,B,C,B,C,A,B,C,B,B,C,B,B,B,B,B,C,B,C,A,B,B,C,B,C,F,B,F,B
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly A's,Very Often,Year 3 Trimester 2,2001,4,4,11,2.1104,C,F,F,C,B,B,C,C,C,C,F,C,F,F,B,B,F,B,B,C,C,C,B,B,B,B,C,B,B,F,B,C,C,C,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly C's,Very Often,Year 3 Trimester 2,2002,4,4,4,2.3987,F,C,C,B,C,C,C,B,B,A,B,A,A,B,C,B,B,C,C,A,C,B,B,B,C,B,B,C,C,F,B,C,F,C,C
+Male,Chinese,Selangor,Yes,ALevel,Mostly B's,Very Often,Year 3 Trimester 2,2001,3,5,6,2.9105,C,B,A,B,F,A,B,B,B,B,B,B,B,B,A,B,C,A,B,B,B,B,B,B,B,A,B,C,B,B,C,C,F,C,B
+Female,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 2,2004,3,3,4,3.6659,B,B,A,A,B,B,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,B,A,B,B,A,B,B,B,C,A,B,A,A
+Male,Chinese,Sarawak,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 3,2002,3,3,4,2.4556,C,B,C,F,C,F,B,C,C,B,A,A,A,B,C,B,C,B,B,B,C,C,B,C,B,C,F,C,C,B,B,B,B,A,C
+Male,English,Perak,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 1,2001,3,4,13,3.6723,B,B,A,A,B,B,A,A,A,A,A,A,A,A,A,A,B,B,A,B,A,A,A,A,A,A,B,B,A,A,B,A,B,B,A
+Female,English,Sarawak,Yes,Diploma,Mostly B's,Often,Year 3 Trimester 2,2002,4,5,2,3.0603,B,A,C,C,C,B,B,B,B,A,B,A,A,B,A,B,C,A,A,A,B,A,B,A,A,B,C,B,B,A,B,B,C,C,C
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 1,2004,3,4,2,3.8208,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,A,A,B,A,A,A,B,A,B,A,A,A
+Female,Chinese,Kuala Lumpur,Yes,Diploma,Mostly A's,Often,Year 1 Trimester 2,2002,3,4,13,3.8695,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,A,B,A,A,A
+Female,Chinese,Sarawak,Yes,Foundation in Art,Mostly A's,Very Often,Year 2 Trimester 2,2003,4,4,16,3.3191,A,B,A,B,B,A,B,B,B,A,B,B,A,B,A,C,A,A,A,B,B,B,B,A,A,C,C,A,A,A,B,B,B,A,B
+Male,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 2,2001,4,4,-4,3.501,B,B,A,B,B,C,A,A,A,A,A,A,A,B,B,B,A,B,B,A,B,B,A,A,B,B,A,B,A,B,B,A,A,A,A
+Male,English,Penang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 3,2003,4,4,2,3.4565,B,A,A,B,B,A,A,A,A,A,C,B,B,B,A,A,B,A,A,A,B,A,B,A,A,A,A,B,B,B,A,B,A,B,A
+Male,Chinese,Sabah,Yes,UEC (Unified Examination Certificate),Mostly A's,Sometimes,Year 2 Trimester 2,2003,3,5,4,3.1889,A,C,A,B,A,B,C,B,B,A,A,A,B,B,A,B,A,A,A,A,B,C,F,A,C,A,A,C,A,B,A,B,B,A,A
+Male,English,Kelantan,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2002,5,4,7,3.4364,A,A,C,A,A,B,B,B,B,A,A,A,A,A,A,A,B,A,B,B,B,A,B,C,B,B,A,A,C,A,A,A,A,A,A
+Male,Chinese,Penang,Yes,Diploma,Mostly B's,Sometimes,Year 2 Trimester 1,2002,3,3,12,3.4584,B,A,A,B,B,B,B,B,A,A,B,A,A,B,A,B,B,A,A,B,B,A,B,A,B,B,B,A,B,A,A,B,A,B,A
+Male,Chinese,Kedah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Alumni,2002,2,3,3,3.9233,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 3,2001,4,4,-4,2.0995,B,C,F,F,F,F,B,B,B,C,C,B,B,C,B,C,B,F,C,C,B,C,C,F,A,B,A,F,C,C,F,A,C,C,B
+Female,English,Malacca,Yes,Foundation in Science,Mostly B's,Never,Year 3 Trimester 1,2000,4,4,7,3.6161,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,B,B,A,B,A,B,A,A,B,A,B,A,A,B,A,A,B,A,A,A
+Male,English,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Often,Year 3 Trimester 2,2001,3,4,-1,2.9606,F,A,B,A,A,C,B,B,B,A,A,A,B,B,A,B,B,B,C,C,B,A,B,B,B,C,A,F,A,B,B,B,C,A,A
+Female,Chinese,Sarawak,Yes,Foundation in Science,Mostly A's,Sometimes,Year 1 Trimester 3,2001,3,5,3,3.7382,A,B,B,A,A,B,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,B,B,A,A,B,A,A,A,A,A,A,B,A
+Female,Chinese,Kelantan,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 2 Trimester 2,2003,3,3,12,3.8636,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,B,A,A,A,A,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 2,2002,4,3,-1,1.1907,F,F,F,C,F,F,F,F,C,A,F,C,C,C,F,C,B,F,C,F,C,C,B,F,F,C,C,C,F,C,F,C,B,F,F
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 1,2003,4,5,9,2.6726,B,B,B,B,C,B,C,B,B,B,B,B,B,B,B,B,B,B,B,B,C,A,B,F,C,C,B,C,B,C,A,B,C,B,B
+Female,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 1 Trimester 2,2003,3,4,15,3.809,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,B,A,A,B,A,B,B,A,B
+Male,English,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 2,2003,4,4,9,3.2938,A,B,B,A,B,C,B,C,B,A,B,A,A,B,B,A,A,C,C,B,A,A,A,A,B,A,B,B,B,A,B,A,B,B,A
+Female,English,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 1 Trimester 3,2002,3,4,1,3.6956,A,A,A,A,B,B,A,A,A,B,A,A,A,A,A,A,B,A,A,B,A,B,A,B,A,A,B,A,A,B,B,A,A,A,A
+Female,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 2 Trimester 3,2003,5,4,1,3.3528,A,B,B,A,B,C,C,C,B,A,A,A,A,A,A,C,C,A,B,B,A,A,A,A,A,A,B,C,A,B,B,B,B,B,B
+Male,Chinese,Perak,Yes,Foundation in Art,Mostly A's,Often,Year 3 Trimester 2,2001,5,5,9,3.8808,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,A,B,A
+Male,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 2,2002,3,4,7,3.0893,B,A,B,A,B,A,B,C,B,A,B,B,B,B,A,A,A,C,A,A,B,A,B,B,B,A,B,C,C,B,A,B,B,B,B
+Female,English,Pahang,Yes,Foundation in Art,Mostly A's,Often,Year 3 Trimester 2,2002,4,5,8,3.3824,A,A,B,C,B,B,B,A,A,A,A,B,B,A,B,A,C,A,B,A,B,A,A,B,B,A,B,A,A,A,A,B,B,B,A
+Male,English,Kelantan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Sometimes,Year 3 Trimester 2,2002,3,3,11,2.6922,B,F,B,B,C,C,A,C,C,A,C,C,B,C,C,C,A,A,B,B,B,C,B,B,A,C,B,B,B,B,C,B,C,B,C
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 1,2002,4,4,10,3.0277,B,B,B,C,C,B,B,B,B,A,B,A,B,B,A,C,B,A,A,B,C,B,B,A,B,B,B,C,B,B,B,A,B,C,C
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Often,Year 3 Trimester 2,2003,4,5,3,2.8318,B,B,C,B,B,C,B,B,B,A,B,A,B,B,A,B,B,B,A,A,C,A,C,C,B,C,B,A,C,C,F,B,B,B,C
+Female,Chinese,Penang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 3,2003,4,3,15,3.4138,B,B,A,A,B,C,A,A,A,B,A,A,A,A,A,A,A,B,A,A,B,A,A,A,A,C,C,B,A,B,C,A,B,A,A
+Male,English,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 3,2001,4,4,18,2.7985,C,B,B,A,B,A,B,C,B,A,B,B,B,B,B,A,B,B,C,F,B,A,B,B,C,A,A,C,B,B,B,B,C,C,C
+Male,English,Sarawak,Yes,Foundation in Art,Mostly A's,Very Often,Alumni,2003,5,3,18,3.8891,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A
+Male,English,Malacca,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 2 Trimester 1,2002,4,4,14,3.5416,B,A,A,A,A,A,A,C,B,A,A,A,A,A,C,C,B,B,A,B,A,A,A,A,A,A,A,B,B,A,A,A,A,C,A
+Female,English,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 1,2004,4,4,12,3.6641,A,B,B,B,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,B,A,B,B,B,A,A,A,A,A,A,A,B
+Female,English,Johor,Yes,Foundation in Science,Mostly A's,Never,Year 1 Trimester 3,2002,3,4,11,3.7553,A,A,A,B,A,B,B,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,C,B,A,A,A,A,A,A,A,A,A,B
+Male,Chinese,Selangor,No,Diploma,Mostly B's,Never,Year 2 Trimester 3,2002,4,3,3,3.7038,A,A,A,B,B,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,B,A,A,B,A,A,A,A,B,B,B,B,B
+Female,Chinese,Malacca,Yes,Foundation in Science,Mostly B's,Often,Year 1 Trimester 3,2001,4,3,18,3.0114,C,C,B,B,C,B,A,B,A,B,B,B,A,A,A,B,C,A,A,C,B,B,C,A,A,A,C,F,B,B,C,B,B,B,A
+Female,Chinese,Perak,Yes,Foundation in Art,Mostly A's,Never,Year 2 Trimester 3,2002,4,4,-1,3.3818,B,B,C,B,B,B,A,A,A,A,A,A,A,A,A,B,C,B,A,A,A,B,B,B,B,A,B,B,B,A,A,B,B,C,B
+Male,Chinese,Sarawak,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 3,2002,4,5,0,3.0849,B,A,A,B,B,B,B,C,C,B,B,A,A,B,A,B,A,C,B,C,C,A,B,A,A,B,A,B,B,C,B,B,C,B,A
+Male,Chinese,Malacca,No,Foundation in Science,Mostly B's,Never,Year 2 Trimester 2,2002,3,3,7,3.3985,B,A,A,B,B,A,B,B,A,A,B,B,A,A,B,A,B,B,A,A,B,A,C,B,A,A,A,B,B,C,A,B,A,B,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 2,2001,3,3,-2,3.3709,A,B,B,A,B,B,B,A,B,A,B,B,A,A,A,B,A,B,A,A,B,B,A,B,A,B,B,A,B,B,A,B,A,B,A
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 1,2001,4,5,10,3.254,B,A,A,B,B,B,A,B,B,B,B,B,B,A,B,B,A,A,B,B,B,A,B,B,A,C,B,A,B,A,B,C,A,A,A
+Male,English,Sabah,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 2,2002,5,4,8,3.2106,B,B,B,C,B,B,A,B,B,B,B,B,A,B,B,B,A,B,B,B,A,C,A,A,B,B,B,B,B,B,C,C,A,A,A
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 3,2001,6,6,9,2.9912,B,B,C,B,B,C,B,B,C,A,A,A,B,B,B,A,F,B,A,C,B,A,A,B,B,B,C,B,B,B,B,B,B,B,B
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 1,2003,4,5,5,2.8408,B,B,B,C,B,B,C,B,B,B,F,B,B,B,B,A,B,A,A,B,C,B,B,A,B,B,B,A,C,C,B,B,B,A,C
+Male,English,Kelantan,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 1,2002,4,4,7,3.4591,B,A,B,B,A,B,A,A,A,A,A,A,A,B,A,B,A,B,A,A,B,A,B,C,B,A,B,A,B,B,A,A,A,B,B
+Male,English,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 2 Trimester 1,2003,3,3,4,3.6784,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,B,A,B,B,A,A,A,A,A,B,A,B,A,B,A,A,B
+Female,Chinese,Pahang,Yes,Foundation in Science,Mostly C's,Often,Year 2 Trimester 3,2001,3,3,3,2.6577,B,C,F,F,F,C,B,B,B,A,C,B,A,A,B,A,B,B,B,B,A,A,F,B,B,A,F,B,F,A,F,A,C,B,B
+Male,English,Sabah,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 2,2001,3,4,9,3.3968,B,A,A,B,A,C,A,A,B,A,B,A,A,B,A,A,A,A,A,A,B,A,B,C,A,C,B,A,A,B,B,A,B,B,A
+Female,Chinese,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Sometimes,Year 2 Trimester 2,2005,3,4,0,2.7644,B,C,F,C,B,C,B,B,B,A,C,A,A,A,B,F,B,A,B,A,B,B,B,B,A,B,C,A,F,A,A,B,A,B,F
+Female,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 3,2002,4,4,12,3.7153,A,A,A,A,A,A,B,B,B,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,A,C,A,A,B,A,B,A,A,A
+Male,Chinese,Penang,Yes,Diploma,Mostly B's,Never,Year 3 Trimester 1,2004,4,5,19,3.551,A,A,B,B,A,A,A,A,A,A,A,A,B,B,B,A,A,A,A,A,B,A,A,A,B,B,B,A,C,A,A,A,A,A,A
+Male,Chinese,Malacca,No,Foundation in Science,Mostly B's,Often,Year 3 Trimester 3,2001,3,5,-3,3.02,B,A,B,A,B,C,B,B,A,A,B,B,B,C,A,B,B,C,A,B,B,A,B,C,A,C,B,B,B,B,C,B,B,C,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 1,2002,3,3,12,3.5666,A,B,A,A,B,B,A,A,A,A,A,A,A,A,B,B,A,A,B,A,B,B,B,A,A,B,B,C,A,B,A,A,B,B,A
+Male,English,Kuala Lumpur,No,Foundation in Art,Mostly A's,Very Often,Year 3 Trimester 1,2001,3,4,6,2.5577,B,B,B,F,C,B,C,B,B,A,B,B,B,B,B,A,C,C,B,B,B,A,F,F,F,B,B,C,B,F,B,C,B,C,B
+Male,English,Perak,Yes,UEC (Unified Examination Certificate),Mostly C's,Sometimes,Year 3 Trimester 3,2002,5,4,-5,2.5358,C,B,C,B,B,F,C,C,B,B,B,B,C,B,C,B,B,C,B,B,B,C,A,C,C,C,F,B,C,B,B,B,B,B,A
+Male,Chinese,Malacca,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 2,2002,3,4,15,3.6922,A,B,B,A,A,B,A,B,A,A,B,B,A,B,B,B,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B
+Male,Chinese,Penang,Yes,Foundation in Art,Mostly A's,Often,Year 1 Trimester 3,2004,3,4,3,3.4699,B,A,B,A,B,B,A,B,B,A,B,B,A,A,B,A,A,A,A,A,B,A,A,A,A,A,C,A,B,B,A,A,B,C,B
+Male,Chinese,Sabah,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 1,2001,4,5,6,2.9009,C,A,B,B,B,B,B,B,B,B,A,A,B,B,A,C,A,B,B,B,B,B,C,F,A,C,B,A,A,B,C,A,C,C,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2002,4,4,14,3.3396,A,B,A,B,B,C,B,B,B,C,A,A,A,A,B,C,B,B,B,A,A,B,A,A,B,A,A,B,B,B,A,A,B,A,A
+Male,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Sometimes,Year 3 Trimester 1,2003,4,4,-1,2.9914,B,B,C,A,B,B,B,B,B,B,A,A,A,B,B,B,B,A,A,A,F,B,B,B,B,B,C,B,B,B,A,A,A,B,B
+Male,Chinese,Penang,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 2,2002,3,3,20,2.5722,C,A,C,B,F,B,B,B,B,A,B,B,B,C,B,C,C,F,A,B,B,B,B,F,A,C,A,C,C,C,C,C,C,B,B
+Female,Chinese,Sabah,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2004,3,4,3,3.0022,B,B,C,B,C,C,B,B,B,A,C,A,A,B,B,B,C,B,B,A,A,B,C,B,C,B,C,A,B,B,B,B,C,B,C
+Male,Chinese,Kedah,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 2,2002,4,4,11,3.8091,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,B,A,B,A,A,A,A,B,A,A,A,B
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly B's,Very Often,Year 3 Trimester 2,2003,4,4,13,2.8574,B,C,B,B,B,B,B,C,B,C,B,B,B,B,C,B,B,B,B,C,B,C,B,A,B,B,B,C,B,B,B,B,A,C,B
+Male,Chinese,Kelantan,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 2,2002,3,4,3,3.8977,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B
+Male,English,Penang,Yes,Diploma,Mostly B's,Sometimes,Year 3 Trimester 2,2001,4,4,13,3.1649,B,A,C,C,B,B,A,A,A,A,C,B,B,C,A,A,B,B,A,A,A,A,B,F,C,B,A,B,C,B,B,B,C,B,B
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly A's,Often,Year 1 Trimester 3,2003,3,4,14,3.8922,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A
+Female,Chinese,Kelantan,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 1,2002,5,4,6,3.8291,A,A,A,A,A,C,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,C,A,B,A,A,A,A,A,A,A
+Male,English,Perak,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 1,2003,5,4,10,3.1879,B,B,B,B,B,B,B,C,B,A,A,A,B,A,A,B,B,B,C,C,A,B,A,B,B,B,B,B,A,A,A,B,A,F,B
+Female,Chinese,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 3 Trimester 1,2000,5,4,14,3.6785,A,A,A,A,A,A,B,B,A,B,A,B,A,A,B,A,A,A,B,B,A,B,A,B,A,A,A,B,A,A,A,A,A,A,A
+Male,English,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Never,Year 1 Trimester 2,2003,3,4,-3,3.4509,B,B,A,C,A,A,A,A,A,A,B,B,A,A,B,A,A,A,C,B,B,A,A,A,A,C,A,A,A,B,B,A,B,A,A
+Male,English,Malacca,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 2,2000,3,3,18,3.7414,B,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,B,A,A,B,A,B,A,A,A,A,B,A,A,A,A,A,A,A,A
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly C's,Often,Year 3 Trimester 3,2003,4,4,3,1.9195,C,F,F,C,F,C,C,F,B,B,B,A,B,B,A,B,B,C,C,B,F,B,B,C,C,C,C,F,F,C,C,C,B,F,C
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 3 Trimester 2,2003,5,4,3,2.7349,B,C,B,B,C,C,B,B,C,A,A,A,B,B,C,A,C,C,C,C,C,A,C,B,B,C,C,B,B,B,B,B,B,B,B
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly C's,Sometimes,Year 3 Trimester 3,2003,3,4,9,2.4156,C,B,B,B,F,F,C,C,B,A,B,A,B,B,B,C,F,C,C,C,B,F,A,B,B,B,C,C,C,B,F,B,B,B,B
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 2,2003,4,4,17,3.7384,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,C,B,B,B,A,A,A,A,A,A,A
+Female,Chinese,Sarawak,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2003,4,5,4,3.2138,A,B,B,B,C,B,B,A,A,A,C,A,A,B,A,C,B,B,B,A,B,B,A,A,B,B,A,F,A,A,B,B,A,B,B
+Female,English,Selangor,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 1,2004,5,3,20,3.6269,B,B,A,B,A,A,B,A,A,A,A,A,A,A,C,B,B,B,B,A,A,A,A,A,A,B,A,A,A,B,B,A,A,A,A
+Male,Chinese,Sabah,Yes,UEC (Unified Examination Certificate),Mostly C's,Sometimes,Year 1 Trimester 2,2002,2,4,1,3.6327,A,A,B,B,A,B,A,A,A,A,B,A,A,B,A,A,A,B,A,A,B,A,A,B,B,A,B,A,A,A,B,A,A,A,A
+Male,Chinese,Selangor,Yes,Diploma,Mostly A's,Very Often,Year 1 Trimester 3,2003,3,5,-3,3.4481,B,A,A,A,B,B,B,B,A,A,A,A,A,A,A,B,B,A,A,A,B,A,A,A,B,B,B,A,B,A,B,B,B,A,A
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly A's,Very Often,Year 3 Trimester 3,2002,5,4,14,2.65,A,B,C,B,B,B,C,F,C,B,B,C,B,B,B,A,B,A,B,B,C,C,B,C,C,B,C,B,A,B,B,C,A,C,B
+Male,English,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 2,2002,3,4,7,3.7695,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,B,A,B,A,A,A,A,A,A,B,A,A
+Male,English,Sabah,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 1,2002,4,4,23,3.4934,A,B,B,A,A,A,A,B,A,A,A,B,A,A,B,A,A,B,A,A,B,C,A,B,A,A,B,A,A,B,A,C,A,A,B
+Female,Chinese,Perak,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 3,2002,3,4,17,3.1314,B,B,C,C,B,B,B,B,A,A,C,B,B,B,A,A,B,B,B,C,B,A,A,A,A,A,C,B,B,B,A,B,A,B,B
+Female,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly A's,Never,Year 2 Trimester 1,2001,3,4,-3,3.1944,B,C,A,B,B,B,B,A,B,B,B,A,A,A,C,A,B,B,A,C,B,A,B,A,B,A,B,B,B,A,B,A,A,B,B
+Male,Chinese,Perak,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 3 Trimester 3,2003,4,4,4,1.7321,F,C,C,C,F,B,C,C,C,C,C,B,C,F,B,C,B,F,C,B,B,B,C,F,B,F,B,C,C,F,F,C,F,F,C
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 3,2003,3,4,9,3.4538,A,A,B,B,B,A,A,A,B,A,A,A,A,B,B,B,B,B,A,A,B,B,A,A,B,A,A,A,A,B,A,A,B,A,B
+Male,English,Penang,Yes,Foundation in Art,Mostly A's,Often,Year 3 Trimester 2,2002,4,4,17,3.4332,B,A,A,A,B,A,A,B,B,B,A,A,A,A,B,A,A,B,A,A,B,A,A,C,B,B,A,B,B,B,B,B,A,B,A
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2001,3,5,17,3.1424,B,B,B,B,B,B,B,B,B,A,B,A,A,B,B,B,B,A,B,B,B,A,B,B,B,B,C,C,A,B,B,A,B,B,B
+Male,Chinese,Malacca,Yes,Foundation in Science,Mostly B's,Very Often,Year 1 Trimester 3,2003,3,3,17,3.7411,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,B,A,B,B,A,A,A,A,B,A,A,A,A,A,B,B,A,A,A,A
+Male,Chinese,Kuala Lumpur,No,Foundation in Science,Mostly C's,Often,Year 2 Trimester 3,2001,4,4,2,2.0938,C,B,C,F,F,C,B,C,B,B,F,C,B,B,B,C,C,C,B,B,B,C,C,B,C,C,B,F,F,B,A,F,C,C,F
+Male,English,Johor,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 1,1999,4,3,7,3.4306,B,A,B,B,A,C,A,B,A,A,A,A,A,B,A,B,B,A,B,B,A,B,B,B,B,B,B,A,C,A,A,B,A,A,A
+Male,Chinese,Perak,Yes,Foundation in Science,Mostly C's,Sometimes,Year 3 Trimester 1,2004,2,4,1,2.3042,C,F,C,B,C,C,C,B,A,B,C,B,B,C,B,B,C,F,A,F,C,F,B,C,B,B,C,B,C,B,A,F,C,C,B
+Female,English,Pahang,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 3,2004,4,4,9,3.7638,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,B,A,A,A,A,A,B,B,B
+Male,Chinese,Negeri Sembilan,Yes,UEC (Unified Examination Certificate),Mostly A's,Sometimes,Year 1 Trimester 3,2002,3,3,4,3.6927,B,A,A,A,A,A,A,A,A,A,B,A,A,A,B,B,A,A,A,A,B,A,B,A,A,A,A,A,A,A,A,B,A,A,B
+Male,Chinese,Selangor,No,Diploma,Mostly C's,Sometimes,Year 2 Trimester 3,2001,4,3,2,3.0452,B,A,B,C,C,B,B,B,B,B,B,A,A,A,A,B,B,C,A,A,B,B,A,C,B,A,B,B,C,C,A,B,A,C,F
+Male,Chinese,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 1,2000,3,3,12,3.3703,B,B,B,A,B,C,A,A,A,B,A,A,A,A,B,B,B,B,B,B,B,B,B,A,A,B,A,A,B,B,A,B,C,A,A
+Male,English,Johor,Yes,Diploma,Mostly A's,Sometimes,Year 2 Trimester 3,2002,4,4,3,3.8977,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 1,2000,4,4,10,3.7697,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,B,A,A,A,A,A,A,B,A,A,A,B,A,A,A,B,A,B,A,A
+Male,Chinese,Malacca,Yes,UEC (Unified Examination Certificate),Mostly B's,Never,Year 2 Trimester 1,2003,3,5,3,3.4705,C,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,C,B,A,B,A,B,B,C,B,B
+Male,Chinese,Sarawak,Yes,Foundation in Art,Mostly C's,Often,Year 2 Trimester 1,2001,4,4,5,3.0972,B,C,C,B,B,C,B,B,B,A,C,A,A,A,A,A,B,B,C,A,A,A,A,C,B,B,F,B,B,B,A,B,A,B,B
+Male,English,Pahang,Yes,Diploma,Mostly B's,Often,Year 3 Trimester 1,2002,4,6,15,3.6468,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,B,B,A,A,B,A,A,B,B,B,A,A,B,B,A,B,A,A,A
+Female,English,Kuala Lumpur,Yes,Foundation in Science,Mostly A's,Never,Year 1 Trimester 3,2004,5,3,6,3.8294,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,B,A,A,A,A,A,B,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2002,4,5,5,3.5588,A,A,B,B,B,B,A,A,A,A,A,A,A,A,A,B,B,B,A,A,A,A,A,A,A,C,B,B,B,A,A,B,A,B,B
+Male,English,Penang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 2,2000,5,3,14,3.2356,B,B,A,B,A,B,B,C,B,C,A,A,A,A,B,B,A,B,B,B,B,C,A,A,C,B,B,B,A,B,B,B,B,B,B
+Female,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 1,2002,3,4,11,3.6245,A,B,B,B,A,C,A,A,A,A,A,A,A,A,A,A,B,B,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,B
+Female,Chinese,Pahang,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 2,2003,5,4,14,3.7581,A,A,B,A,A,B,A,B,A,A,A,A,A,A,B,A,A,A,B,B,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A
+Male,English,Sarawak,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 2,2003,4,4,15,3.2306,B,B,A,B,B,B,A,B,B,B,B,B,B,B,B,B,B,B,B,B,B,B,A,A,B,A,B,A,A,B,B,B,A,B,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 3,2000,5,4,19,1.6715,B,F,C,F,C,C,C,F,C,F,F,F,C,F,C,B,C,B,F,C,C,F,B,C,F,C,C,C,B,C,F,C,C,B,C
+Male,English,Johor,Yes,Foundation in Art,Mostly A's,Very Often,Year 2 Trimester 3,2002,3,4,9,2.9997,C,B,C,B,B,B,B,A,A,A,A,B,B,B,B,A,B,A,A,A,B,C,B,C,B,B,C,C,C,B,B,B,C,C,C
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 1,2002,4,4,4,2.1448,B,C,F,F,C,F,C,C,C,B,B,B,B,B,C,B,C,B,C,F,C,C,F,C,B,C,C,B,B,B,A,C,F,C,B
+Female,English,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 2,2002,5,4,8,3.1653,B,A,C,A,B,C,A,A,B,A,B,B,B,B,B,B,B,B,B,A,B,A,B,B,A,B,C,B,B,A,A,B,B,C,B
+Female,Chinese,Malacca,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2001,3,3,2,3.5756,A,B,A,B,B,C,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,C,C,A,B,B,B,B,A,A,B
+Male,English,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 3,2001,4,3,15,3.7982,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,B,A,B,B,A,A,A,A,A,A,A,A,A,A,A,B
+Male,English,Sabah,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 3,2002,5,4,5,3.4047,A,A,B,B,A,B,A,A,B,A,A,A,A,B,B,B,B,B,A,A,A,B,B,A,B,A,B,B,B,B,C,C,A,B,B
+Male,Chinese,Johor,Yes,Foundation in Science,Mostly A's,Often,Year 1 Trimester 2,2001,2,3,7,3.7667,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,B,B,A,B,A,A,B,A,A,A,B
+Male,Chinese,Kedah,Yes,Diploma,Mostly A's,Very Often,Year 2 Trimester 1,2002,3,3,8,3.8351,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,B,A,A,A,A,A,A,A,B,A
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 1,2002,3,3,10,3.4333,A,B,B,B,A,B,B,B,B,A,B,B,A,B,B,A,A,A,B,B,A,A,B,A,B,A,B,B,A,B,A,B,A,B,A
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 1,2004,4,3,16,3.6614,A,A,A,B,A,B,A,B,A,A,A,A,A,A,A,B,A,B,A,A,B,A,A,A,A,B,B,A,A,A,A,B,A,A,A
+Male,English,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 2,2002,3,4,0,3.0904,B,B,B,B,B,B,B,C,B,B,C,B,B,B,C,B,B,B,C,A,B,A,B,A,B,B,B,B,B,B,B,B,A,A,B
+Male,English,Selangor,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 1,2003,4,4,8,3.6412,A,A,A,A,A,B,A,B,A,A,A,A,A,A,B,B,A,A,A,B,B,B,A,A,B,A,B,A,B,A,B,A,A,A,A
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2002,4,5,8,3.5472,B,A,B,B,B,B,A,A,A,A,A,A,A,A,A,B,A,B,A,B,A,A,A,A,B,B,A,B,C,A,B,A,A,A,C
+Male,Chinese,Perak,Yes,Foundation in Science,Mostly A's,Never,Year 2 Trimester 3,2003,4,5,-3,3.6359,A,B,B,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,C,A,A,B,A,B,A,A,B,A,B,A,A,B,B,A,A
+Male,English,Kedah,No,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 3,2002,3,4,-4,3.0544,C,A,A,B,C,B,B,A,B,A,B,A,A,A,B,A,C,A,A,A,C,A,B,C,B,C,A,B,C,C,B,C,A,B,B
+Male,English,Perak,Yes,Foundation in Art,Mostly A's,Very Often,Year 3 Trimester 3,2004,4,4,10,3.0232,B,B,A,C,C,B,A,A,B,B,B,A,B,B,B,B,A,B,A,B,A,A,B,C,C,F,C,B,C,B,B,A,B,B,B
+Male,English,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 3,2003,3,4,5,3.3737,B,A,B,B,A,C,A,A,A,B,A,A,A,B,A,B,B,B,A,B,B,B,A,B,A,B,A,A,B,A,B,B,B,A,B
+Male,English,Selangor,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 2,2002,5,4,16,3.2415,A,B,B,A,B,A,B,C,B,B,B,B,B,B,C,A,A,B,B,B,C,B,A,B,B,A,A,A,A,A,B,B,B,A,B
+Female,Chinese,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 3,2003,3,3,10,3.3109,A,C,B,B,B,B,A,B,A,B,B,B,B,B,C,B,B,A,A,A,A,B,A,C,A,B,B,B,B,A,C,A,A,A,A
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly C's,Very Often,Year 2 Trimester 1,2004,3,3,15,3.2705,B,A,B,B,B,C,A,A,A,B,A,A,A,B,B,B,A,B,A,A,B,C,B,B,B,C,A,B,C,B,A,B,A,A,C
+Female,Chinese,Malacca,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 3,2001,3,4,9,3.2649,B,B,B,C,B,B,A,A,A,A,B,A,A,A,A,B,C,B,A,A,B,A,B,B,B,B,B,B,B,B,C,A,C,A,B
+Male,English,Malacca,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 1,2000,3,4,0,3.7867,A,A,A,B,A,B,A,A,A,A,A,A,A,A,B,B,A,A,A,B,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A
+Female,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 1,2000,4,4,10,3.7235,A,A,A,A,A,B,A,A,B,B,B,A,A,A,C,A,A,A,A,A,A,B,A,A,B,A,A,A,A,B,A,C,A,A,A
+Male,English,Perak,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 1,2003,4,4,15,2.7803,B,C,C,C,B,C,B,C,B,B,B,A,B,B,C,C,F,A,B,C,C,B,B,B,B,B,B,A,C,B,B,B,A,A,B
+Female,English,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 2,2002,4,4,15,3.6494,B,A,A,B,A,B,A,A,A,A,A,A,A,B,A,C,A,A,A,B,A,A,B,A,B,B,A,A,B,A,C,B,A,A,A
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 1,2003,4,4,4,3.7779,A,A,A,C,A,B,A,A,A,A,A,A,A,A,A,B,B,A,B,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A
+Male,Chinese,Sabah,Yes,Foundation in Art,Mostly C's,Sometimes,Year 1 Trimester 2,2003,3,4,1,3.7921,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,A,B,B,A,A,A,B,A,A,B
+Male,Chinese,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 2,2000,3,4,11,3.5397,A,A,A,A,A,B,B,B,B,A,A,A,A,A,A,B,B,A,B,A,B,A,A,A,A,A,A,B,A,A,A,B,A,A,A
+Male,Chinese,Pahang,Yes,UEC (Unified Examination Certificate),Mostly A's,Sometimes,Year 3 Trimester 1,2003,4,5,15,3.3594,B,B,A,A,A,B,B,B,B,B,A,A,A,A,B,B,A,A,B,C,B,B,A,A,B,A,A,C,A,B,A,A,B,A,B
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 1 Trimester 3,2003,3,4,3,3.869,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,B,A,A,A,B,B,A,A,A,A,A
+Male,Chinese,Johor,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 2,2003,5,4,4,2.6612,C,B,F,C,C,B,A,B,B,B,B,B,B,A,A,B,A,F,B,B,B,B,B,A,C,C,C,C,F,A,C,A,A,F,A
+Female,Chinese,Negeri Sembilan,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 3,2002,3,3,6,3.4105,B,A,B,B,B,A,A,A,A,B,B,A,A,A,A,B,A,B,C,B,A,A,A,A,A,B,F,A,B,B,A,B,B,A,B
+Female,Chinese,Penang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 2,2002,4,3,10,3.6191,A,B,A,A,A,B,A,A,B,A,A,A,A,B,B,B,B,B,B,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 2,2002,3,4,3,3.479,A,B,B,B,A,B,B,B,B,A,A,B,A,A,B,A,B,A,B,A,A,A,A,A,B,A,B,B,B,A,A,B,A,A,C
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 2,2002,4,4,-9,3.0762,B,B,B,B,C,B,B,B,C,B,A,A,A,A,B,B,B,C,A,B,C,B,A,B,A,B,A,A,A,A,C,F,A,B,C
+Male,English,Sabah,Yes,Diploma,Mostly B's,Often,Year 1 Trimester 2,2004,3,5,6,3.7585,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,A,B,A,B,B,A,A,A,A,B,A,A,A,A,B,A,A
+Female,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 3 Trimester 1,2004,4,4,0,3.4677,B,B,A,B,B,B,A,B,A,B,B,A,A,A,C,A,B,A,B,A,B,A,A,A,A,A,B,A,A,A,B,A,A,B,A
+Male,English,Sarawak,Yes,Foundation in Art,Mostly A's,Very Often,Year 2 Trimester 3,2001,4,4,2,2.8034,B,A,B,B,B,C,C,B,C,B,A,A,A,B,B,B,C,B,B,B,C,A,C,B,C,B,B,B,C,B,C,A,B,A,F
+Male,English,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 1 Trimester 3,2005,4,4,5,3.3535,B,A,B,C,B,B,B,A,A,B,B,A,A,B,B,A,B,B,A,A,A,B,B,A,A,B,B,A,B,B,B,B,B,B,A
+Male,Chinese,Negeri Sembilan,No,Foundation in Science,Mostly C's,Sometimes,Year 2 Trimester 3,2002,4,4,6,2.3843,F,B,B,B,C,B,B,B,B,C,B,A,B,B,C,B,C,F,F,B,C,A,C,B,C,F,B,C,C,C,C,B,B,B,B
+Male,English,Sabah,Yes,Foundation in Science,Mostly A's,Often,Year 1 Trimester 2,2003,4,5,-1,3.9062,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,A,A,A,A,A,A,A,A
+Male,Chinese,Selangor,No,Foundation in Art,Mostly B's,Often,Year 2 Trimester 3,2004,4,4,8,3.3736,A,B,B,C,B,A,A,B,A,A,B,B,B,A,B,A,B,B,A,B,B,A,B,B,B,A,A,A,B,A,A,A,B,B,A
+Male,Chinese,Johor,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2001,4,3,6,3.5015,B,B,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,C,B,A,B,A,C,A,A,B,A,A,A,A,B,B,B,B,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 3,2002,3,4,12,2.615,B,B,C,C,B,C,B,C,B,A,F,C,B,C,C,B,B,B,F,A,B,B,C,B,B,C,A,A,C,B,C,B,F,B,B
+Male,Chinese,Penang,Yes,Foundation in Science,Mostly C's,Often,Year 3 Trimester 3,2002,5,4,-7,2.8746,B,B,C,B,B,B,B,A,C,A,C,A,A,B,A,A,C,B,C,A,B,B,F,A,B,C,C,B,B,B,B,C,C,C,B
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 3,2003,3,5,6,3.34,B,A,A,B,B,B,A,B,A,A,C,B,A,B,A,A,B,A,A,B,B,A,B,B,B,B,A,B,A,B,B,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Never,Year 1 Trimester 2,2002,3,4,-2,3.536,A,A,A,B,C,C,A,A,A,A,B,A,A,A,A,A,C,A,A,A,A,A,A,A,C,A,A,C,C,A,A,A,A,A,C
+Male,English,Penang,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 3,2000,4,5,-2,2.7693,C,B,B,B,B,B,C,C,A,B,B,A,B,C,B,B,A,B,B,C,C,A,B,F,C,B,B,A,B,B,F,A,B,A,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 1,2003,3,3,3,3.3727,B,B,C,B,A,B,B,B,B,A,A,A,A,B,A,B,B,A,B,B,B,A,A,B,A,B,C,B,B,A,A,A,B,A,B
+Male,Chinese,Malacca,No,Diploma,Mostly A's,Sometimes,Year 1 Trimester 3,2003,5,4,10,3.7438,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,A,A,B,A,A,A,B,A,A,A,A,A,B,A,B,A,B
+Female,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 2,2002,3,4,16,3.7377,A,B,A,A,A,A,B,B,A,A,A,A,A,A,B,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,B,A
+Male,Chinese,Selangor,No,Foundation in Science,Mostly C's,Often,Year 2 Trimester 3,2004,3,5,1,3.0707,C,A,B,B,B,B,B,B,B,A,C,A,B,B,A,A,C,B,A,A,B,A,B,C,B,B,C,B,B,C,A,B,B,C,C
+Male,Chinese,Perak,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 2,2003,4,4,14,1.6381,F,C,B,C,C,B,F,F,F,B,B,B,B,B,B,F,B,B,C,F,F,B,C,F,C,B,F,F,B,C,F,C,B,C,C
+Female,English,Perak,Yes,UEC (Unified Examination Certificate),Mostly A's,Never,Year 2 Trimester 2,2004,3,4,11,3.6984,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,C,A,B,B,B,A,A,B,A,A
+Male,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Often,Year 3 Trimester 2,2002,4,4,8,2.2164,B,F,F,C,C,C,B,B,A,B,C,C,B,B,B,A,B,B,F,B,F,B,B,B,B,B,B,C,B,C,C,C,F,F,B
+Male,Chinese,Penang,Yes,UEC (Unified Examination Certificate),Mostly C's,Often,Year 2 Trimester 3,2002,3,5,5,2.4453,B,F,B,B,B,C,C,B,B,B,F,C,C,C,B,C,C,B,C,B,B,B,B,B,B,A,C,B,B,B,B,C,B,B,F
+Male,English,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2003,4,4,12,2.3812,B,C,F,B,C,B,C,C,B,B,C,C,B,B,C,C,B,C,C,F,B,C,B,B,C,B,C,C,B,C,B,F,B,B,C
+Male,Chinese,Perak,No,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2002,4,4,-3,2.4951,C,B,C,C,C,B,B,B,B,B,F,B,B,C,A,B,C,C,B,B,B,B,C,C,B,C,B,C,F,B,C,B,F,C,B
+Male,English,Negeri Sembilan,Yes,Diploma,Mostly A's,Sometimes,Year 3 Trimester 2,2001,5,4,4,2.9686,B,A,B,B,B,B,B,C,B,B,A,A,B,B,C,B,A,B,F,B,C,C,A,B,A,A,B,B,B,A,B,C,A,A,C
+Male,English,Johor,Yes,Foundation in Science,Mostly C's,Never,Year 3 Trimester 1,2001,3,3,7,3.3621,B,A,B,A,B,B,A,A,A,A,B,A,B,B,A,A,B,B,A,A,A,A,B,B,A,C,C,B,B,C,C,B,B,A,A
+Female,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 1 Trimester 3,2002,2,4,9,3.8661,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,C,A,A,A,A,A,A,A,A,A
+Female,English,Negeri Sembilan,Yes,Diploma,Mostly A's,Very Often,Year 3 Trimester 1,2003,4,3,13,2.9911,B,C,B,B,C,C,A,B,A,A,B,A,A,A,B,B,B,B,A,C,C,A,A,B,A,C,B,B,C,A,C,F,C,B,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 1,2003,3,4,-2,1.1167,F,F,F,F,F,F,F,C,C,C,F,B,C,F,C,C,F,C,B,B,F,F,F,C,F,C,F,B,F,C,B,F,C,C,C
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2002,4,4,0,2.3562,F,B,C,C,C,B,B,C,B,A,B,B,B,B,C,C,F,C,C,B,B,B,C,B,C,B,F,C,B,B,A,B,C,F,C
+Female,Chinese,Kelantan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Alumni,2003,2,3,7,3.7066,B,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,B,A,B,A,A,A,B,B,A
+Male,English,Pahang,Yes,UEC (Unified Examination Certificate),Mostly B's,Never,Year 3 Trimester 3,2003,3,5,3,3.0913,A,B,B,B,B,B,C,B,B,B,A,B,B,A,B,B,C,B,C,B,B,C,A,A,B,B,A,B,B,A,B,A,B,B,B
+Female,Chinese,Pahang,No,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2002,4,4,11,2.8403,B,B,C,C,C,C,A,B,A,B,C,B,B,A,C,A,B,C,C,A,A,B,C,A,B,C,C,C,C,C,B,B,C,C,B
+Female,English,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Never,Year 1 Trimester 2,2001,3,5,8,3.7245,B,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,C,A,A,A,A,A,A,A,A
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2000,3,3,12,3.4479,A,A,B,A,A,B,A,A,A,A,B,B,A,B,A,A,B,B,A,A,B,A,A,B,B,A,B,B,A,B,B,C,A,A,B
+Male,English,Kelantan,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2003,4,4,10,3.5134,B,A,A,A,A,A,A,B,A,B,A,A,B,B,B,B,A,A,A,A,A,A,B,B,B,B,A,B,C,B,A,B,A,A,A
+Female,Chinese,Kedah,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 2 Trimester 2,2003,3,3,6,3.4732,B,A,B,A,A,B,A,A,A,A,C,B,A,B,A,B,A,A,A,A,A,A,A,C,B,B,B,A,B,B,A,C,A,A,C
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 1,2005,4,4,-4,3.7609,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,B,A,B,A,A,A,B,B,A,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 1,2002,3,4,6,1.5329,F,C,B,B,F,F,C,F,C,C,F,B,C,F,C,B,C,B,C,C,F,B,F,C,C,F,B,F,B,F,B,B,F,B,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 1,2004,3,4,6,1.7627,C,C,C,C,F,B,F,F,F,B,C,B,C,C,F,C,C,F,C,C,C,B,B,C,B,F,C,C,B,C,F,C,C,C,C
+Male,English,Sabah,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 3,2003,3,5,6,3.1765,A,A,B,B,B,B,C,B,B,A,C,B,B,B,B,B,B,A,C,A,B,B,B,B,A,B,B,B,A,A,A,B,B,B,B
+Male,Chinese,Penang,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 3,2001,3,4,-2,3.3373,B,A,B,A,B,C,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,F,B,C,B,A,B,C,B,B
+Male,Chinese,Kedah,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 2,2002,4,5,7,3.3536,A,A,B,A,A,C,A,B,A,A,C,B,B,C,B,A,A,C,C,A,A,B,C,C,A,A,B,B,A,B,A,A,A,A,A
+Male,English,Kedah,Yes,Diploma,Mostly B's,Sometimes,Year 2 Trimester 3,2002,3,4,6,3.5337,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,B,A,B,B,B,B,C,A,C,A,B,A,A
+Male,Chinese,Malacca,No,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2001,4,3,0,3.0002,F,A,B,A,B,B,B,A,A,A,A,A,A,A,A,C,A,F,A,A,A,B,A,A,A,A,B,F,F,F,B,C,C,B,B
+Female,Chinese,Perak,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 2,2004,4,4,4,3.4865,B,B,B,A,B,B,A,B,B,A,B,A,B,B,B,A,A,B,A,A,A,B,B,A,B,B,A,A,B,B,B,B,B,A,A
+Male,Chinese,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 3 Trimester 3,2001,4,4,7,3.2254,B,B,B,A,B,C,B,B,B,A,A,A,A,A,A,A,B,B,A,B,B,B,B,B,B,A,B,B,C,A,A,B,B,B,B
+Male,English,Kedah,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 3,2003,5,4,14,3.219,B,A,B,A,B,A,B,B,B,A,A,A,A,B,B,B,B,B,B,B,C,A,B,B,B,A,B,B,A,B,B,B,C,A,B
+Female,English,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 2,2004,4,5,13,3.2703,B,B,B,A,B,B,B,B,B,B,A,A,A,A,B,B,B,A,B,B,B,A,B,A,A,B,B,B,A,B,A,B,C,B,C
+Male,English,Malacca,Yes,Foundation in Art,Mostly C's,Often,Year 3 Trimester 3,2004,5,4,13,3.1562,B,A,C,A,B,B,B,B,B,A,B,B,B,C,A,A,F,B,A,A,A,A,B,A,A,C,C,B,B,B,C,B,B,C,B
+Male,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 3,2004,4,4,0,2.9774,C,B,B,B,B,C,B,A,A,A,B,B,A,C,C,A,B,A,A,A,A,B,C,B,F,C,B,C,C,C,B,A,C,A,C
+Male,Chinese,Penang,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2003,3,4,-2,2.5948,F,C,B,C,C,A,B,A,B,B,C,B,A,B,A,C,C,C,B,A,B,C,F,A,F,C,A,C,C,C,C,C,B,C,B
+Male,English,Selangor,Yes,Foundation in Art,Mostly C's,Sometimes,Year 3 Trimester 2,2003,4,4,11,1.7838,F,C,B,C,F,F,C,F,B,B,C,B,B,B,C,B,B,F,A,C,F,B,C,C,C,C,C,B,C,F,B,C,B,F,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 1,2001,4,4,6,2.8429,B,B,B,B,C,B,B,B,B,B,B,B,B,B,C,A,B,C,B,B,C,A,B,B,B,B,B,B,B,B,C,A,C,C,C
+Male,English,Malacca,No,Foundation in Art,Mostly C's,Often,Year 3 Trimester 2,2004,3,4,-1,1.7434,F,B,F,C,F,C,F,C,C,B,C,B,C,F,B,B,F,F,A,B,B,B,C,F,C,C,C,F,B,C,C,F,B,F,C
+Female,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 2,2003,3,3,-1,3.4762,A,A,B,A,A,B,B,B,A,A,A,A,A,A,A,A,A,A,C,A,B,B,A,A,C,A,B,B,A,B,A,A,A,B,C
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 1,2002,3,4,8,3.755,A,A,A,A,A,B,A,B,A,A,A,A,A,A,B,A,B,B,A,B,A,B,A,A,B,A,B,A,A,A,A,A,A,A,A
+Male,English,Negeri Sembilan,Yes,Diploma,Mostly B's,Very Often,Year 2 Trimester 2,2005,3,3,10,3.154,B,A,B,A,B,A,B,B,A,A,C,B,B,B,B,A,B,A,B,A,B,A,C,B,B,B,C,B,B,A,B,B,C,B,B
+Male,Chinese,Kedah,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2001,3,3,7,3.251,B,B,B,C,C,B,A,A,A,A,B,A,A,A,B,B,A,A,A,B,A,B,A,C,B,C,A,A,B,F,A,A,B,C,B
+Female,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 2 Trimester 1,2000,4,3,3,2.9484,B,B,C,C,B,C,A,B,B,C,C,A,B,B,A,C,B,A,C,C,B,B,B,B,B,C,A,B,B,B,C,C,A,A,B
+Female,Chinese,Perak,No,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2000,3,3,2,2.9549,C,B,B,C,B,B,B,A,B,B,B,A,B,B,B,B,A,B,A,B,B,B,C,B,B,B,A,B,C,B,A,C,B,B,C
+Female,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Very Often,Year 1 Trimester 2,2003,4,4,0,3.9236,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Male,English,Kelantan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Never,Year 3 Trimester 1,2003,3,3,-8,3.7863,B,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,B,A,B,A,B,A,A,A,A,B,A
+Female,English,Negeri Sembilan,No,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 3,2001,3,4,8,3.0287,B,B,B,B,B,A,B,C,B,A,A,A,A,A,B,B,B,A,C,C,B,C,B,B,A,B,B,C,B,A,B,C,C,A,C
+Male,Chinese,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 3,2003,3,4,15,3.7043,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,B,A,A,A,A,A,B,C
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly B's,Very Often,Year 2 Trimester 1,2004,4,4,1,3.5497,A,A,A,B,A,B,B,B,B,B,B,A,A,B,B,B,B,A,B,A,A,B,B,A,A,A,A,A,B,A,B,A,A,B,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 1,2002,4,4,13,3.4103,A,A,A,B,C,C,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A,C,A,C,F,A,A,C,B,C,A,C,A,A
+Male,English,Kelantan,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 2,2002,3,3,3,3.6931,A,A,A,B,A,A,A,A,A,B,A,A,A,A,A,A,B,A,A,A,B,B,A,A,A,A,A,A,A,A,A,B,B,A,A
+Male,English,Sabah,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 3,2003,5,5,16,3.7384,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,B,A,B,A,A,A,A,B,B,A,A,A,C,A,A,A,A,A
+Male,Chinese,Kedah,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 1,2003,4,4,6,3.6366,A,A,A,A,A,B,A,B,A,A,A,B,A,A,B,A,A,A,A,B,A,B,A,A,A,A,A,A,B,C,A,A,A,A,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 3,2002,4,4,15,2.2538,B,F,C,B,F,C,B,B,B,B,B,B,A,B,A,B,A,B,F,F,F,C,C,B,B,A,B,F,C,C,B,B,B,C,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 1 Trimester 3,2002,3,4,5,3.6587,A,A,A,A,A,B,A,A,A,B,A,A,A,A,B,B,B,A,A,A,A,A,A,A,A,C,B,B,A,A,B,A,A,B,A
+Male,English,Sarawak,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 2,2004,5,4,6,2.3297,B,B,F,C,C,F,C,B,B,A,B,A,B,F,B,B,C,C,A,A,C,A,F,B,B,F,C,B,F,C,B,B,F,C,C
+Male,English,Selangor,Yes,Foundation in Science,Mostly C's,Sometimes,Year 2 Trimester 3,2001,4,4,7,2.7119,C,C,B,B,B,B,B,B,B,B,C,B,A,C,C,A,C,C,A,B,B,C,B,C,C,C,A,B,B,F,B,A,F,A,C
+Female,Chinese,Kelantan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Never,Year 3 Trimester 1,2002,3,4,-3,3.6191,A,A,B,A,B,C,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,B,B,A,A,A,B,A,A,C,A
+Female,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 3,2000,4,4,17,3.5791,B,B,B,A,A,B,A,A,A,A,A,A,A,A,B,B,A,B,A,A,B,B,A,B,A,A,A,A,A,A,A,B,A,A,A
+Male,English,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2003,4,4,11,3.36,B,B,A,B,A,A,B,A,A,A,B,B,B,B,A,A,B,B,A,A,A,B,B,B,C,A,B,B,A,B,A,A,A,B,B
+Male,Chinese,Perak,Yes,Foundation in Science,Mostly B's,Sometimes,Year 1 Trimester 3,2003,2,3,3,3.0916,C,A,B,A,B,B,B,A,A,A,B,A,A,A,A,B,F,B,A,A,C,A,B,B,A,C,C,B,C,A,B,B,B,A,B
+Male,Chinese,Penang,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2001,4,4,14,3.4868,B,A,B,A,A,A,B,B,A,A,C,A,B,B,B,B,A,B,A,A,B,B,B,A,A,B,B,A,A,A,A,A,A,B,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 2,2004,5,3,8,3.405,A,A,B,B,A,B,B,B,C,B,A,A,A,A,A,A,B,B,B,B,B,B,A,A,A,A,B,B,A,A,A,B,A,A,B
+Female,English,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2002,4,4,13,2.8906,B,B,B,B,B,B,C,C,C,B,B,A,B,B,C,C,A,A,B,B,B,B,B,C,C,B,B,B,B,B,A,F,C,C,B
+Male,Chinese,Selangor,No,Foundation in Art,Mostly A's,Very Often,Year 3 Trimester 1,2003,4,5,10,3.4678,A,A,B,B,B,A,A,B,A,B,C,B,B,B,B,B,A,A,A,B,A,B,A,A,A,A,A,A,A,A,B,B,B,A,B
+Female,Chinese,Johor,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 1,2001,4,4,11,3.9002,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A
+Male,English,Selangor,No,Diploma,Mostly B's,Often,Year 3 Trimester 1,2003,4,4,4,2.4155,C,B,C,C,F,B,C,C,C,A,B,B,B,B,B,C,C,C,A,B,C,C,B,C,B,B,B,C,B,B,F,C,B,C,C
+Female,English,Kelantan,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2004,3,4,0,3.7497,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,C,B,A,A,A,B,B,A,A,A
+Male,Chinese,Perak,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2004,4,4,0,2.7203,B,B,F,B,B,B,B,B,B,A,B,B,B,C,B,B,A,B,A,B,B,B,C,F,B,A,B,B,C,B,F,B,C,C,F
+Male,English,Kuala Lumpur,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 2,2003,5,5,3,3.7609,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,B,B,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,B,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Very Often,Year 2 Trimester 3,2004,4,4,6,1.9656,C,C,B,C,C,B,F,F,C,C,F,C,C,F,F,B,B,B,C,C,C,B,C,F,C,B,C,C,C,B,B,C,B,B,C
+Female,Chinese,Kelantan,Yes,Foundation in Science,Mostly A's,Never,Year 2 Trimester 1,2001,4,4,13,3.7782,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,B,A,A,A,B,B,A,A,A
+Female,English,Penang,Yes,Diploma,Mostly A's,Sometimes,Year 2 Trimester 2,2000,4,4,7,2.8579,B,B,C,B,C,F,B,B,B,B,B,B,A,A,B,B,C,A,B,B,C,B,C,C,B,A,B,A,B,B,A,C,A,A,B
+Female,English,Sabah,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 2,2002,4,2,10,3.3707,B,B,B,A,B,B,B,C,B,A,A,A,A,A,A,B,B,B,B,B,A,A,B,A,A,B,B,B,B,A,A,A,A,B,B
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Year 1 Trimester 3,2003,3,4,10,3.6302,A,B,A,B,A,B,A,A,A,A,A,A,A,A,C,B,B,B,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Male,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 1,2004,4,5,2,3.0053,B,A,F,B,B,B,B,B,B,A,B,A,B,B,B,A,B,C,A,B,C,A,A,B,C,B,B,B,C,B,A,B,B,A,C
+Male,English,Selangor,No,Foundation in Science,Mostly B's,Never,Year 3 Trimester 2,2003,4,5,0,2.8609,A,A,B,B,C,C,B,C,C,A,B,A,A,B,A,A,B,B,A,C,C,A,C,B,F,C,A,B,B,B,B,B,C,A,B
+Male,English,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 2 Trimester 2,2003,4,4,11,3.6214,A,B,B,C,A,B,A,B,B,A,A,A,A,A,B,A,A,A,A,A,A,A,B,B,A,A,B,A,A,A,B,A,A,A,B
+Male,Chinese,Penang,Yes,Foundation in Science,Mostly A's,Very Often,Year 3 Trimester 1,2001,4,5,14,3.949,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Never,Year 2 Trimester 1,2003,3,5,2,3.8697,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Female,English,Penang,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 2,2004,4,3,9,3.2852,A,B,C,B,B,B,B,B,B,A,A,A,A,B,C,A,A,B,B,A,A,B,A,A,A,B,B,B,C,A,B,C,A,B,B
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 2,2002,4,4,8,2.5902,B,C,C,C,B,F,B,C,B,B,B,A,A,B,B,F,C,B,B,B,A,C,B,B,B,F,C,C,A,C,C,B,C,A,C
+Male,Chinese,Malacca,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 1,2001,4,3,6,3.371,A,A,B,B,B,C,A,B,B,B,B,B,A,A,A,A,A,A,A,B,A,A,B,B,A,A,C,A,B,B,B,C,B,A,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 2 Trimester 3,2001,4,6,2,3.4218,A,A,B,B,A,B,B,B,B,A,A,B,A,A,A,B,B,A,B,B,B,A,A,B,A,A,A,B,A,A,A,B,C,B,B
+Male,Chinese,Kelantan,Yes,Foundation in Science,Mostly A's,Never,Year 3 Trimester 1,2003,4,4,3,3.5077,B,B,A,A,B,A,A,B,A,A,B,A,A,A,A,A,B,A,B,A,B,A,A,A,B,A,A,A,C,B,A,A,A,B,B
+Male,Chinese,Penang,No,Diploma,Mostly A's,Very Often,Year 3 Trimester 2,2003,4,3,17,3.1455,C,A,B,B,A,A,B,B,A,A,B,B,A,B,B,C,A,B,A,B,A,A,B,F,B,C,B,A,B,C,A,B,B,B,C
+Male,English,Kuala Lumpur,No,Foundation in Science,Mostly C's,Often,Year 3 Trimester 3,2002,5,4,6,1.9087,C,C,C,C,F,C,B,C,C,C,B,B,C,C,B,C,B,F,F,F,C,C,B,B,C,B,F,C,C,F,B,C,C,C,C
+Male,English,Kelantan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 3 Trimester 2,2002,4,4,14,3.8468,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A
+Male,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 2,2003,3,4,-1,3.8267,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,B,A,A,A,A,B,A,A,A,A,A,A,A,A
+Male,English,Negeri Sembilan,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 3,2001,4,4,6,3.439,B,A,A,A,B,B,A,A,B,A,A,A,A,B,B,B,B,A,A,A,B,A,B,A,B,B,B,A,C,A,B,B,B,A,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2002,4,4,-4,3.6637,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A,B,A,A,B,B,B,A,A,A,C,A,B,A,A,B,A,B,A
+Female,English,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 1,2003,4,4,8,3.6466,B,B,A,A,A,B,A,A,A,A,B,A,A,A,B,B,C,A,A,A,A,A,A,A,B,B,B,A,C,B,A,A,A,A,A
+Male,English,Perak,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 1,2002,4,3,17,3.089,B,B,B,B,B,A,B,B,B,B,B,B,A,A,B,B,B,B,B,B,B,B,A,C,B,A,A,A,C,A,B,C,A,B,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly C's,Often,Year 1 Trimester 3,2003,3,4,3,3.3685,A,A,B,B,B,B,B,A,A,A,B,B,A,A,A,A,C,A,A,A,A,A,C,C,A,B,B,B,A,B,A,B,A,B,B
+Male,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Sometimes,Year 3 Trimester 1,2001,4,4,8,3.5409,B,B,A,B,B,B,A,A,A,B,B,B,A,A,A,B,A,A,A,B,B,A,A,B,B,B,B,A,B,A,B,A,A,A,A
+Male,English,Sarawak,Yes,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 3,2003,4,4,-3,2.6301,B,A,B,A,C,F,B,C,B,B,B,A,B,B,A,A,B,B,A,B,B,A,B,B,F,F,B,B,C,C,C,F,A,B,F
+Male,Chinese,Sarawak,No,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 3,2002,4,5,5,2.7007,A,B,B,B,B,B,C,C,B,A,B,B,B,C,C,B,B,B,B,F,F,B,A,C,B,B,C,B,A,A,B,C,A,A,B
+Male,English,Selangor,Yes,Foundation in Science,Mostly C's,Often,Year 3 Trimester 1,2002,5,3,3,3.1368,B,B,C,A,B,B,B,C,C,B,A,A,A,A,A,B,B,A,B,B,B,B,B,A,A,B,B,A,A,C,A,C,B,C,B
+Male,Chinese,Sarawak,No,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 2,2003,4,4,8,3.5411,B,B,A,B,A,B,A,B,A,B,A,A,A,A,B,B,A,A,B,C,B,B,A,A,A,A,A,B,A,B,B,A,A,A,A
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 1,2003,3,4,5,3.1793,B,B,A,B,B,F,A,A,A,A,C,A,B,B,B,B,B,A,A,C,B,A,B,B,C,A,B,A,B,B,B,A,B,C,B
+Female,Chinese,Perak,No,Diploma,Mostly A's,Very Often,Year 2 Trimester 1,2001,4,3,12,3.7665,A,A,A,A,A,A,B,A,B,A,B,A,A,A,A,A,A,A,B,A,A,B,A,A,B,B,A,A,A,A,A,A,A,B,A
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly C's,Often,Year 3 Trimester 3,2002,4,3,1,2.1329,B,C,F,C,F,C,C,C,B,B,C,B,B,B,C,C,B,B,B,C,F,B,B,B,C,A,F,F,B,B,B,C,C,F,C
+Male,Chinese,Sabah,Yes,UEC (Unified Examination Certificate),Mostly B's,Very Often,Year 2 Trimester 2,2003,3,4,3,2.8409,C,C,B,B,B,B,B,A,A,B,B,B,A,A,A,B,B,B,A,B,F,B,B,F,A,F,A,A,A,A,C,A,A,B,B
+Female,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 1 Trimester 2,2003,3,3,5,3.8721,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,B,A,A,A,A,A,A,A,A
+Male,Chinese,Penang,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2000,4,3,18,3.105,B,C,B,C,B,B,B,B,B,B,A,A,A,A,C,B,B,C,A,C,B,A,A,B,B,C,B,B,B,B,A,B,A,B,B
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 2,2001,5,4,9,3.336,B,A,B,A,B,B,A,B,B,A,A,A,A,B,A,A,C,F,A,A,A,B,B,A,B,B,B,B,B,B,B,A,A,A,C
+Male,English,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Never,Year 3 Trimester 2,2004,4,3,1,3.7183,A,A,B,A,A,B,A,A,B,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,B,A,A,A,A,A,B,B,A,A,A
+Male,Chinese,Sarawak,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 2,2002,4,4,3,3.2421,B,B,B,B,B,B,B,B,B,B,A,A,A,A,B,B,B,B,C,B,A,B,A,B,A,B,C,B,A,A,B,B,A,B,C
+Female,English,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2002,5,5,-2,3.1562,A,C,C,B,B,B,B,B,B,A,A,A,A,A,A,B,A,B,C,B,B,C,B,B,B,B,B,B,C,B,A,B,B,B,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 3 Trimester 1,2002,4,4,5,2.0871,B,C,B,C,C,F,C,C,B,C,C,C,C,F,C,C,B,C,F,C,C,C,B,B,C,C,F,C,C,C,F,C,C,B,B
+Female,English,Selangor,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 3,2003,5,4,14,2.4135,B,C,B,B,F,C,B,C,B,B,B,B,B,C,B,B,B,B,C,B,B,C,C,A,F,C,C,B,B,C,C,B,F,C,B
+Male,Chinese,Perak,Yes,UEC (Unified Examination Certificate),Mostly C's,Never,Year 1 Trimester 2,2003,1,4,-2,3.7607,B,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,C,A,B,A,A,B,A,B,A,A,A,A
+Male,Chinese,Penang,No,Foundation in Art,Mostly C's,Often,Year 3 Trimester 1,2002,4,4,8,2.1511,C,C,F,B,F,B,A,B,A,A,B,B,A,B,C,B,B,B,B,F,C,C,C,C,F,C,C,A,F,B,F,C,F,F,C
+Male,Chinese,Kuala Lumpur,No,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 1,2003,4,3,10,3.5411,B,A,A,B,A,B,A,A,A,A,A,A,A,A,A,B,A,B,A,A,B,A,B,A,B,A,B,B,B,A,A,B,B,C,B
+Female,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 3,2003,3,4,11,3.684,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,B,A,A,B,A,A,B,A,B,A,B,A,A
+Male,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 2,2002,5,3,8,2.0605,F,C,A,B,F,C,A,A,A,B,A,A,A,A,F,C,A,F,B,B,F,B,A,F,F,C,C,C,F,F,A,F,A,F,A
+Female,English,Johor,Yes,UEC (Unified Examination Certificate),Mostly A's,Sometimes,Year 3 Trimester 1,2003,5,4,11,3.6498,A,A,A,A,A,A,B,B,A,A,B,A,A,B,A,A,B,A,B,A,B,A,B,A,B,A,A,B,A,A,A,A,A,A,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 3 Trimester 2,2002,3,4,2,3.5219,B,A,A,A,A,B,C,B,B,A,A,A,A,A,B,A,A,A,A,B,A,B,A,A,A,B,B,B,A,B,A,B,A,A,B
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Year 1 Trimester 3,2003,4,4,13,3.5668,A,B,A,B,B,B,A,A,A,A,A,A,A,A,C,B,A,A,A,B,A,A,B,A,A,A,B,B,B,B,B,B,B,B,A
+Male,English,Kelantan,Yes,Foundation in Art,Mostly B's,Often,Year 1 Trimester 3,2000,4,3,2,3.6273,B,B,B,B,A,B,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,A,A,B,A,A,B,B,A,A,B,A,B,A,A
+Female,English,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 2 Trimester 2,2001,4,3,5,3.2484,C,B,B,B,A,B,A,A,A,A,A,A,A,A,C,C,A,C,A,A,A,B,C,A,A,A,B,B,A,C,B,C,A,A,F
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 2,2002,3,5,7,3.456,A,B,B,B,B,A,A,A,A,A,B,B,A,B,A,B,B,B,B,A,A,A,B,B,B,A,A,B,A,B,B,A,A,C,B
+Female,English,Selangor,Yes,ALevel,Mostly B's,Sometimes,Year 2 Trimester 2,2002,4,5,14,3.6243,A,A,B,B,A,A,A,A,A,A,B,A,A,B,A,B,B,B,A,A,A,B,A,A,A,B,B,A,A,A,A,A,C,A,B
+Male,Chinese,Pahang,Yes,Diploma,Mostly A's,Very Often,Year 2 Trimester 2,2003,3,3,7,3.7756,B,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,C,B,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A
+Female,Chinese,Selangor,No,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 2,2003,5,4,8,2.5374,B,B,F,B,B,B,C,C,C,B,B,B,B,C,A,B,B,C,F,B,C,C,B,B,C,C,B,B,B,C,B,C,A,C,F
+Male,English,Sarawak,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2004,3,4,5,3.0631,A,B,C,C,B,B,A,A,B,A,B,A,B,B,B,B,C,B,B,B,B,A,C,B,B,B,A,A,C,B,B,A,C,B,B
+Male,English,Kelantan,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 3,2002,5,4,7,3.79,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,A,A,B,A,A,A,A,A,A,B,A
+Male,Chinese,Penang,No,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 3,2002,4,4,7,2.3562,C,B,F,C,C,B,B,C,B,B,B,B,B,B,C,B,B,B,B,F,C,C,B,C,B,B,C,B,C,B,B,A,F,F,C
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2003,3,5,5,3.0002,B,B,C,A,B,B,A,A,A,B,B,A,A,A,B,A,B,C,B,B,C,B,C,C,B,B,C,B,B,B,A,A,C,B,C
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 1,2004,3,5,8,3.5986,A,A,B,A,A,B,B,B,B,A,A,A,A,A,A,A,A,B,A,B,B,B,A,A,A,A,A,A,A,A,A,A,A,B,B
+Female,English,Malacca,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 2,2003,4,4,7,3.3078,B,A,B,B,B,B,B,A,B,A,B,A,B,B,A,C,A,B,A,A,A,A,B,B,B,B,B,A,B,B,B,B,B,B,B
+Male,English,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 3,2002,3,3,3,3.3508,B,A,A,A,A,C,B,B,A,A,A,A,A,B,B,B,B,A,A,B,A,A,B,B,C,B,F,A,B,B,B,A,A,A,B
+Male,Chinese,Perak,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 3,2002,4,4,2,3.0149,A,B,C,B,C,B,B,F,B,B,A,A,A,B,C,A,A,B,B,F,A,A,A,A,A,A,B,B,A,A,B,B,C,C,C
+Male,Chinese,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 1,2004,3,4,-5,3.7015,A,A,A,A,A,B,A,A,A,B,A,A,A,A,B,A,A,B,A,B,A,A,A,A,A,A,B,A,C,A,B,A,A,A,A
+Female,English,Kelantan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 2 Trimester 2,2001,3,4,12,3.7785,A,A,A,B,A,B,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A
+Male,Chinese,Penang,No,Diploma,Mostly B's,Very Often,Year 2 Trimester 2,2004,4,4,19,2.5666,B,A,B,B,C,B,B,C,B,C,B,B,C,B,F,C,A,A,B,C,B,F,F,B,B,C,B,A,C,C,B,C,F,B,B
+Female,English,Pahang,No,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2003,4,4,4,3.0573,B,C,B,C,B,B,B,B,A,A,B,A,B,B,B,A,B,B,B,C,B,B,C,B,B,B,A,B,B,A,A,B,B,A,C
+Female,English,Penang,No,ALevel,Mostly B's,Never,Year 3 Trimester 2,2003,5,4,14,3.1743,B,A,C,B,B,B,A,A,B,A,B,A,A,A,A,A,C,B,A,A,B,A,B,B,B,B,B,B,B,B,B,A,C,C,C
+Female,English,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 2,2002,4,3,18,3.5896,A,B,B,A,B,B,A,B,A,B,A,B,A,B,B,B,A,A,B,B,A,A,A,A,A,B,B,A,A,A,B,A,A,B,A
+Female,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2003,3,3,11,3.5759,B,B,B,B,B,B,A,A,A,A,A,A,A,A,B,A,A,B,B,A,A,A,A,B,A,A,A,B,B,B,A,A,B,A,A
+Male,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 1,2003,4,4,1,3.7297,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,B,A,A,B,A,B,A,A,A,A
+Male,Chinese,Sarawak,Yes,Diploma,Mostly A's,Often,Year 2 Trimester 2,1999,4,5,20,3.3906,A,A,A,B,B,B,B,C,B,A,B,A,A,B,C,B,B,A,C,A,A,A,A,B,B,A,A,A,A,B,A,B,B,B,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 1,2003,4,4,11,3.2309,B,B,C,C,B,C,A,B,B,B,A,B,A,A,A,B,B,B,A,B,A,B,A,A,A,A,C,B,B,B,A,B,C,B,B
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 1 Trimester 3,2004,3,4,-4,3.0715,A,C,A,B,B,C,B,B,A,A,B,A,A,B,B,B,C,A,C,C,B,A,C,B,B,B,A,B,B,C,B,B,B,A,B
+Male,English,Sabah,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2002,4,5,9,3.6899,A,A,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,B,A,A,A,B,A,C,A,A,A
+Female,Chinese,Kedah,No,Foundation in Art,Mostly B's,Never,Year 2 Trimester 3,2002,3,3,3,3.5643,A,A,B,B,B,B,A,A,A,A,A,A,A,A,B,A,B,A,B,A,A,A,A,A,B,A,A,B,C,B,A,B,B,C,A
+Female,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 1 Trimester 3,2003,3,3,5,3.7926,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,B,A,B,B,A,A,A,A,A,A
+Female,Chinese,Kuala Lumpur,Yes,Foundation in Art,Mostly B's,Never,Year 2 Trimester 3,2002,4,5,3,3.5181,A,A,B,A,B,B,B,B,A,A,A,A,A,A,A,B,C,B,A,A,A,A,B,B,B,A,A,B,C,C,A,A,B,B,A
+Male,Chinese,Malacca,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 1,2001,4,3,8,2.4618,C,F,C,B,C,C,A,C,B,B,A,B,A,A,C,C,F,C,A,F,C,F,B,B,B,A,A,A,B,A,B,C,F,B,C
+Female,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 1 Trimester 3,2003,3,5,4,3.7726,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,B,A,A,A,A,A,B,B,A,A,A,B,B
+Male,Chinese,Kuala Lumpur,No,Diploma,Mostly A's,Sometimes,Year 3 Trimester 2,2002,3,5,1,3.1315,B,A,C,C,B,B,A,A,B,A,C,B,B,B,A,A,B,B,B,A,B,A,A,A,A,A,C,A,C,B,B,B,B,C,C
+Female,English,Sabah,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 1,2002,3,4,8,3.6589,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,B,A,C,A,A,A,A,B,A,A,A,A,B,A,A
+Male,English,Pahang,Yes,Foundation in Science,Mostly C's,Sometimes,Year 2 Trimester 3,2001,4,4,10,3.4022,B,A,B,B,A,A,B,B,A,A,A,A,A,A,B,A,B,B,A,B,B,B,A,B,B,A,B,B,B,A,A,A,A,B,B
+Female,English,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 3 Trimester 3,2002,4,3,-2,2.4848,C,C,C,B,C,C,B,C,B,A,C,A,A,B,F,B,B,C,A,C,A,A,F,C,C,B,C,C,F,C,C,B,B,B,C
+Male,Chinese,Perak,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2001,5,4,15,3.2226,B,C,B,B,B,B,B,A,A,B,B,B,A,A,A,A,B,C,C,C,A,B,A,A,B,B,B,A,A,A,B,C,B,B,A
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 1,2004,3,3,5,3.6352,B,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,C,A,B,B,B,B,A,C,B,A
+Female,English,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 2 Trimester 2,2001,3,3,10,3.2656,B,B,A,B,B,A,B,B,B,A,A,A,A,A,B,B,B,B,A,A,B,B,B,A,A,A,B,B,C,B,B,A,B,B,A
+Female,Chinese,Kedah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 1 Trimester 3,2001,2,4,1,3.7215,A,A,B,B,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,B,B,A,A,A,A,B,A,A
+Male,Chinese,Selangor,No,Diploma,Mostly B's,Very Often,Year 3 Trimester 1,2001,4,4,1,2.9204,B,B,B,C,F,F,B,C,B,A,B,B,A,A,B,C,B,B,B,B,A,B,B,C,A,C,B,A,B,B,B,A,A,B,B
+Male,English,Kedah,No,Foundation in Science,Mostly B's,Never,Year 2 Trimester 3,2002,4,4,0,3.5981,A,A,B,B,A,B,A,A,B,A,B,A,B,B,B,B,A,A,A,A,A,A,A,A,A,B,C,A,B,A,A,B,B,B,A
+Female,English,Sarawak,Yes,Foundation in Science,Mostly C's,Never,Year 2 Trimester 3,2003,3,4,-4,3.4105,B,A,B,A,B,C,A,A,A,A,B,A,A,A,B,A,B,B,B,A,B,A,A,C,A,B,B,B,C,A,A,A,A,A,B
+Male,English,Negeri Sembilan,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 2 Trimester 2,2002,3,4,9,3.8467,A,A,B,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A
+Female,Chinese,Negeri Sembilan,No,Foundation in Science,Mostly B's,Sometimes,Year 1 Trimester 3,2002,3,3,7,3.7497,A,A,A,A,B,B,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,C,A,B,A,B,A,A
+Female,English,Kuala Lumpur,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 2,2003,5,4,-6,3.4509,B,A,A,B,B,B,B,B,B,A,A,A,B,B,A,B,A,A,A,A,A,A,A,A,B,C,A,A,B,B,A,A,A,C,A
+Female,English,Sabah,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 3 Trimester 1,2002,4,5,8,3.1997,A,C,C,B,A,B,B,B,A,A,A,A,A,A,A,C,A,B,B,A,F,A,A,A,A,B,B,A,B,A,A,A,A,B,B
+Male,English,Pahang,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 2,2003,3,4,11,3.8492,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,B,A,A,A,A,A,A,A,A,A,A
+Female,English,Selangor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 3,2004,5,4,11,3.3481,B,A,B,A,B,B,A,A,B,A,A,A,B,A,B,B,B,B,A,A,B,A,B,A,A,B,B,B,B,B,A,B,B,B,A
+Female,English,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 3,2003,5,4,16,3.5537,B,A,A,A,B,A,A,A,A,B,A,A,B,A,A,A,B,A,B,B,A,B,A,A,B,B,A,B,A,A,B,A,A,B,A
+Male,English,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 3,2003,4,4,4,2.9321,C,B,B,B,B,B,B,B,A,B,A,A,A,B,A,B,B,B,B,A,B,B,B,B,C,B,B,F,A,C,C,B,C,B,B
+Male,English,Malacca,Yes,Foundation in Art,Mostly C's,Never,Year 3 Trimester 1,2001,3,4,-3,3.3709,B,A,C,B,A,B,A,A,A,A,A,A,A,A,A,A,C,B,A,A,B,A,B,B,A,B,A,A,B,B,B,C,B,B,B
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly B's,Very Often,Year 3 Trimester 2,2001,4,5,3,3.4132,A,C,B,B,A,B,B,B,A,A,A,A,A,A,C,B,B,A,C,B,B,A,A,B,A,B,B,A,A,A,A,A,A,B,B
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Often,Year 1 Trimester 2,2000,4,4,8,3.687,B,B,A,B,A,B,A,A,A,B,A,A,A,A,A,B,A,B,B,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A
+Male,English,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Sometimes,Year 3 Trimester 1,2003,4,4,6,3.7665,A,A,B,A,A,B,A,B,A,A,A,A,A,A,A,A,A,B,C,B,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A
+Female,Chinese,Perak,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 3,2001,4,4,10,3.4563,A,A,B,A,A,A,A,B,A,A,A,A,A,A,B,A,B,A,B,C,C,A,B,B,A,A,B,A,A,A,C,A,A,B,A
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly C's,Often,Year 3 Trimester 3,2001,4,5,-5,2.1539,C,B,C,B,C,C,C,C,B,B,B,A,B,C,C,C,C,C,C,C,B,B,C,F,F,F,C,C,C,C,B,C,C,F,B
+Female,English,Sarawak,Yes,Foundation in Art,Mostly C's,Often,Year 3 Trimester 2,2003,4,4,15,3.3727,A,B,A,A,B,B,B,B,A,A,A,A,A,A,B,B,B,B,B,C,C,B,B,A,A,A,B,B,A,B,B,B,A,A,A
+Male,Chinese,Johor,No,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Never,Year 3 Trimester 3,2001,5,4,-8,2.952,B,A,B,A,B,B,B,B,C,B,A,A,B,B,A,A,B,B,B,B,F,B,B,B,A,A,B,B,A,B,B,B,A,B,B
+Male,English,Sarawak,Yes,Foundation in Science,Mostly C's,Often,Year 3 Trimester 1,2002,3,4,8,3.1018,B,B,B,B,C,C,A,B,B,A,B,A,A,B,B,B,C,B,A,A,B,B,B,C,A,B,A,B,B,B,C,A,A,F,C
+Male,Chinese,Perak,Yes,Foundation in Art,Mostly C's,Sometimes,Year 3 Trimester 3,2004,4,4,4,2.0396,C,B,F,B,F,C,B,F,B,A,C,A,C,C,A,C,C,C,F,C,C,B,C,B,F,C,C,C,B,C,C,C,F,C,C
+Male,English,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Often,Year 3 Trimester 3,2002,4,3,7,1.6456,C,F,F,F,C,F,C,C,C,B,F,F,C,F,B,C,C,C,F,B,C,B,C,B,C,B,F,C,F,C,F,C,C,C,F
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly C's,Often,Year 2 Trimester 2,2001,3,5,7,3.2532,B,B,C,A,B,F,A,A,A,A,B,A,A,A,A,B,A,A,A,A,B,A,B,C,B,F,B,B,A,B,B,C,A,B,B
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 2,2003,3,5,6,3.442,B,B,B,B,B,A,B,A,B,A,A,A,A,A,B,B,B,A,A,A,A,A,A,B,A,B,A,B,A,C,A,B,B,B,B
+Male,Chinese,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 2,2001,3,3,2,3.7322,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,B,A,A,B,A,B,A,B,A,A,A,A,A,A,B
+Female,English,Sabah,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 2,2003,5,4,3,3.5272,A,A,B,C,B,B,A,B,B,A,A,A,A,A,B,A,A,A,A,A,B,A,B,C,B,A,B,A,A,A,B,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2003,3,4,-2,2.4271,F,B,B,B,F,C,C,B,B,A,C,B,B,B,B,A,B,F,B,A,B,A,F,B,C,B,C,C,B,C,F,C,B,C,B
+Female,English,Selangor,Yes,Foundation in Science,Mostly B's,Never,Year 3 Trimester 1,2003,5,4,4,3.5898,A,A,B,A,B,A,A,A,B,A,A,A,A,A,A,B,C,A,A,A,B,A,A,A,A,B,B,A,B,B,A,A,B,A,B
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2001,4,5,-3,3.0798,A,B,B,B,B,B,B,F,B,B,B,B,A,B,A,C,A,B,B,B,B,B,A,B,B,B,A,A,A,B,A,C,C,B,A
+Male,Chinese,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Very Often,Year 3 Trimester 1,2002,4,4,-9,2.2678,C,B,C,B,B,B,F,F,C,C,C,B,B,C,F,C,A,B,C,B,B,C,F,C,C,A,B,B,B,B,F,C,B,C,B
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly A's,Very Often,Year 3 Trimester 2,2003,4,4,12,1.9771,C,F,F,B,B,B,C,F,C,B,B,C,C,C,C,B,C,C,A,B,F,B,C,C,B,C,C,C,C,C,B,C,F,C,B
+Male,Chinese,Kuala Lumpur,No,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 2,2003,4,3,11,2.7491,C,B,A,C,C,B,B,C,B,B,B,B,B,B,B,C,C,A,B,C,B,B,B,B,B,C,B,B,C,B,B,B,C,C,C
+Female,English,Sabah,Yes,Diploma,Mostly A's,Sometimes,Year 3 Trimester 3,2002,5,4,18,3.8603,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,A,A,B,B,A,A
+Male,English,Pahang,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 3,2003,4,4,12,3.2473,B,B,A,B,B,B,B,B,B,B,C,B,B,B,B,B,A,A,B,B,B,B,A,A,B,B,B,B,B,B,A,B,A,A,B
+Female,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 2,2002,4,4,6,3.7293,A,A,A,A,B,B,A,A,B,A,A,A,A,A,A,B,A,A,B,A,A,A,B,A,A,A,A,A,B,A,B,B,A,A,B
+Female,Chinese,Perak,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 2,2001,4,4,20,3.3448,A,B,A,B,A,B,B,C,B,B,A,A,A,A,B,A,A,A,B,F,B,F,A,B,A,B,B,A,A,A,A,A,A,A,A
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 1,2003,4,5,-1,3.4076,A,A,B,B,B,C,B,B,A,A,A,A,B,B,A,B,A,B,A,B,B,A,B,B,A,A,B,A,A,A,B,A,B,A,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 1,2002,3,5,4,2.1822,C,C,B,C,F,F,B,A,C,B,C,C,B,C,B,B,A,B,A,A,F,B,F,B,C,C,C,B,B,C,F,B,C,A,F
+Female,Chinese,Kedah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 1,2002,4,3,4,3.6736,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,C,A,C,A,B,A,A,A,A,A,A
+Male,Chinese,Penang,No,Foundation in Science,Mostly C's,Sometimes,Year 2 Trimester 2,2003,4,4,-1,2.9842,B,B,F,F,B,B,B,B,A,A,A,A,A,A,B,B,C,B,B,B,A,A,B,A,A,B,C,B,B,B,A,B,B,B,C
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 1,2002,3,3,3,3.4788,B,B,A,C,B,C,A,A,A,B,A,A,A,A,B,A,A,A,A,A,A,C,B,A,B,B,C,A,B,B,B,A,A,A,A
+Male,English,Johor,Yes,Foundation in Science,Mostly C's,Often,Year 3 Trimester 1,2003,4,4,16,3.2081,B,B,C,B,A,B,B,B,A,A,B,B,B,C,B,B,B,B,B,A,B,A,A,C,A,B,C,A,A,B,A,A,C,A,A
+Male,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 2 Trimester 2,2004,2,4,-6,3.8374,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,B,A,A,B,A,A,A,B,A,A,A,A,A,B
+Male,English,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 3,2004,5,4,0,2.7778,B,B,C,B,B,B,B,C,C,B,B,B,B,B,B,B,B,B,C,C,B,A,B,B,C,B,B,B,C,B,C,B,A,C,C
+Female,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 2,2001,3,3,15,3.4762,A,B,B,B,B,C,A,B,A,A,B,A,A,A,A,B,B,B,B,A,A,A,A,B,A,A,A,A,B,B,A,B,C,A,A
+Female,Chinese,Pahang,Yes,Foundation in Science,Mostly B's,Very Often,Year 2 Trimester 1,2004,3,3,14,3.9577,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 2,2002,4,4,14,2.9062,B,C,A,C,B,B,C,C,B,B,C,B,A,A,C,C,B,B,A,B,A,C,C,A,A,C,A,B,B,C,A,B,B,C,C
+Female,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 3 Trimester 3,2002,4,4,9,2.376,C,B,C,A,C,C,C,C,B,B,B,B,B,B,B,B,C,C,C,B,B,B,B,C,B,F,B,C,C,B,F,F,C,C,C
+Male,English,Malacca,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 2,2002,4,4,14,3.3962,B,A,B,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,B,B,C,B,B,A,A,C,B,B,A,B,A,A,B,B,B
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly C's,Very Often,Year 3 Trimester 3,2002,4,4,-3,1.6891,F,B,F,F,F,F,C,B,C,B,F,B,C,F,B,C,B,F,A,B,B,B,F,F,C,C,F,C,C,C,C,F,C,B,F
+Male,Chinese,Selangor,Yes,Diploma,Mostly A's,Very Often,Year 3 Trimester 1,2001,5,3,7,2.7315,B,C,C,B,C,B,B,A,B,B,C,B,B,B,C,A,B,C,B,C,C,C,C,A,B,B,B,B,C,B,B,C,B,C,C
+Female,English,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 3,2002,4,4,19,3.4334,A,B,A,A,A,B,A,B,B,A,A,A,A,B,A,B,B,A,C,B,A,B,B,B,B,A,F,A,A,A,B,A,B,A,A
+Female,Chinese,Sabah,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 3,2002,5,4,12,3.4615,A,A,A,A,B,A,B,A,A,A,B,A,A,B,A,B,B,B,A,A,A,A,A,C,C,C,B,A,B,B,B,C,B,A,A
+Female,Chinese,Penang,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 1,2002,4,3,16,3.7129,B,A,A,A,B,A,A,A,A,B,A,A,A,A,A,B,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,A,B,A,B
+Female,English,Pahang,Yes,Foundation in Science,Mostly A's,Often,Year 1 Trimester 3,2003,4,3,-10,3.8354,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A
+Male,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 2 Trimester 2,2004,3,4,10,3.8523,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,B,B,A
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly B's,Sometimes,Year 1 Trimester 3,2003,4,4,5,3.8545,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,B,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,B
+Male,English,Malacca,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 1,2004,4,4,1,3.3512,A,A,B,B,B,C,B,B,A,A,B,A,B,B,A,A,A,B,A,B,A,A,B,A,B,B,B,A,A,B,B,B,A,B,B
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 3,2001,5,4,6,2.5729,C,B,C,F,C,F,A,B,B,B,B,A,A,A,B,A,C,C,B,A,A,B,A,C,B,C,F,F,B,C,B,A,F,B,F
+Male,Chinese,Johor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2000,4,4,6,2.9913,B,B,B,B,C,C,A,B,A,B,B,B,A,B,C,B,C,C,B,A,C,B,A,A,B,B,A,C,B,B,C,A,B,A,B
+Female,English,Sabah,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 2,2004,4,5,12,3.8892,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,A,A,A
+Female,Chinese,Perak,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 2 Trimester 3,2004,3,3,6,3.2025,A,F,F,B,B,C,A,A,A,A,B,B,A,A,A,A,A,A,F,A,A,A,A,F,C,B,A,B,B,A,B,B,A,B,A
+Male,English,Pahang,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 1,2002,5,5,6,3.55,A,A,B,A,B,B,B,A,A,A,A,B,A,A,B,A,A,B,A,A,A,A,A,B,B,A,C,C,A,A,A,B,A,B,B
+Male,English,Sarawak,Yes,Diploma,Mostly B's,Often,Year 3 Trimester 3,2004,5,4,2,2.3272,C,A,F,C,B,B,B,B,C,A,C,B,F,F,A,A,B,C,A,A,F,A,F,B,C,B,B,B,C,C,C,C,C,C,C
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 1 Trimester 3,2002,5,3,16,3.5678,B,A,B,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,B,A,A,A,A,B,A,A,A,C,B,A,A,B,B,B,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 2,2004,3,4,2,3.3142,B,A,A,B,B,B,B,A,B,B,A,A,B,B,B,B,B,B,A,A,A,A,C,A,B,B,B,A,A,C,B,A,A,B,A
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2003,3,4,2,3.5239,B,A,B,B,B,B,A,A,A,A,B,A,A,B,A,B,B,A,A,A,A,A,B,A,B,C,B,B,B,B,B,B,A,A,A
+Male,English,Malacca,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 2,2004,4,4,-1,3.7074,A,A,B,B,A,B,A,B,A,A,A,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Very Often,Year 1 Trimester 3,2003,4,5,12,3.869,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,A,A,A,B
+Male,English,Penang,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 3,2003,4,4,13,2.5915,F,A,B,B,C,A,B,C,B,B,C,C,C,C,B,C,B,C,B,B,A,C,C,C,C,B,C,A,B,B,F,B,C,C,F
+Male,English,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 3,2003,4,3,6,3.7613,A,A,A,B,A,B,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,B,A
+Male,Chinese,Penang,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 1 Trimester 3,2002,3,4,1,3.2826,B,B,B,B,A,A,A,A,A,A,A,A,A,B,A,C,A,B,A,B,B,C,A,A,B,B,B,B,B,B,B,C,C,A,A
+Male,English,Selangor,Yes,Diploma,Mostly B's,Sometimes,Year 3 Trimester 1,2003,4,5,10,2.3762,C,B,B,C,C,B,B,B,B,A,B,B,C,C,B,A,F,C,A,B,C,A,C,F,B,C,F,C,B,C,B,C,B,F,C
+Male,Chinese,Perak,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 3,2002,4,3,12,2.895,B,B,A,B,C,A,B,C,B,B,C,B,B,A,B,B,B,A,B,B,B,B,B,A,A,C,B,C,F,A,F,C,A,A,A
+Female,English,Pahang,No,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2003,4,4,1,3.8636,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,B,B,A,A,A,A
+Male,Chinese,Selangor,No,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 1,2003,4,4,9,2.7693,C,B,B,C,C,A,B,A,B,B,B,A,B,A,A,B,B,C,C,B,C,A,C,B,B,C,B,B,C,B,A,C,F,B,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Sometimes,Year 2 Trimester 2,2001,3,4,-1,3.0403,B,B,B,B,B,C,B,B,A,A,A,A,A,A,A,B,C,B,A,B,B,B,B,A,C,B,B,B,C,A,C,B,B,C,C
+Male,English,Negeri Sembilan,Yes,Diploma,Mostly A's,Very Often,Year 2 Trimester 3,2002,5,4,9,3.5126,A,B,B,B,B,C,A,A,A,A,A,A,A,A,A,B,B,B,A,A,A,A,B,A,B,A,B,A,C,A,B,B,A,C,B
+Male,Chinese,Johor,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2002,4,4,15,3.7582,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,B,B,A,A,A,A,A,A,A,A,A,A,B,B,A
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 1,2001,4,4,1,3.7922,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,A,A,A,C,A,A,A,A,A,A,A,A
+Male,English,Sarawak,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 3,2002,4,3,10,3.7326,B,A,A,A,A,A,A,B,A,A,B,A,A,A,A,B,A,B,A,B,A,B,A,A,A,A,B,A,A,A,A,A,A,A,A
+Male,Chinese,Malacca,Yes,Foundation in Science,Mostly B's,Never,Year 3 Trimester 1,2000,3,4,19,2.8727,B,B,F,B,B,B,B,B,B,A,B,B,A,A,B,C,B,C,C,B,B,F,B,A,B,B,A,B,B,A,B,B,B,A,A
+Male,Chinese,Perak,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2000,4,5,9,3.701,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,B,A,B,A,B,A,B,A,A,A,B,A
+Male,English,Perak,Yes,Foundation in Art,Mostly B's,Never,Year 3 Trimester 2,2000,4,5,-2,2.8655,C,B,F,C,C,C,A,A,A,A,B,A,A,B,B,A,C,F,B,A,B,A,B,A,B,B,C,C,C,A,B,C,C,C,C
+Male,Chinese,Kuala Lumpur,Yes,Foundation in Art,Mostly B's,Sometimes,Alumni,2002,3,3,7,3.8808,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 2,2002,5,5,17,2.4472,B,C,C,C,B,B,B,F,B,B,F,C,C,B,B,A,A,B,C,C,C,C,B,A,B,B,F,C,B,B,A,B,B,F,C
+Male,English,Kuala Lumpur,Yes,Diploma,Mostly A's,Often,Alumni,2004,3,4,5,3.8803,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A
+Male,English,Selangor,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 2,2002,4,3,4,3.2709,B,B,B,A,A,B,B,B,A,A,B,A,A,B,A,A,A,B,B,A,C,A,B,A,B,B,B,B,A,B,B,A,B,B,B
+Male,Chinese,Sarawak,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 1,2000,5,4,1,3.624,A,A,B,A,B,B,A,B,B,A,A,A,A,A,A,A,A,B,B,A,B,A,A,A,A,B,A,B,A,A,A,B,A,A,A
+Female,English,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 1 Trimester 3,2003,4,3,10,3.8292,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,B,A,A,A,A,A,A,A,A,B,A,A,A,A,A
+Male,Chinese,Kelantan,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 2,2001,5,3,11,3.4783,A,A,B,B,B,C,A,B,A,A,B,A,A,B,B,A,B,A,C,A,A,B,B,A,A,A,B,A,B,A,B,C,B,B,A
+Male,Chinese,Johor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 1 Trimester 3,2003,2,3,4,3.7291,A,A,A,B,A,B,A,A,A,A,A,A,A,A,B,B,A,B,A,B,B,A,A,A,A,A,A,A,A,B,A,A,A,B,A
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 1,2003,4,4,-1,3.2767,B,A,B,C,B,B,A,A,A,B,B,A,A,A,B,A,B,B,A,B,B,A,A,A,A,B,A,C,B,A,B,B,B,C,C
+Male,English,Perak,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2004,5,4,0,3.6814,A,A,A,B,A,B,A,B,B,A,A,A,A,A,B,A,A,A,A,A,A,A,B,A,A,A,A,B,A,B,A,B,B,A,A
+Male,Chinese,Kelantan,No,Foundation in Science,Mostly C's,Sometimes,Year 3 Trimester 1,2001,4,3,2,2.7007,F,C,C,F,B,B,B,B,B,A,A,A,A,A,B,C,F,C,C,A,A,B,A,C,A,B,F,C,C,A,F,B,A,B,C
+Male,English,Selangor,No,Foundation in Art,Mostly C's,Often,Year 2 Trimester 3,2002,4,4,9,2.7578,C,B,A,B,C,B,C,B,B,B,B,A,B,B,C,A,C,A,B,B,B,B,C,B,F,B,B,B,B,C,C,C,C,B,B
+Female,English,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 2,2000,3,5,13,3.7353,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,B,A,B,A,A,B,B,A,A,A,B
+Male,Chinese,Malacca,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Never,Year 3 Trimester 1,2003,2,4,-4,3.575,B,A,B,B,B,C,A,A,A,A,A,A,A,A,A,A,B,A,A,B,B,A,B,A,A,B,B,A,B,A,A,B,A,B,B
+Female,English,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 1,2004,3,3,17,3.3905,A,C,A,B,A,B,B,B,B,A,C,B,B,B,B,B,A,A,B,A,A,C,A,C,A,B,A,A,A,A,A,B,B,A,A
+Male,English,Johor,Yes,Foundation in Art,Mostly A's,Never,Year 2 Trimester 2,2001,4,4,0,3.761,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,B,B,A,A,B,A,A,B,A,A,B,A
+Male,English,Penang,No,Foundation in Science,Mostly C's,Never,Year 3 Trimester 2,2002,4,4,9,3.0123,B,B,B,B,B,C,B,F,C,A,A,A,A,A,A,A,B,A,C,A,B,C,B,A,C,A,A,B,B,C,A,B,A,B,B
+Male,English,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 3,2004,5,4,7,3.2449,A,B,B,C,C,B,A,A,B,A,C,B,B,B,A,A,B,A,B,B,C,A,B,A,A,C,A,A,B,A,B,A,B,B,A
+Female,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Sometimes,Year 3 Trimester 2,2002,4,3,18,3.584,A,B,A,A,A,A,A,A,A,A,B,A,B,B,A,A,A,B,A,A,B,B,A,B,B,A,B,A,B,A,B,A,A,A,C
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 1,2001,3,3,10,3.4394,C,B,A,B,B,C,A,A,A,A,A,A,A,A,A,B,A,B,A,B,A,A,A,C,A,B,A,C,C,A,A,A,A,B,A
+Male,Chinese,Selangor,No,Diploma,Mostly B's,Sometimes,Year 2 Trimester 3,2001,3,4,5,2.9509,C,B,B,C,C,F,A,A,B,A,C,B,A,B,A,C,C,C,A,A,A,A,B,A,A,C,B,C,C,F,B,B,B,B,C
+Male,English,Kelantan,No,Diploma,Mostly C's,Sometimes,Year 3 Trimester 2,2004,5,4,13,3.174,C,B,C,B,B,B,A,B,A,B,A,A,A,A,A,A,C,A,C,B,B,A,B,B,A,C,A,C,B,B,B,A,B,B,B
+Male,Chinese,Johor,No,Foundation in Science,Mostly B's,Never,Year 2 Trimester 1,1999,4,3,7,3.8184,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,C,A,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 1,2001,3,4,7,3.7751,A,A,A,B,A,A,A,A,A,A,B,B,A,B,A,A,B,A,A,A,A,A,B,A,B,A,A,A,A,A,A,A,B,A,A
+Female,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Very Often,Year 1 Trimester 2,2003,3,3,5,3.8633,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 3,2003,4,4,6,3.1509,A,A,B,B,B,B,F,B,B,B,B,B,B,B,B,A,A,B,B,B,B,A,A,B,B,C,B,A,A,B,A,A,C,A,B
+Female,Chinese,Perak,No,Foundation in Science,Mostly C's,Never,Year 3 Trimester 3,2004,3,4,2,3.0856,A,B,C,B,C,B,B,B,A,A,A,A,A,A,B,A,C,C,A,B,B,B,B,C,A,A,B,C,C,A,A,B,B,A,F
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly C's,Often,Year 3 Trimester 2,2001,3,4,-2,2.1157,C,B,F,C,F,F,B,A,A,A,B,A,B,B,B,B,C,F,C,A,C,B,B,F,B,C,F,C,F,F,C,C,F,C,F
+Male,English,Kuala Lumpur,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 2,2002,4,5,11,3.4732,B,B,B,C,A,B,A,A,A,A,B,B,B,C,A,A,B,A,B,A,A,B,B,A,A,C,A,A,A,A,A,B,A,B,A
+Female,English,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2001,4,4,11,3.5703,A,A,A,A,A,B,B,A,B,A,B,A,A,A,A,A,A,A,B,A,C,A,A,A,A,B,A,A,A,B,A,B,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 1,2003,4,4,7,2.9226,B,B,C,B,B,C,C,B,B,B,A,A,A,B,B,C,C,C,F,C,B,B,B,A,A,B,C,B,B,B,A,C,A,B,A
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 1,2005,4,4,22,3.4221,B,B,B,A,A,A,A,B,A,B,A,B,A,A,B,B,B,B,A,B,B,B,A,A,A,B,A,A,B,A,A,B,B,B,A
+Male,Chinese,Sabah,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 1,2002,5,4,5,3.5585,A,A,B,A,B,B,A,A,A,A,A,A,A,A,A,A,B,B,A,A,B,B,A,A,A,A,B,A,B,B,A,A,C,A,C
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly B's,Often,Year 1 Trimester 2,2002,3,4,9,3.8379,A,B,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A
+Female,Chinese,Sabah,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 3,1999,3,5,11,3.1713,B,B,B,A,B,B,A,A,A,B,B,A,A,A,B,B,B,B,A,C,C,B,B,B,B,A,C,A,A,B,B,C,B,A,A
+Male,English,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 3,2003,4,5,13,3.4876,A,A,B,A,A,C,B,A,A,A,B,B,B,B,A,A,A,A,A,A,A,A,A,A,B,C,C,B,B,A,A,B,A,B,B
+Male,Chinese,Pahang,No,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Often,Year 3 Trimester 1,2001,4,4,9,3.5477,B,A,B,C,A,B,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,B,B,B,A,A,B,B
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 1,2002,3,4,3,3.4502,A,A,B,C,B,C,B,A,B,A,B,A,B,B,A,A,B,B,A,A,A,A,A,A,A,A,A,A,B,C,C,A,B,B,A
+Male,Chinese,Kedah,No,Foundation in Art,Mostly B's,Often,Year 2 Trimester 1,2003,4,3,18,3.4189,C,A,A,B,A,A,A,B,B,A,A,A,A,A,A,C,A,A,A,A,A,A,F,A,A,B,A,C,C,C,A,A,B,B,B
+Male,English,Sarawak,Yes,Foundation in Science,Mostly A's,Never,Year 2 Trimester 1,2003,5,5,6,3.8462,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,B,A,A,A,A,A,B,A,A,A,A,A,A,B
+Female,English,Pahang,Yes,Foundation in Science,Mostly B's,Never,Year 3 Trimester 2,2000,4,4,17,3.5154,B,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,B,B,A,C,A,B,B,A,B,A,B,C,B,A,A,A,B,A
+Male,Chinese,Kelantan,Yes,UEC (Unified Examination Certificate),Mostly A's,Often,Year 3 Trimester 1,2002,4,4,5,3.5416,A,A,A,A,A,B,A,B,B,A,A,A,B,A,B,A,A,A,B,A,A,B,B,A,B,A,B,B,B,B,B,B,A,A,B
+Male,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 3 Trimester 2,2001,3,3,4,2.7424,B,C,B,B,B,C,B,B,C,C,C,B,B,B,B,C,B,C,C,C,C,C,C,B,A,A,F,B,B,B,B,B,C,A,A
+Female,English,Selangor,No,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 2,2004,5,4,9,3.1452,A,B,B,B,B,B,B,C,A,B,B,A,A,A,C,C,B,B,C,B,B,B,B,A,A,B,B,B,A,B,A,B,C,A,B
+Female,Chinese,Kuala Lumpur,No,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2002,3,4,-2,3.0976,B,A,A,B,B,B,B,B,B,A,A,A,A,B,C,A,B,C,A,A,B,A,B,B,C,B,B,F,B,B,A,A,A,B,B
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 1,2003,4,3,9,3.8979,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Female,English,Pahang,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2004,3,4,4,3.7615,A,A,A,A,A,A,A,A,A,A,C,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,B,A,A,B,A,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 3 Trimester 3,2004,5,4,0,2.4759,B,B,C,B,B,B,C,F,F,B,A,A,B,B,B,C,C,A,C,F,B,B,B,B,F,B,F,C,B,B,B,B,A,C,B
+Male,Chinese,Sabah,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 1,2004,3,4,9,3.7412,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,B,A,A,B,A,B,A,A,A,A,A,B
+Female,English,Kedah,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 1,2002,4,4,4,3.9549,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Female,English,Sabah,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2003,4,3,6,2.9572,B,B,C,C,B,C,B,B,B,B,C,B,B,B,B,B,A,B,C,A,B,B,A,B,A,B,C,B,B,B,B,B,B,B,B
+Male,Chinese,Perak,No,Diploma,Mostly B's,Sometimes,Year 3 Trimester 1,2002,4,5,9,3.0852,C,A,B,B,B,B,B,B,B,B,F,C,C,C,A,A,B,C,B,A,A,A,B,A,A,C,B,B,B,A,B,B,B,B,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2004,4,5,10,3.1789,B,A,A,A,B,B,C,B,B,A,A,A,B,B,B,B,B,B,A,C,C,B,A,C,B,B,B,B,A,B,A,A,A,C,B
+Male,Chinese,Penang,No,Foundation in Science,Mostly B's,Often,Year 2 Trimester 2,2001,3,5,2,3.493,A,A,A,A,B,A,A,B,B,A,B,B,B,B,A,B,A,B,A,A,B,B,B,B,A,A,A,A,A,A,B,C,A,A,A
+Male,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 3,2001,4,5,13,3.8636,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,C,A,A,A,A,A,A,A,A
+Male,Chinese,Selangor,No,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 3,2002,5,5,-8,2.1934,B,A,C,B,C,B,F,F,F,B,C,B,C,F,A,B,F,C,F,A,A,B,B,C,B,C,C,F,C,C,C,C,C,B,C
+Female,Chinese,Negeri Sembilan,Yes,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 3,2003,4,3,13,3.5272,B,B,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,B,B,A,C,B,B,A,A,B,B,A,A,B,A,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Very Often,Year 2 Trimester 1,2003,5,4,15,3.1568,B,B,B,B,A,A,B,B,B,B,B,B,B,B,C,B,A,A,A,B,B,A,B,B,B,A,C,B,A,B,A,B,B,B,C
+Male,English,Selangor,Yes,Foundation in Science,Mostly C's,Sometimes,Year 2 Trimester 3,2003,4,4,7,3.3983,A,B,A,B,B,B,B,B,B,A,A,A,A,B,A,A,B,B,A,A,B,A,B,B,A,B,A,B,B,B,B,C,B,A,B
+Female,Chinese,Penang,No,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 2,2002,4,3,6,3.6069,A,A,A,A,A,B,A,B,B,A,B,A,A,A,A,A,B,B,A,B,B,A,B,A,B,A,B,A,A,A,A,B,A,A,A
+Male,English,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 1,2000,4,5,3,3.8526,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,B,A
+Male,Chinese,Selangor,No,Diploma,Mostly B's,Sometimes,Year 2 Trimester 1,2002,3,4,10,3.2822,B,A,B,F,B,B,A,A,A,A,B,A,B,B,A,A,A,C,A,A,A,A,B,B,B,B,B,B,B,A,B,B,C,B,B
+Male,Chinese,Johor,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 1,2001,3,4,2,3.4072,B,A,B,B,B,A,A,A,A,A,B,B,B,B,B,A,A,B,A,A,A,B,B,B,C,A,B,B,A,B,B,A,C,B,B
+Male,Chinese,Kelantan,Yes,UEC (Unified Examination Certificate),Mostly C's,Never,Year 2 Trimester 2,2000,3,4,-1,3.6559,A,B,A,B,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,B,A,A,A,B,A,B,B,B,A,B
+Female,English,Negeri Sembilan,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 2,2001,4,4,7,3.8579,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,B,B
+Male,English,Negeri Sembilan,Yes,Diploma,Mostly A's,Sometimes,Year 2 Trimester 3,2003,4,4,15,3.5786,A,A,B,B,A,A,A,B,A,A,C,A,B,B,A,A,B,A,A,A,B,A,A,B,A,A,A,A,B,A,A,A,B,B,A
+Male,Chinese,Perak,No,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 2,2001,2,4,7,2.9594,B,B,B,B,F,C,B,A,A,B,B,B,A,A,B,C,C,B,B,A,A,B,B,B,B,C,B,C,C,A,F,C,B,A,C
+Male,English,Sarawak,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 2,2000,4,4,14,3.1204,A,A,A,A,C,C,B,B,B,A,B,A,A,B,B,B,B,C,A,B,A,B,C,B,A,A,B,C,A,F,C,B,A,A,A
+Male,Chinese,Pahang,Yes,Diploma,Mostly A's,Sometimes,Year 2 Trimester 3,2002,4,4,21,3.7468,A,A,A,B,A,A,A,B,A,A,A,A,A,A,B,A,A,A,B,A,A,B,A,A,A,A,A,B,B,B,A,A,A,A,A
+Male,English,Selangor,No,Foundation in Art,Mostly C's,Often,Year 3 Trimester 3,2002,4,4,-2,3.6701,A,A,A,A,B,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,B,B,A,A,C,A,B
+Male,Chinese,Sarawak,Yes,Foundation in Art,Mostly A's,Very Often,Year 2 Trimester 2,2003,3,4,8,3.6211,A,A,A,B,A,B,B,A,A,A,A,A,A,B,A,B,A,B,A,A,B,A,A,B,A,A,B,A,A,B,B,A,A,B,A
+Male,English,Johor,No,Foundation in Science,Mostly A's,Often,Year 3 Trimester 1,2004,5,4,12,3.0396,B,A,B,B,A,A,B,C,B,B,B,B,C,C,B,A,A,A,B,A,C,B,C,B,B,A,B,B,B,A,A,C,B,C,C
+Female,English,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 2 Trimester 1,2003,4,4,1,3.7951,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,B,A,A,B,B,A,A,B,A,A,A,A,A
+Male,Chinese,Malacca,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 1,2002,3,4,15,3.8721,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A
+Male,English,Malacca,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 2,2002,4,5,12,3.9403,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A
+Male,Chinese,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Often,Year 2 Trimester 3,2002,3,4,14,3.6837,A,A,B,A,A,B,A,B,A,A,A,A,A,A,B,A,B,B,B,B,A,B,A,A,A,A,B,A,A,A,A,A,B,A,B
+Male,Chinese,Penang,Yes,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 3,2002,4,3,5,3.5557,B,B,B,B,B,B,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,B,B,A,A,B,B,B,A,A,B,B,A,A,B
+Male,English,Malacca,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Never,Year 3 Trimester 1,2001,3,4,2,2.9374,C,B,A,B,C,C,B,C,C,B,A,A,B,B,B,B,A,A,B,B,A,C,A,B,B,B,A,F,A,A,C,B,C,C,C
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2001,3,3,16,2.8496,B,B,B,F,C,B,B,A,B,B,C,B,A,B,B,B,B,A,A,B,B,A,A,C,C,B,B,B,C,C,C,B,B,B,B
+Female,English,Sarawak,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 2,2003,4,4,3,3.465,B,B,A,B,B,C,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,B,B,B,B,A,A,A,A,A,B,C,B
+Female,Chinese,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 1 Trimester 3,2003,2,3,0,3.6671,A,B,A,A,A,A,A,B,A,A,A,B,A,A,B,B,A,A,B,B,A,A,A,A,B,A,A,B,A,A,B,A,B,A,A
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 1 Trimester 3,2003,3,4,17,3.724,B,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,B,A,A,B,A,A,B,B,A,A,A,B,A
+Male,Chinese,Penang,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 2,2000,3,4,-2,3.7751,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,B,A,A,A,A,A,A,B,B,A,A,A
+Male,English,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2003,5,5,4,3.832,A,A,A,A,A,C,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,A,C,A,A,A,A,A,A,A,A
+Male,Chinese,Johor,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 1,2000,4,3,14,3.7099,A,A,A,A,A,B,A,B,A,A,A,B,A,B,A,A,A,A,B,B,A,B,A,A,A,B,B,A,A,A,A,A,A,A,A
+Male,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 1 Trimester 3,2004,3,4,-1,3.8808,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A,A
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 2,2002,4,5,6,3.6526,A,A,A,A,A,B,A,A,A,A,B,B,B,B,B,A,B,A,B,A,A,A,B,B,B,B,A,A,A,A,B,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2004,4,3,10,3.7778,A,A,A,A,A,B,B,A,B,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,B
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 1,2003,4,5,10,3.7068,A,A,A,A,A,B,B,B,B,A,A,A,A,A,A,A,C,B,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,A,A
+Male,Chinese,Sabah,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 3,2001,3,4,7,2.909,B,B,F,C,B,B,B,B,B,A,B,B,B,A,B,A,B,B,B,B,B,B,B,A,B,B,B,C,B,A,A,F,C,B,B
+Male,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 2,2002,3,5,15,3.6668,B,A,A,B,A,B,A,A,A,A,B,B,A,A,A,A,B,B,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,B,B
+Female,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 2 Trimester 3,2003,3,4,9,3.2738,A,A,B,F,B,B,B,A,A,A,B,A,A,A,B,A,A,B,A,B,A,A,C,B,A,A,C,B,C,A,C,B,B,B,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Very Often,Year 1 Trimester 3,2004,2,4,-3,2.7042,C,B,B,B,B,B,B,B,B,B,B,A,A,B,C,C,A,C,B,C,B,B,B,A,C,A,A,A,F,F,B,B,F,C,B
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 3,2002,4,4,-5,3.2787,B,B,A,A,B,B,B,B,B,A,A,A,A,A,B,B,A,B,B,B,B,A,A,B,B,B,B,B,A,B,B,C,B,B,C
+Male,Chinese,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 3 Trimester 2,2002,4,4,-5,2.7598,B,A,B,A,B,B,C,F,C,B,A,A,B,A,B,F,C,B,A,F,C,F,B,A,A,B,B,C,B,B,B,B,A,C,B
+Male,English,Sarawak,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 1,2002,3,4,15,3.2188,A,B,B,B,C,B,B,B,A,A,B,B,A,B,B,B,B,B,B,B,B,B,A,B,B,C,B,B,A,B,A,A,C,A,B
+Female,English,Selangor,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 3,2004,4,4,15,3.3594,A,A,A,A,B,B,B,B,B,A,A,A,A,A,A,A,A,A,C,B,B,B,B,A,B,B,B,B,B,A,A,B,B,B,B
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly C's,Often,Year 2 Trimester 2,2003,3,4,6,2.8715,B,B,C,B,B,B,C,B,B,A,C,B,B,F,B,B,B,A,C,A,C,B,B,C,C,A,B,C,A,A,A,B,A,C,B
+Male,English,Sabah,Yes,Diploma,Mostly B's,Sometimes,Year 2 Trimester 2,2003,4,4,0,3.5963,B,A,A,A,B,B,A,A,B,A,A,A,A,B,A,A,A,B,A,A,A,A,A,B,A,A,B,A,B,B,A,A,A,B,A
+Male,Chinese,Sarawak,No,Foundation in Science,Mostly B's,Very Often,Year 2 Trimester 3,2000,3,5,-6,2.7434,B,A,B,B,F,B,C,B,B,B,C,A,A,B,B,B,B,C,B,B,B,A,B,B,B,F,B,C,B,C,B,C,C,B,B
+Male,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 3 Trimester 2,2001,5,4,-3,3.5018,A,A,B,A,B,B,A,A,B,A,A,A,A,A,C,A,B,B,C,A,A,B,A,A,B,A,C,A,A,B,A,A,A,A,C
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Sometimes,Alumni,2003,3,4,5,3.5985,A,A,A,B,B,B,A,A,A,B,B,B,A,A,B,B,A,B,A,A,A,B,B,A,B,B,A,A,A,A,B,A,A,A,A
+Male,English,Kuala Lumpur,No,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2002,4,3,17,3.2256,B,C,A,B,B,A,A,B,A,B,B,B,A,A,C,B,A,A,F,C,A,B,A,A,F,B,A,A,A,B,B,A,A,B,A
+Male,English,Selangor,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 1,2005,5,5,5,3.2429,B,A,A,A,B,A,B,C,C,B,A,A,A,A,A,C,B,B,B,A,B,A,B,B,A,A,C,B,B,B,B,A,A,A,A
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Often,Year 1 Trimester 3,2004,3,4,9,3.8777,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,B,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 1,2002,3,4,-4,3.5162,A,A,A,A,B,A,B,A,A,A,A,A,A,B,A,A,B,A,A,A,B,A,B,B,B,A,A,C,A,A,A,B,C,A,B
+Male,Chinese,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 3 Trimester 1,2002,4,4,5,3.6415,A,A,B,A,B,B,A,A,A,A,A,A,A,A,A,A,B,A,A,B,B,A,A,A,A,A,A,B,C,A,A,A,B,A,A
+Male,English,Kelantan,Yes,Diploma,Mostly A's,Very Often,Year 2 Trimester 1,2002,4,5,13,3.8326,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A
+Male,English,Negeri Sembilan,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 2,2004,4,4,8,3.5473,A,A,A,C,B,B,A,B,A,A,B,A,B,B,A,A,A,A,B,A,A,B,A,B,B,A,A,B,A,A,A,B,A,A,C
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly C's,Very Often,Year 2 Trimester 3,2003,2,5,5,3.2275,B,A,A,A,A,B,C,B,B,B,A,B,B,B,B,B,B,A,A,B,C,B,A,A,A,B,B,B,A,B,C,A,C,B,A
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2002,4,4,0,3.1597,A,A,B,A,B,C,C,B,B,A,A,A,A,B,C,B,B,F,B,A,B,A,B,A,C,B,A,B,B,A,B,A,A,B,A
+Male,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 1,2002,3,4,12,3.3109,B,B,A,B,B,B,B,B,A,B,B,A,A,B,B,B,A,B,B,A,B,C,B,B,A,A,B,A,A,A,A,A,B,A,B
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 1 Trimester 3,2003,3,3,9,3.7951,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,B,A,A,B,B,A,A,A,A,A,A,A,A,A,A
+Male,English,Pahang,Yes,Foundation in Science,Mostly C's,Never,Year 3 Trimester 2,2002,5,3,0,1.6245,F,B,C,B,F,B,C,F,F,C,F,C,B,B,F,C,F,F,C,B,B,F,B,C,C,A,C,B,F,B,C,F,F,C,B
+Male,Chinese,Kelantan,Yes,Foundation in Art,Mostly C's,Sometimes,Year 3 Trimester 1,2002,4,3,7,1.7882,F,F,C,F,F,C,C,C,C,C,B,A,B,C,C,F,C,F,A,B,C,C,C,C,C,C,C,C,F,C,F,C,C,B,F
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 1,2003,2,5,10,3.4926,B,B,B,B,A,B,A,A,A,A,B,B,A,A,A,A,A,B,B,B,B,B,C,A,A,A,B,B,B,B,A,A,A,A,A
+Male,English,Sabah,Yes,Foundation in Art,Mostly A's,Very Often,Year 3 Trimester 1,2003,5,3,13,3.7954,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,B,B,A,A
+Male,English,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 3 Trimester 1,2001,4,4,3,3.4816,B,A,A,A,B,B,B,B,A,A,A,A,A,A,A,A,B,B,B,B,A,A,B,A,A,A,B,A,B,B,B,B,B,B,B
+Male,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 1,2002,3,3,4,3.4218,A,A,B,B,B,B,A,B,A,A,A,A,A,A,B,B,B,B,A,B,A,A,B,B,A,B,B,A,C,A,B,C,C,A,A
+Male,English,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 3 Trimester 1,2002,5,4,1,2.8324,B,B,F,B,B,A,B,B,B,A,B,B,B,B,B,A,B,A,B,B,C,B,A,B,B,A,B,B,B,B,C,A,C,F,C
+Male,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly A's,Often,Year 1 Trimester 3,2002,3,4,-3,3.8119,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,B,A,A,A,A,A,B,A,A,B,A,A,A
+Male,English,Sarawak,Yes,UEC (Unified Examination Certificate),Mostly B's,Never,Year 2 Trimester 3,2003,4,5,2,3.5302,A,B,B,A,A,B,B,B,B,B,A,A,A,A,B,C,A,B,A,A,A,A,A,A,A,C,A,B,A,A,B,B,A,A,A
+Male,English,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Never,Year 3 Trimester 1,2002,4,4,2,3.5869,A,B,B,B,A,C,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,C,C,B,B,A,A,A,C,A,A,A,A
+Male,English,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2004,4,5,22,2.9796,B,B,C,B,A,A,B,B,B,B,B,B,B,B,C,B,B,B,B,B,B,A,A,B,A,B,B,B,B,B,B,F,C,F,A
+Male,English,Perak,Yes,Diploma,Mostly B's,Often,Year 3 Trimester 1,2001,4,4,7,2.7954,C,A,B,B,B,C,B,B,A,A,B,A,A,B,A,A,C,B,A,A,B,A,A,C,F,C,B,B,F,B,F,B,C,C,C
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly C's,Sometimes,Year 3 Trimester 2,2004,4,3,2,2.9903,B,B,C,B,B,B,B,C,B,B,A,A,A,A,B,B,C,C,B,C,B,B,B,F,B,B,B,B,C,B,B,B,A,B,B
+Male,English,Selangor,Yes,Foundation in Science,Mostly C's,Sometimes,Year 3 Trimester 1,2004,4,4,20,3.3548,A,B,B,B,A,B,A,B,A,B,A,B,B,A,B,B,A,A,A,A,A,C,B,B,B,A,B,A,A,A,A,A,B,C,A
+Male,English,Pahang,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2003,4,4,8,3.8038,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Alumni,2003,3,5,9,3.7382,A,B,A,B,A,C,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,B,A,C,A,A,A,A,A,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 3,2002,4,5,17,2.513,B,B,A,B,B,B,C,F,B,B,C,B,C,C,B,C,C,B,C,C,C,A,C,B,B,F,B,B,C,C,B,B,B,A,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 3,2000,3,4,-3,3.1085,B,B,B,A,B,C,B,B,B,A,B,A,A,B,B,B,A,B,B,A,B,B,B,B,A,C,B,A,B,B,B,B,B,B,C
+Male,Chinese,Penang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 1,2004,3,4,9,3.3735,B,A,A,B,B,B,A,A,B,A,A,A,B,B,B,B,B,B,A,A,A,A,B,B,B,B,B,A,A,B,B,B,B,A,C
+Female,English,Perak,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 3,2005,5,4,18,3.493,A,A,B,A,A,B,B,C,B,A,B,A,B,B,B,C,B,A,A,A,A,A,A,B,B,A,A,C,A,A,A,A,B,A,A
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 3,2003,3,4,7,2.8122,A,B,B,C,C,C,B,B,B,A,B,B,A,B,B,C,B,C,B,B,B,B,B,C,C,C,B,F,A,B,B,C,A,B,A
+Female,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Never,Year 1 Trimester 2,2002,4,4,8,3.7785,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,B,B,A,B,A,A,A,A,A,A,A
+Male,Chinese,Kedah,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 2,2003,3,4,7,3.1305,B,B,C,B,C,B,A,A,A,A,B,B,A,B,B,B,B,A,A,B,C,A,C,A,A,C,C,A,C,A,C,C,A,C,A
+Male,English,Perak,No,Diploma,Mostly A's,Sometimes,Year 2 Trimester 2,2002,5,4,19,3.6078,B,A,A,C,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,B,C,B,B,A,A,A,A
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 1,2002,4,4,13,3.8974,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A
+Female,English,Sabah,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 2 Trimester 1,2003,3,4,10,3.4907,B,C,B,B,A,B,A,A,A,A,A,A,A,A,A,B,A,A,A,C,B,A,A,B,B,B,B,A,B,A,A,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 1,2003,3,4,22,3.8608,A,A,A,B,A,A,A,A,A,A,B,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A
+Male,English,Negeri Sembilan,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 1,2004,4,4,2,2.7686,C,A,B,B,F,B,B,B,B,A,A,A,B,C,A,A,C,B,C,A,B,A,B,B,C,F,B,F,B,C,C,C,C,A,C
+Male,Chinese,Perak,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 3,2003,4,5,9,3.7413,A,A,B,A,A,C,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,B,B,A
+Male,English,Sarawak,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 2,2004,4,4,0,3.2042,B,A,B,B,B,C,B,B,B,A,C,B,B,B,B,B,A,A,B,A,B,B,B,A,B,B,B,B,B,B,B,B,B,B,B
+Male,Chinese,Kuala Lumpur,No,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 3,2002,4,3,13,3.4904,A,A,B,B,B,B,A,A,A,A,B,A,A,A,A,B,B,A,B,A,A,A,B,A,B,B,B,B,B,A,A,C,B,A,B
+Female,Chinese,Pahang,Yes,UEC (Unified Examination Certificate),Mostly A's,Very Often,Year 2 Trimester 2,2000,3,3,2,3.1338,B,B,B,B,B,F,B,A,A,B,A,A,A,A,A,B,B,B,B,B,B,A,B,A,B,A,F,B,C,B,B,B,A,B,B
+Male,English,Kedah,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 2,2001,5,3,17,2.3137,C,C,C,A,C,B,C,C,B,B,B,B,B,C,F,C,C,C,C,C,A,B,B,C,F,B,B,C,C,F,C,B,C,C,C
+Male,English,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 3,2001,4,4,12,2.3333,B,B,B,A,B,A,F,C,C,C,C,B,C,C,C,B,B,C,B,C,F,B,B,C,B,C,B,C,B,B,C,C,A,B,C
+Female,Chinese,Kelantan,No,Foundation in Science,Mostly C's,Never,Year 3 Trimester 1,2000,2,2,4,2.3476,C,C,F,C,F,C,B,B,B,A,B,A,A,A,B,B,B,B,C,A,F,C,C,B,A,B,B,F,F,C,B,B,B,B,C
+Male,Chinese,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 3,2003,4,4,18,2.7204,C,B,B,B,B,B,B,B,B,A,C,C,B,C,A,A,B,B,B,B,B,B,F,C,C,C,B,F,C,B,B,B,B,C,B
+Male,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 3,2002,3,4,20,3.4444,B,B,A,B,A,B,B,B,A,A,A,B,A,B,A,A,A,A,B,B,A,B,B,B,A,B,B,B,A,B,B,B,B,A,B
+Female,English,Penang,No,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 1,2004,4,4,12,3.6442,A,A,B,B,B,A,A,A,A,B,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,C,B,A,B,B,B,A,B
+Male,English,Malacca,Yes,ALevel,Mostly A's,Very Often,Year 2 Trimester 2,2003,4,4,16,3.889,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A
+Male,Chinese,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 1,2002,3,4,-2,2.4783,C,B,B,B,F,B,B,B,C,B,C,A,B,C,B,A,F,F,A,B,B,B,F,B,C,C,B,B,A,C,F,B,C,B,B
+Male,English,Johor,Yes,Foundation in Science,Mostly B's,Never,Year 3 Trimester 1,2002,4,4,6,3.8268,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,B,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Male,English,Negeri Sembilan,No,Foundation in Art,Mostly C's,Never,Year 2 Trimester 3,2002,4,4,-5,3.6132,B,A,B,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,B,A,B,A,A,B,C,B,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 3 Trimester 2,2003,4,5,6,3.1166,B,B,B,A,B,B,C,B,B,A,B,B,B,B,B,A,B,B,B,A,B,A,A,C,B,B,B,B,B,B,B,B,B,B,B
+Female,Chinese,Sabah,Yes,UEC (Unified Examination Certificate),Mostly A's,Often,Year 2 Trimester 3,2001,4,4,7,3.8608,A,A,A,A,A,B,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A
+Male,Chinese,Kedah,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 1,2003,3,4,-9,3.5898,A,A,B,B,B,C,A,A,A,A,B,A,A,B,A,A,A,B,A,A,B,A,A,B,A,A,A,A,A,A,B,B,B,A,A
+Male,Chinese,Selangor,No,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 2,2003,4,4,4,2.2736,C,C,F,B,B,C,B,B,A,B,C,B,B,F,C,C,F,F,A,B,B,B,F,B,A,C,B,B,C,B,C,B,F,F,B
+Male,English,Sarawak,Yes,Diploma,Mostly B's,Sometimes,Year 2 Trimester 3,2002,4,4,10,2.9637,B,C,C,B,B,B,B,B,A,A,B,A,B,B,C,B,B,B,A,A,B,C,B,B,B,B,B,B,B,B,B,B,B,B,B
+Female,Chinese,Sarawak,Yes,Foundation in Art,Mostly A's,Often,Alumni,2004,3,3,20,3.8892,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A
+Male,English,Pahang,Yes,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 3,2002,4,4,3,3.7013,A,A,B,A,A,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,C,B,A,A,B,B,A,A
+Male,English,Pahang,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 2,2003,4,4,13,3.1338,B,B,A,B,B,B,B,C,B,A,B,B,C,B,A,C,A,A,B,C,B,C,A,A,B,B,B,B,B,A,A,B,B,A,B
+Male,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 2,2002,4,4,-6,2.4612,C,C,C,B,B,B,C,C,B,C,B,A,B,B,C,C,C,C,F,B,C,B,B,B,B,B,C,C,C,B,B,B,C,C,C
+Male,English,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 2,2002,4,5,6,3.1024,B,B,B,B,C,B,B,B,B,B,B,A,A,A,B,B,B,C,B,B,A,C,B,B,B,B,B,B,A,B,A,B,B,B,C
+Female,English,Negeri Sembilan,Yes,UEC (Unified Examination Certificate),Mostly B's,Never,Year 2 Trimester 3,2003,2,4,6,3.7638,A,A,A,A,A,B,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,B,B,B,B,A,A,A,B,A,B,A,A
+Male,English,Perak,Yes,Foundation in Art,Mostly A's,Often,Year 3 Trimester 3,2002,4,5,6,3.3449,B,B,C,A,B,B,A,A,A,A,B,B,B,B,A,A,A,B,A,B,A,B,C,B,B,B,B,B,B,B,B,A,A,A,B
+Female,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 3,2004,4,3,11,3.6503,A,A,B,A,B,B,A,A,A,A,B,B,A,A,A,A,A,B,A,A,A,A,B,A,A,A,A,A,B,B,A,A,A,B,A
+Male,English,Pahang,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 3,2003,4,5,21,3.3454,B,B,B,B,B,A,A,B,A,A,A,A,B,A,B,B,A,A,A,A,A,A,B,B,B,C,B,A,C,B,A,B,B,C,A
+Male,English,Kedah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 1 Trimester 2,2003,3,3,12,3.8836,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A
+Female,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 3,2003,4,4,1,3.3821,B,B,B,B,B,C,A,A,A,A,A,A,A,A,B,A,B,A,C,C,A,A,A,B,B,C,A,B,A,A,A,A,B,B,C
+Male,Chinese,Malacca,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 2,2002,4,4,6,3.7235,A,A,A,B,A,B,A,B,A,A,B,A,A,A,A,A,B,A,B,B,A,B,A,B,A,A,B,B,A,A,A,A,A,A,A
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 2,2001,3,4,12,3.6865,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,B,B,A,A,A,A,A,A,B,B,B,A,B,B,B,A,A,B,A
+Male,English,Negeri Sembilan,Yes,Foundation in Art,Mostly B's,Never,Year 2 Trimester 3,2003,4,3,13,3.7004,A,A,B,A,A,B,A,A,A,A,A,A,A,A,B,A,A,B,B,A,A,A,A,B,A,A,B,B,A,B,B,B,A,B,B
+Female,Chinese,Negeri Sembilan,No,Diploma,Mostly B's,Sometimes,Year 2 Trimester 2,2001,3,3,14,3.2021,B,A,B,F,C,B,A,A,A,A,A,A,A,A,A,B,B,C,A,B,A,A,A,B,A,B,B,B,B,B,F,C,C,C,A
+Female,Chinese,Perak,Yes,Foundation in Science,Mostly A's,Very Often,Year 1 Trimester 2,2003,4,3,1,3.7153,A,A,A,B,A,B,A,A,A,A,A,B,A,A,B,A,A,B,A,A,A,A,B,A,A,A,B,A,A,B,A,A,B,A,B
+Female,English,Penang,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 2,2003,5,4,14,3.7093,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,C,A,A,B,B,B,A,A,A,A,A,A,A,A,B,A,B,A
+Male,Chinese,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 3 Trimester 1,2003,4,4,-2,3.0769,A,A,C,B,B,C,C,B,B,A,A,A,B,B,A,A,A,B,B,A,C,A,A,A,B,A,A,C,C,C,B,C,A,F,A
+Female,English,Negeri Sembilan,Yes,ALevel,Mostly C's,Often,Year 2 Trimester 2,2001,4,3,18,3.5669,B,A,B,C,B,B,A,A,A,A,B,A,A,A,A,A,B,B,A,A,A,B,A,A,A,B,A,B,B,A,B,B,B,A,A
+Male,Chinese,Penang,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2002,3,5,15,3.7925,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,B,A,A,A,B,B
+Male,Chinese,Johor,Yes,Foundation in Art,Mostly A's,Never,Year 2 Trimester 3,2002,4,4,4,3.4108,B,A,A,B,C,B,A,A,A,A,A,A,A,A,B,B,F,A,A,A,A,A,C,A,A,B,B,C,A,A,A,B,C,A,A
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly A's,Often,Year 2 Trimester 3,2002,4,4,2,3.7613,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,B,A,A,A,A,A,B,B,B
+Male,English,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 2,2004,4,4,9,3.8326,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,B,A,A,A,A,A,A,A
+Male,Chinese,Pahang,Yes,UEC (Unified Examination Certificate),Mostly C's,Often,Year 2 Trimester 3,2002,4,5,8,3.3308,A,B,B,B,A,B,A,B,B,B,A,A,B,B,B,B,B,B,B,A,B,A,B,C,A,A,C,A,A,B,A,B,A,A,A
+Female,English,Johor,Yes,Foundation in Science,Mostly C's,Never,Year 2 Trimester 2,1999,4,3,6,3.0853,C,B,B,A,B,C,A,A,A,A,A,A,A,A,C,B,A,B,A,A,C,B,A,C,B,C,B,B,B,A,C,F,B,B,B
+Male,English,Malacca,Yes,Foundation in Art,Mostly C's,Often,Year 2 Trimester 2,2002,3,4,14,3.1908,C,B,C,C,A,B,A,B,B,A,B,B,B,B,A,A,A,C,B,A,C,A,B,A,C,B,B,B,A,A,A,A,B,A,A
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 1,2002,4,4,11,2.8894,B,B,C,C,B,C,B,C,B,A,B,A,B,B,B,A,A,B,A,A,B,B,C,F,B,C,B,B,B,B,B,B,A,B,B
+Male,English,Sarawak,Yes,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 3,2001,3,4,16,3.1908,C,B,B,B,B,A,B,B,A,B,B,B,A,A,B,B,A,B,B,B,B,A,C,B,B,A,B,B,B,B,A,B,B,A,B
+Male,Chinese,Malacca,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 2,2001,4,3,1,2.7176,C,B,C,C,B,B,B,B,B,A,B,A,A,B,B,C,B,F,C,A,B,B,C,A,B,B,B,C,C,C,C,C,C,B,C
+Female,English,Johor,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2001,4,4,3,3.9062,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,B,A
+Female,Chinese,Pahang,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 1,2000,3,4,12,3.6243,B,B,A,B,A,B,A,A,A,A,B,A,A,A,A,B,B,A,B,B,A,A,A,A,B,B,A,A,A,B,A,A,A,A,B
+Male,Chinese,Selangor,Yes,Diploma,Mostly B's,Sometimes,Year 2 Trimester 1,2002,3,4,4,2.9684,C,B,C,C,B,C,A,A,A,A,C,B,A,B,B,A,B,B,B,A,B,C,B,F,A,B,C,A,B,B,C,B,A,C,C
+Female,English,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Never,Year 1 Trimester 2,2001,3,5,-1,3.7666,A,A,B,B,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,C,A,A,A,A,A,A,A,A
+Male,Chinese,Kedah,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 2 Trimester 2,2003,2,4,-1,3.8862,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,A,B,A,B
+Female,English,Malacca,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 2,2003,4,4,8,3.5759,B,A,B,B,A,B,A,A,B,A,A,A,A,A,A,B,B,B,A,B,A,A,A,A,A,A,C,A,A,B,B,A,A,B,A
+Male,Chinese,Perak,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 2,2003,3,3,10,3.7495,A,A,A,A,A,C,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,B,A,B,A,A,A,A,A,B,A
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Sometimes,Year 1 Trimester 3,2004,3,4,-5,3.5273,B,A,B,B,A,B,A,A,A,A,A,A,A,A,B,A,B,B,A,A,B,B,A,A,A,A,C,A,A,A,B,A,C,A,B
+Female,Chinese,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 2,2001,3,4,18,3.724,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,B,A,A,B,B,A,B,A,A,A,B,A
+Male,Chinese,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 3,2002,3,4,4,2.9656,B,B,B,B,C,C,B,B,B,B,B,C,A,A,C,B,B,A,C,C,B,B,A,B,A,B,A,C,A,C,C,A,C,B,B
+Male,Chinese,Kedah,No,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 3,2001,3,3,4,3.2626,A,A,B,B,B,C,B,B,B,A,A,A,A,A,B,B,B,B,B,A,B,A,A,B,A,C,B,A,B,B,A,B,B,A,B
+Female,English,Kedah,Yes,Foundation in Art,Mostly C's,Sometimes,Year 3 Trimester 2,2003,3,4,19,3.2648,C,B,A,B,B,B,B,A,A,B,A,A,A,B,A,B,A,A,B,A,A,B,C,F,B,B,B,A,A,B,B,B,B,B,C
+Female,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 1 Trimester 3,2001,4,5,23,3.7408,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,B,B,A,A,A,B,A,A,A,B,B,B,B,B
+Male,Chinese,Johor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 1 Trimester 3,2002,3,3,16,3.8436,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,B,A,B,A,A,A,B,A,A,A,A,A,A,A,A,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 2 Trimester 2,2003,3,3,15,2.5814,B,F,B,C,B,A,C,C,B,C,B,B,B,B,B,C,C,B,B,C,B,B,C,C,B,B,C,B,B,C,B,B,B,C,C
+Male,English,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 2,2004,5,5,4,3.8468,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A
+Male,English,Johor,No,Diploma,Mostly A's,Often,Year 3 Trimester 2,2003,5,4,6,3.5474,B,A,B,A,B,A,B,A,A,A,A,A,B,A,A,A,B,B,A,B,A,B,A,A,B,A,A,B,A,A,B,B,B,B,A
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 2,2002,4,4,-4,3.6668,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,B,A,B,A,A,B,B,A,B,B,A,A
+Male,Chinese,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 3 Trimester 1,2002,4,5,7,3.8151,A,B,A,A,A,B,A,A,A,A,A,A,A,A,B,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A
+Male,English,Kuala Lumpur,Yes,Foundation in Science,Mostly B's,Never,Year 3 Trimester 1,2002,4,4,7,3.7183,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,B,A,A,B,C,B,A,A,A,A,A,A
+Male,Chinese,Malacca,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 2,2002,3,4,17,3.2967,B,A,B,A,B,A,A,A,A,A,A,B,B,A,A,A,B,F,A,A,C,A,A,A,A,A,A,B,B,B,B,B,A,C,B
+Male,English,Negeri Sembilan,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 3,2000,4,5,9,3.14,A,A,A,B,B,F,B,B,B,B,B,B,B,B,A,B,A,C,B,C,A,B,A,A,A,B,F,B,A,A,C,B,A,A,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 3 Trimester 1,2001,3,4,14,3.5735,A,A,A,A,A,A,A,B,A,B,A,A,A,A,B,B,A,A,B,B,B,A,A,A,A,A,B,A,A,B,B,A,A,A,B
+Male,English,Negeri Sembilan,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 2,2002,4,4,12,3.5647,B,A,B,B,A,B,A,A,A,A,A,A,A,A,B,A,C,B,B,A,A,A,B,B,B,A,B,A,A,A,A,A,A,A,B
+Female,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 3,2003,4,5,15,3.2628,A,A,A,A,B,A,F,A,B,A,A,A,B,C,A,A,F,A,A,A,A,A,C,C,A,A,A,B,A,A,B,A,F,B,A
+Female,English,Selangor,No,Foundation in Science,Mostly C's,Often,Year 3 Trimester 1,2003,4,3,3,2.592,C,C,B,F,B,A,C,C,C,B,C,B,C,B,C,B,B,B,C,B,A,C,C,B,C,A,F,C,B,B,C,C,B,C,B
+Male,English,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2004,4,4,3,3.234,B,B,B,B,B,C,A,B,A,A,A,B,A,A,B,B,F,B,B,B,B,A,B,A,B,A,A,A,A,A,B,B,A,C,A
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 3 Trimester 3,2003,4,4,3,2.8687,A,C,C,B,B,B,B,B,B,B,B,B,B,B,C,A,B,C,A,B,C,B,B,A,B,C,A,A,A,A,B,F,F,B,B
+Male,Chinese,Selangor,Yes,Diploma,Mostly A's,Often,Year 3 Trimester 1,2001,3,4,7,3.1628,B,B,A,B,B,C,B,B,B,A,B,A,A,B,B,B,C,B,A,C,A,B,C,C,B,B,A,A,B,B,B,A,B,A,A
+Female,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2004,3,3,5,3.2364,B,A,A,B,C,B,A,A,A,A,A,A,A,A,A,A,C,A,A,A,B,A,B,A,A,B,A,F,A,C,C,C,F,C,B
+Male,English,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 3 Trimester 3,2002,4,4,11,2.1823,F,B,C,B,C,B,C,F,C,B,B,C,C,C,C,B,C,F,B,B,B,C,C,C,C,C,B,C,C,B,C,B,C,C,B
+Male,Chinese,Sarawak,No,Diploma,Mostly B's,Sometimes,Year 2 Trimester 2,2003,4,5,12,3.3134,B,A,C,B,B,B,A,A,A,B,C,C,B,B,A,B,A,A,A,A,A,A,B,A,B,A,A,A,B,C,C,B,B,C,B
+Male,Chinese,Penang,Yes,Foundation in Science,Mostly A's,Often,Year 1 Trimester 3,2003,4,4,13,3.9174,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A
+Female,Chinese,Penang,Yes,Foundation in Art,Mostly B's,Sometimes,Year 1 Trimester 2,2003,4,4,12,3.9233,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A
+Male,English,Johor,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 3,2004,3,4,7,3.1828,B,A,F,B,B,B,A,B,A,A,B,B,B,B,A,A,A,A,A,A,B,A,B,A,B,B,A,A,C,A,B,B,B,F,B
+Male,Chinese,Negeri Sembilan,No,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 3,2002,3,3,7,2.6179,B,B,C,B,B,B,F,C,B,B,C,B,B,B,A,B,F,B,A,B,C,B,B,B,A,B,B,C,B,B,B,F,C,B,C
+Female,Chinese,Perak,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 3,2002,4,3,15,3.3014,B,B,B,B,C,B,B,A,B,A,B,A,A,A,A,B,C,A,A,A,B,A,A,C,A,C,A,C,A,B,C,A,B,B,B
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 3 Trimester 3,2000,3,4,13,2.7862,B,C,B,B,B,B,C,C,B,B,A,A,A,B,F,B,C,B,F,C,B,B,B,B,B,B,A,B,B,B,B,B,B,B,C
+Male,English,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 2,2003,4,4,0,3.1883,B,A,C,B,C,C,A,A,B,A,A,A,A,A,A,A,B,B,A,B,A,A,A,C,C,B,A,A,C,A,B,C,B,C,F
+Female,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 1,2002,4,3,7,3.49,B,B,B,B,A,A,B,A,A,A,B,A,A,A,B,B,C,B,B,A,A,B,B,A,A,B,A,A,B,A,B,A,B,B,A
+Male,Chinese,Selangor,No,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 2,2005,4,4,11,3.6902,A,A,B,B,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,A,B,B,A,B,A,B
+Female,Chinese,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 3,2002,5,4,12,3.3788,A,B,A,B,B,A,B,B,B,B,A,B,A,A,A,B,B,B,A,B,B,A,A,B,A,B,A,C,A,A,A,B,A,B,C
+Female,English,Selangor,Yes,Diploma,Mostly B's,Never,Year 2 Trimester 3,2002,4,4,4,3.6329,A,A,B,C,B,B,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,A,B,B,A,A,A,A,A,B,A,B
+Male,Chinese,Sabah,Yes,Foundation in Art,Mostly A's,Very Often,Year 2 Trimester 1,2002,4,4,15,3.7328,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,A,A,A,B,B,A,B,A,A,A,B,A,B
+Male,English,Selangor,Yes,Foundation in Science,Mostly C's,Sometimes,Year 3 Trimester 3,2004,5,4,0,2.2165,C,F,F,C,C,C,B,C,B,A,C,B,B,C,B,C,B,A,B,A,B,C,C,F,C,F,F,A,C,C,C,C,C,F,B
+Male,Chinese,Sarawak,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 2 Trimester 3,2002,4,5,3,3.1879,A,B,B,A,B,C,B,C,C,A,A,A,A,B,A,A,B,B,B,C,A,C,B,B,B,B,B,A,B,B,B,C,B,B,A
+Male,English,Kedah,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 3,2000,5,4,11,3.3017,B,B,B,B,B,C,A,A,A,C,A,A,A,A,B,B,A,C,B,C,A,C,A,A,C,A,A,B,C,A,B,B,B,B,A
+Female,Chinese,Kelantan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 1,2001,4,3,11,3.638,A,B,B,A,A,A,A,B,A,A,A,A,A,A,B,B,A,B,B,B,A,B,A,A,A,A,B,A,B,B,B,A,A,A,B
+Male,Chinese,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Never,Year 2 Trimester 1,2003,3,4,2,3.9059,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,A,A,A,A,B,A,A,B,A,A
+Female,English,Kuala Lumpur,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 3,2002,4,4,11,3.752,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,B,A,B,A,A,A,B,A,B,B,A
+Male,Chinese,Penang,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 2,2003,4,5,2,2.9109,B,A,F,C,B,F,B,B,B,A,B,B,B,C,A,A,B,C,A,A,B,A,B,A,B,C,C,B,C,A,C,B,C,C,B
+Female,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 3,2001,3,5,3,3.8892,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A
+Female,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Sometimes,Alumni,2004,3,3,9,3.88,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,A,B,A,A,A,B,A
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 3 Trimester 1,2002,4,4,8,3.3277,B,B,B,C,B,C,A,A,B,A,A,A,A,C,B,A,A,A,A,B,A,A,F,B,B,B,A,A,A,B,C,A,B,A,B
+Male,English,Selangor,Yes,Foundation in Art,Mostly A's,Never,Year 2 Trimester 2,2002,3,4,8,3.5699,A,A,B,B,B,A,A,A,A,A,B,B,A,A,A,A,A,A,A,B,B,B,B,A,A,A,B,B,A,A,B,A,B,A,B
+Male,English,Malacca,No,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2001,4,4,4,2.9999,C,A,B,A,B,B,B,B,A,A,A,B,B,A,A,B,B,C,B,A,A,B,B,B,B,C,F,C,B,A,B,F,B,C,C
+Female,English,Perak,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 2,2003,3,4,3,3.7526,A,A,B,B,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,C,A,B,A,A,A,B
+Male,Chinese,Kedah,No,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2002,4,4,11,3.8721,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,B,B,A
+Male,English,Sarawak,Yes,Foundation in Art,Mostly A's,Very Often,Year 2 Trimester 1,2002,4,4,16,3.6123,A,A,A,A,A,A,B,B,B,B,B,A,A,B,A,A,A,A,B,A,B,A,B,A,A,A,A,B,B,A,A,B,B,A,A
+Female,Chinese,Sarawak,No,Foundation in Science,Mostly A's,Often,Year 3 Trimester 1,2003,4,5,14,3.5726,A,A,B,B,B,A,A,B,B,A,A,A,A,A,A,A,A,A,B,B,B,A,A,B,B,A,A,A,B,B,A,A,A,B,B
+Male,English,Malacca,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 1,2001,3,5,8,2.9972,A,B,B,C,C,C,B,B,A,B,B,A,A,B,A,A,C,C,B,B,C,A,A,B,A,B,C,C,B,A,A,B,B,B,C
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 3,2002,4,5,15,2.8776,B,C,B,B,B,C,B,B,B,B,B,B,B,B,A,C,A,C,B,B,B,B,B,B,B,B,B,A,C,C,A,C,B,B,C
+Female,English,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 1,2002,4,4,13,3.9149,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A
+Male,Chinese,Penang,No,Foundation in Art,Mostly B's,Often,Year 3 Trimester 2,2001,5,3,11,2.7691,C,B,B,C,F,B,B,B,B,B,B,B,A,A,B,B,A,B,B,B,B,B,C,A,B,B,B,B,B,B,F,C,C,B,C
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 2,2001,4,4,10,3.8551,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A
+Male,Chinese,Johor,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 2,2001,4,3,5,3.4386,B,B,A,B,C,B,A,B,A,A,A,A,A,A,A,B,C,A,A,A,A,A,C,A,C,B,A,A,F,A,C,A,A,A,A
+Female,English,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Alumni,2003,3,4,0,3.6897,A,A,B,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,B,A,B,B,A,A,A,A,A,B,A,A,A,A,C,B
+Female,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 3 Trimester 2,2003,4,4,16,3.4303,B,A,A,A,B,B,A,B,B,B,A,A,A,A,B,B,B,B,B,A,A,B,B,B,A,B,A,C,A,C,B,A,A,A,A
+Female,English,Malacca,Yes,Diploma,Mostly A's,Very Often,Year 2 Trimester 3,2002,4,4,15,3.3795,A,A,A,A,A,A,B,B,A,B,B,A,B,B,B,B,A,B,B,C,A,C,B,A,C,A,C,A,A,A,A,B,A,B,A
+Male,English,Selangor,Yes,Diploma,Mostly A's,Often,Year 3 Trimester 1,2002,4,4,14,3.3053,A,B,B,A,B,A,B,B,B,A,B,A,B,B,B,A,B,A,B,A,B,B,B,A,B,B,B,A,A,A,B,B,A,C,A
+Male,English,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2003,4,4,4,3.1163,B,C,B,B,B,A,B,B,B,B,B,F,B,B,B,C,A,C,C,A,A,B,A,B,B,A,B,C,B,A,A,B,B,A,B
+Male,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Never,Year 3 Trimester 1,2000,4,5,3,2.5003,B,C,C,C,B,C,F,B,C,B,B,B,B,C,B,C,F,C,C,B,B,C,C,B,C,A,C,B,C,B,B,B,B,B,F
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 1 Trimester 2,2003,4,4,22,3.7041,A,A,A,A,A,A,A,A,A,B,B,A,A,B,B,A,A,A,B,A,A,A,A,A,B,A,A,B,A,A,C,A,A,A,B
+Female,Chinese,Kelantan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 2 Trimester 2,2002,4,4,17,3.6351,A,B,B,B,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,C,C,A,A,A,A,A,A,A,A,A,B,A,B,A,B
+Female,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 2,2002,4,5,19,3.3248,A,A,A,B,A,A,C,B,B,B,A,A,B,B,B,A,A,A,A,A,C,A,A,A,B,A,B,B,A,B,A,C,B,B,C
+Female,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2001,4,4,6,2.1714,B,C,F,F,C,C,F,B,C,A,F,C,B,F,B,A,C,B,B,B,B,A,A,C,B,C,C,F,B,C,C,C,B,B,F
+Female,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 1,2003,4,4,11,3.673,A,A,B,A,A,B,A,B,A,A,A,A,A,A,C,A,B,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,C,A,B
+Female,English,Malacca,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 3,2003,4,5,13,3.7095,A,A,A,A,A,A,C,B,A,A,A,A,A,B,B,C,A,A,A,C,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A
+Female,English,Malacca,No,Foundation in Art,Mostly B's,Never,Year 2 Trimester 2,2003,4,4,9,2.9032,C,B,C,F,B,B,A,A,A,A,C,B,B,B,A,B,C,C,A,B,C,A,B,A,A,C,C,A,C,B,B,A,C,B,B
+Male,English,Kedah,No,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 1 Trimester 3,2003,4,4,2,3.8544,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,B,A,B,B,A,A
+Male,Chinese,Perak,Yes,Foundation in Art,Mostly A's,Very Often,Year 2 Trimester 3,2004,4,3,7,2.8551,B,B,B,B,B,B,B,B,B,B,B,B,C,B,C,B,B,B,A,C,B,B,A,B,B,B,B,F,C,C,A,A,B,B,B
+Male,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 3,2003,4,4,3,3.6838,A,A,A,A,A,B,B,A,A,A,B,B,B,B,A,A,A,A,A,B,A,A,A,A,A,A,B,B,A,A,B,A,B,A,B
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 1,2003,4,4,4,3.4841,A,A,B,A,B,B,B,A,A,A,A,A,A,A,A,A,A,B,B,A,B,A,A,B,C,A,C,C,B,B,A,B,A,B,A
+Male,Chinese,Sabah,Yes,Diploma,Mostly B's,Often,Year 3 Trimester 1,2001,4,5,10,3.7556,A,A,A,B,A,A,A,A,A,A,B,A,A,A,B,A,A,A,A,A,A,A,B,A,B,A,A,A,B,A,A,A,A,B,A
+Female,Chinese,Kuala Lumpur,No,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 2 Trimester 3,2003,4,3,7,3.7326,A,A,A,A,A,A,A,B,B,B,A,A,A,A,A,B,A,A,B,B,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A
+Female,English,Sarawak,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2003,4,4,-6,3.1506,B,B,B,C,C,C,B,A,A,A,A,A,A,B,A,C,B,B,A,A,B,A,C,B,B,A,B,B,C,C,C,B,B,B,A
+Female,English,Kedah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 2 Trimester 3,2003,5,3,15,3.7412,A,A,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,B,A,A,B,A,B,B,A,A,A
+Female,Chinese,Kelantan,Yes,UEC (Unified Examination Certificate),Mostly C's,Sometimes,Year 3 Trimester 1,2002,2,2,9,3.0798,B,B,B,B,B,B,A,B,B,B,B,B,A,A,C,C,A,B,B,B,B,B,C,A,B,B,C,B,B,B,A,A,B,B,B
+Female,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 1 Trimester 3,2003,3,3,17,3.7869,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,B,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A
+Male,Chinese,Pahang,Yes,Diploma,Mostly A's,Sometimes,Year 2 Trimester 3,2003,4,4,9,3.2764,B,A,B,B,B,B,B,B,B,B,B,A,B,B,B,A,B,B,A,A,B,A,A,B,A,B,A,B,A,B,B,B,A,B,B
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 2,2003,3,4,4,3.5643,A,B,B,B,A,B,B,A,A,A,B,B,A,A,B,A,A,A,B,A,A,A,B,A,A,B,A,B,B,A,C,B,A,A,A
+Male,Chinese,Selangor,No,Foundation in Science,Mostly C's,Often,Year 2 Trimester 2,2002,3,5,3,2.9133,C,A,B,B,C,C,B,B,B,A,B,A,A,B,B,A,B,C,A,B,A,A,F,C,C,C,B,A,C,C,B,C,C,F,C
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 2,2002,4,4,3,2.8178,B,B,C,B,B,C,C,C,C,B,C,B,B,B,B,A,B,A,A,F,B,B,A,B,B,B,C,B,C,B,B,B,A,B,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Year 3 Trimester 1,2003,3,4,11,3.1939,A,B,B,A,C,B,B,B,A,A,B,A,A,B,B,A,C,B,A,B,B,A,B,C,A,A,B,C,A,A,A,B,B,A,F
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 1,2003,4,3,9,2.9139,B,B,B,A,F,C,B,B,B,C,B,A,A,A,B,B,B,A,B,B,B,B,A,B,F,B,B,F,B,B,C,A,C,B,A
+Female,Chinese,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 1,2003,3,3,-5,3.285,B,A,B,B,B,B,B,B,A,B,A,A,A,A,A,B,B,B,B,B,B,C,A,B,B,B,B,A,B,A,A,B,B,B,A
+Male,English,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 2 Trimester 3,2003,4,4,-5,3.2941,A,A,B,B,A,B,B,C,C,A,A,A,B,C,C,A,B,B,A,C,A,C,A,A,A,A,B,B,A,A,A,B,A,B,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 1,2003,3,4,22,3.4154,B,A,A,B,B,B,B,A,A,A,B,B,B,B,B,A,B,A,A,A,B,A,A,B,B,B,B,B,A,B,B,B,A,B,B
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 2,2002,4,5,9,3.7094,A,B,B,A,A,C,A,B,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,B,A,A,B,B,A,A,A,B,A,A,A
+Male,English,Perak,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 3,2002,4,5,11,3.5464,B,B,A,A,B,A,A,A,A,A,B,A,A,A,A,A,A,B,B,B,B,B,B,B,A,B,B,B,A,C,A,A,A,B,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Alumni,2003,3,4,3,3.5279,B,A,A,B,A,B,A,B,A,A,A,A,A,A,A,A,B,B,A,A,B,B,A,A,A,B,B,A,B,B,A,A,A,A,A
+Female,Chinese,Penang,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 3,2001,4,4,14,3.5879,B,A,B,A,A,B,A,A,A,A,A,A,A,A,B,A,B,A,A,A,B,A,A,A,A,B,B,A,A,A,B,A,A,A,B
+Male,Chinese,Malacca,Yes,UEC (Unified Examination Certificate),Mostly A's,Often,Year 1 Trimester 3,2003,4,4,-4,3.9064,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,B,A,A
+Male,Chinese,Perak,Yes,Foundation in Art,Mostly A's,Never,Year 2 Trimester 1,2002,5,5,20,3.6985,B,A,A,B,A,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,B,A,A,A,A,A,B,B,B,A,A
+Male,English,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Never,Year 2 Trimester 1,2003,3,4,3,3.8349,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,B,B,A,B,A,A,A,A,A,A,A
+Female,Chinese,Penang,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 2,2002,3,4,13,3.8036,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,B,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A
+Male,Chinese,Sarawak,Yes,UEC (Unified Examination Certificate),Mostly B's,Very Often,Year 2 Trimester 2,2002,3,4,2,3.1709,B,B,A,A,A,B,C,F,B,B,B,B,B,B,C,A,A,A,A,B,A,B,A,C,C,B,A,C,B,A,B,A,B,B,A
+Female,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 3,2002,4,3,22,2.9544,B,A,C,A,C,B,B,B,B,A,B,B,B,B,A,B,F,A,A,A,C,B,B,A,B,A,B,B,B,B,B,C,C,C,B
+Male,Chinese,Kedah,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 1,2003,3,4,7,3.6359,A,A,A,A,A,B,A,A,A,A,A,A,A,B,A,A,A,A,A,B,B,B,A,B,A,A,A,A,A,B,C,A,A,B,A
+Female,English,Pahang,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 3,2004,4,4,9,2.6956,B,A,A,B,B,B,F,C,B,B,C,A,B,C,C,B,A,B,B,A,C,B,C,F,B,C,C,A,B,B,C,B,A,A,B
+Female,English,Kuala Lumpur,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2002,4,3,20,3.6158,B,B,B,B,A,B,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,B,A,A,A,A,B,C,A,A,A,B,A,B
+Male,English,Kuala Lumpur,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 2,2001,5,3,16,3.5267,A,B,A,B,B,B,A,B,A,A,C,B,A,A,A,C,A,B,A,A,B,B,A,A,A,A,A,B,A,A,B,B,A,B,A
+Male,English,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 3 Trimester 1,2003,4,5,0,3.821,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,B,A,A,A,A,A,A,A,A,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Never,Year 3 Trimester 3,2000,4,5,7,3.5582,A,A,B,A,A,C,B,B,B,A,A,A,A,A,B,B,C,A,A,A,B,A,A,A,A,A,B,A,A,A,B,A,B,B,A
+Male,English,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 3,2004,5,5,21,3.8465,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,A,A,A
+Female,English,Malacca,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 2,2003,4,3,4,3.3647,A,A,B,B,B,C,A,B,A,A,B,A,A,A,A,A,B,A,B,A,C,B,B,A,A,A,B,B,B,A,A,A,B,B,C
+Male,Chinese,Perak,Yes,UEC (Unified Examination Certificate),Mostly A's,Sometimes,Year 3 Trimester 1,2004,2,4,-2,2.7154,A,B,B,B,B,C,C,B,B,A,B,B,B,C,A,B,B,B,A,B,C,C,C,C,C,F,B,A,C,C,B,B,B,A,C
+Female,Chinese,Penang,Yes,UEC (Unified Examination Certificate),Mostly A's,Sometimes,Year 3 Trimester 3,2002,4,4,16,3.0488,B,B,B,A,B,B,B,C,C,C,B,A,A,A,B,B,B,B,B,C,A,C,B,B,A,C,B,A,B,A,B,A,C,B,B
+Female,Chinese,Perak,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 2,2000,3,5,6,3.4417,B,B,B,B,A,F,A,A,A,A,A,A,A,A,A,A,B,A,A,B,B,B,A,B,A,A,C,B,A,B,A,A,B,B,A
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly A's,Often,Year 1 Trimester 3,2004,4,5,4,3.8974,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Female,English,Sarawak,Yes,Diploma,Mostly B's,Often,Year 2 Trimester 2,2003,4,4,13,3.7551,B,A,A,B,B,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,A,B,A,A,A,A,A,B,A,B,A,A
+Female,Chinese,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 1 Trimester 2,2001,3,4,12,3.7266,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,B,A,B,A,A,B,A,A,A,A,A,B,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Sometimes,Year 3 Trimester 3,2003,4,4,6,2.2646,A,B,F,B,C,F,C,F,F,A,C,B,B,C,A,C,F,A,C,C,F,A,C,B,B,A,C,A,C,B,A,F,A,B,B
+Male,Chinese,Penang,Yes,Foundation in Science,Mostly C's,Often,Year 3 Trimester 1,2002,4,5,10,3.4421,A,A,B,B,A,B,A,B,A,A,A,B,B,B,B,A,A,B,B,B,A,A,B,B,B,B,A,A,B,B,A,B,B,A,A
+Male,English,Perak,Yes,Foundation in Science,Mostly C's,Often,Year 2 Trimester 3,2003,5,4,11,3.8354,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A
+Male,English,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Never,Year 3 Trimester 2,2003,4,4,-3,3.1883,A,B,B,B,B,C,B,B,B,A,B,A,A,A,A,A,A,B,B,A,B,B,A,C,B,B,C,C,B,B,B,B,A,A,B
+Male,English,Perak,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 2,2002,5,3,-4,3.7497,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,B,B,A,A,A,B,A,A,A
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 1,2001,5,3,9,3.4025,B,B,A,A,B,B,A,B,B,A,C,B,A,A,A,B,B,A,A,B,A,B,A,A,A,A,A,B,B,B,B,B,A,B,A
+Female,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 2,2002,3,4,10,3.8777,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A
+Male,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 1,2002,3,5,9,3.2891,B,A,A,A,B,B,B,B,B,A,A,A,A,A,A,A,B,A,A,B,B,A,A,B,B,B,B,B,B,A,B,B,A,B,B
+Male,Chinese,Sabah,No,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 2,2003,4,4,13,3.1615,B,A,B,B,B,A,B,A,B,A,A,B,B,B,A,A,B,C,A,A,B,A,B,B,B,C,B,C,B,F,C,B,B,B,B
+Male,Chinese,Kuala Lumpur,No,Foundation in Science,Mostly C's,Sometimes,Year 3 Trimester 1,2001,4,4,3,2.7954,B,B,B,F,B,C,A,B,C,B,B,B,B,C,B,B,B,B,B,B,B,B,B,C,B,C,A,A,B,C,A,B,B,B,C
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2002,4,3,3,2.4412,B,B,C,F,F,F,B,B,C,A,C,B,B,B,B,A,C,B,B,B,C,A,B,C,F,C,C,C,C,B,B,C,B,B,B
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 2,2003,5,3,7,3.1144,B,B,B,A,C,A,A,B,B,B,A,A,B,A,C,B,B,B,B,C,B,B,B,A,A,C,A,A,C,B,A,C,A,B,B
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 1 Trimester 3,2002,4,5,6,3.861,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2003,4,4,6,3.3484,B,B,B,C,B,B,B,A,B,A,B,A,A,B,A,B,B,A,A,B,A,A,C,A,A,B,B,B,A,B,A,B,A,A,A
+Male,Chinese,Kedah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 1,2003,4,5,8,3.5813,A,A,B,A,A,A,A,A,A,B,B,B,A,A,B,B,A,A,A,B,B,A,A,C,A,A,B,A,B,A,A,B,A,A,B
+Male,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 3 Trimester 1,2003,4,4,12,3.3274,B,B,B,A,B,A,A,B,A,B,B,B,A,A,A,A,A,B,B,A,C,B,B,B,A,B,A,A,B,A,B,C,B,B,A
+Female,English,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 1,2002,3,3,9,3.4445,A,B,B,B,B,B,A,A,A,A,B,B,A,A,A,A,B,A,A,A,B,C,B,B,B,A,B,B,A,B,A,A,B,B,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 1 Trimester 3,2001,2,4,4,3.7438,A,A,B,B,A,B,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,A,B,B,A,A,A,A,B,B,A,A
+Male,Chinese,Pahang,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 2,2001,4,5,10,3.3162,B,B,B,B,B,C,B,B,B,A,A,A,A,B,B,B,B,A,A,A,B,B,A,A,B,A,B,A,B,B,A,B,A,B,B
+Male,Chinese,Perak,Yes,UEC (Unified Examination Certificate),Mostly C's,Often,Year 3 Trimester 3,2004,3,5,4,3.4381,B,B,B,A,B,B,A,A,B,A,A,A,A,A,A,A,A,B,B,A,B,A,A,B,B,C,B,A,B,B,B,B,B,B,B
+Male,Chinese,Pahang,No,Foundation in Science,Mostly A's,Often,Year 3 Trimester 1,2003,4,4,6,3.4845,A,A,A,A,B,A,A,B,B,A,B,A,B,B,A,A,B,B,A,A,A,B,B,B,A,B,A,B,B,B,A,B,B,A,B
+Male,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 3 Trimester 3,2001,4,5,3,2.2449,B,B,F,B,B,C,F,F,B,B,B,C,C,B,B,B,C,B,B,A,C,C,C,B,B,B,C,B,F,B,C,C,C,C,F
+Female,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly C's,Very Often,Year 3 Trimester 1,2002,3,3,6,3.3565,A,B,A,B,B,A,B,B,B,B,A,A,A,A,B,B,B,B,B,B,B,B,B,A,A,A,A,A,B,B,B,A,A,A,B
+Male,Chinese,Malacca,No,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 2,2001,4,4,1,3.1963,B,B,C,B,B,B,A,B,A,A,B,B,A,B,A,B,B,B,B,B,B,B,B,A,B,B,B,A,C,B,A,A,B,C,B
+Female,Chinese,Kedah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 2,2003,4,3,16,3.7802,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,B,B,A,B,A,B,A,A,A,B,B
+Female,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 3 Trimester 3,2001,4,3,15,2.8176,B,B,F,B,B,A,B,C,B,B,B,B,B,B,F,B,A,B,B,C,B,B,B,A,B,A,B,B,B,B,B,F,A,B,C
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 1,2001,4,4,7,3.2108,A,B,B,B,B,B,B,B,A,B,C,B,B,C,B,C,A,A,B,B,B,B,B,C,B,B,A,A,A,A,B,A,A,A,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 3,2003,4,5,16,2.8405,A,A,B,B,A,B,F,B,F,A,B,B,B,C,A,A,B,A,A,A,C,A,C,C,A,C,C,F,A,A,B,F,A,B,A
+Male,English,Kedah,No,Foundation in Science,Mostly B's,Never,Year 2 Trimester 2,2002,4,4,-1,3.5366,B,A,A,A,B,A,A,B,B,A,B,B,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,C,B,A,A,B,A,B,A
+Male,Chinese,Malacca,No,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 1,2002,3,4,1,3.0115,C,A,C,C,B,B,B,B,B,B,A,A,B,A,A,B,C,B,A,A,C,B,A,A,A,B,C,A,F,B,C,A,A,B,B
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 3 Trimester 1,2004,4,4,4,2.7411,B,B,C,C,C,B,B,B,B,B,B,B,B,B,B,A,F,C,A,B,C,A,B,B,B,B,B,B,B,C,A,C,B,B,B
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly A's,Very Often,Year 3 Trimester 1,2005,5,4,16,2.9197,A,B,B,A,A,B,C,C,B,C,A,B,B,C,C,B,B,C,C,C,B,C,A,B,C,C,C,B,A,A,A,C,B,C,A
+Female,Chinese,Perak,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 2 Trimester 2,2001,3,3,6,3.7328,A,B,B,A,A,B,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,C,A,A,A,A,A,B,A,A
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 1,2003,4,4,19,3.0374,A,B,A,B,B,B,B,C,B,B,B,B,B,B,B,B,B,B,B,B,B,B,A,C,B,C,A,B,B,C,B,A,B,A,A
+Male,Chinese,Penang,Yes,Foundation in Art,Mostly A's,Often,Year 3 Trimester 1,2002,4,5,14,3.7335,A,A,A,A,A,B,A,B,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A
+Male,Chinese,Sarawak,Yes,Diploma,Mostly A's,Sometimes,Year 2 Trimester 2,2002,5,4,10,3.5646,A,A,B,A,B,B,A,A,A,A,A,A,A,A,A,B,A,C,B,B,A,A,A,B,B,B,A,A,B,A,A,A,B,B,A
+Male,Chinese,Sabah,No,Diploma,Mostly B's,Sometimes,Year 3 Trimester 2,2003,4,4,4,1.6662,C,C,F,F,F,F,C,C,C,B,F,F,C,F,B,C,B,C,F,B,C,B,B,F,F,C,C,C,F,C,C,C,B,B,C
+Male,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Sometimes,Year 3 Trimester 2,2003,2,4,10,3.5633,B,A,B,C,B,B,A,A,A,A,B,A,A,A,A,A,C,B,A,B,A,A,A,A,B,A,B,B,B,B,B,B,B,A,A
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 2,2001,3,5,9,3.3562,A,B,B,B,A,B,A,B,B,A,C,C,B,B,A,A,A,B,B,B,B,B,B,B,B,A,A,B,A,A,B,A,A,A,A
+Male,Chinese,Johor,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 1,2001,3,4,5,3.8126,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,B,A,A,A
+Female,Chinese,Sarawak,Yes,Foundation in Science,Mostly A's,Very Often,Year 3 Trimester 1,2002,4,4,8,3.3767,A,A,B,A,B,C,A,B,A,A,A,A,A,A,A,A,B,B,B,A,B,A,A,A,B,C,B,B,A,A,A,B,B,B,C
+Male,English,Sarawak,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2002,4,5,-4,3.7663,A,A,A,B,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,B,A,A,A,A,B,A,A,A
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 2,2005,3,4,3,3.0867,A,B,B,B,B,C,B,A,A,B,C,B,A,B,B,A,A,B,B,A,A,A,B,B,B,F,B,B,B,B,B,C,A,B,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Very Often,Year 2 Trimester 3,2002,4,5,9,3.3963,A,A,B,A,C,B,A,B,A,B,C,B,A,A,B,A,A,B,A,A,A,A,B,A,C,B,A,A,A,C,B,A,B,C,A
+Female,English,Malacca,Yes,Foundation in Science,Mostly B's,Never,Year 3 Trimester 2,2003,5,5,7,3.9374,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A
+Male,Chinese,Negeri Sembilan,Yes,UEC (Unified Examination Certificate),Mostly A's,Often,Year 3 Trimester 3,2004,3,4,8,2.8091,A,C,B,B,A,C,C,F,C,A,B,C,B,B,B,A,C,A,F,B,A,F,C,A,A,C,C,A,B,A,B,C,B,B,B
+Male,Chinese,Selangor,Yes,Diploma,Mostly A's,Very Often,Year 1 Trimester 3,2002,4,4,15,3.6268,A,B,A,B,B,B,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,B,A,A,A,B,A,B,B,A,B,C,A,B,A
+Male,English,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 3,2001,5,5,9,2.6038,B,C,C,B,C,C,C,C,C,C,B,B,B,B,B,A,B,B,C,C,C,B,A,B,B,B,A,B,B,C,C,A,C,F,B
+Female,Chinese,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 3 Trimester 2,2001,4,3,4,2.7771,C,B,B,A,C,A,C,B,B,B,B,B,B,B,B,B,B,C,B,B,A,B,B,B,C,C,C,C,C,F,C,C,C,B,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Often,Year 3 Trimester 1,2002,3,4,6,2.9347,B,B,C,B,C,B,A,C,B,A,B,B,A,A,A,B,B,C,A,A,B,A,A,B,B,B,A,A,C,C,C,F,C,C,B
+Male,Chinese,Johor,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 2,2004,3,4,7,3.6442,B,A,A,A,A,A,A,B,A,A,A,B,B,A,B,A,A,A,A,A,A,A,B,A,A,A,B,B,A,B,A,B,B,B,A
+Male,Chinese,Selangor,Yes,Diploma,Mostly B's,Sometimes,Year 2 Trimester 2,2003,4,4,1,3.4291,B,A,A,B,B,B,B,A,B,A,B,B,A,B,B,A,B,B,B,A,B,A,A,A,B,B,B,B,B,B,B,A,B,A,B
+Male,Chinese,Negeri Sembilan,No,Diploma,Mostly A's,Very Often,Year 2 Trimester 2,2002,4,3,6,3.2344,B,A,A,A,B,A,A,B,A,C,B,A,A,B,A,B,B,A,B,A,B,B,B,B,A,A,B,B,B,B,C,A,C,B,B
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 2,2001,4,3,6,3.1104,B,C,C,B,B,B,B,B,B,A,B,B,A,A,A,C,C,C,B,B,B,B,B,A,B,A,B,B,B,B,A,B,C,A,B
+Male,Chinese,Sarawak,No,Foundation in Science,Mostly B's,Never,Year 2 Trimester 3,2002,4,4,-4,3.6299,A,A,B,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,B,A,A,A,A,A,B,A,A,A,B,B,B
+Female,English,Sabah,No,Diploma,Mostly C's,Sometimes,Year 3 Trimester 2,2002,4,3,0,1.7915,C,A,C,F,F,C,C,C,C,B,F,A,B,F,A,A,F,F,B,B,C,C,F,C,F,F,F,C,B,F,B,F,C,B,C
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 3,2000,5,5,2,3.0541,B,A,C,B,B,C,A,B,C,A,A,A,B,B,B,A,C,B,A,B,A,A,B,B,C,F,C,A,A,B,B,F,A,B,B
+Male,English,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2002,4,4,10,3.1628,B,A,B,A,B,B,A,A,A,B,B,B,B,A,B,B,B,B,B,A,B,A,B,A,B,B,C,B,C,B,B,B,C,A,B
+Male,Chinese,Kedah,Yes,Foundation in Art,Mostly B's,Very Often,Year 2 Trimester 3,2002,3,3,15,3.1624,B,A,A,A,B,A,B,C,B,A,A,B,B,A,A,C,B,C,C,B,C,B,A,B,B,B,A,A,A,B,B,A,B,B,A
+Male,Chinese,Pahang,No,Foundation in Science,Mostly C's,Often,Year 2 Trimester 2,2003,3,3,-5,3.4391,A,A,C,A,A,A,B,B,B,A,B,A,A,B,C,A,B,C,A,A,A,A,C,B,A,B,A,A,A,B,A,C,A,A,A
+Female,English,Kelantan,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 2,2001,4,4,6,3.815,A,A,A,A,A,B,A,B,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 3,2004,3,3,-3,3.2335,B,A,B,A,B,B,B,A,A,A,A,A,A,A,A,A,B,B,A,A,B,B,A,B,B,C,B,F,B,B,C,B,B,C,B
+Male,English,Malacca,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 3,2003,5,5,11,3.1794,B,A,C,C,B,B,A,A,A,A,B,B,B,B,A,B,A,C,A,C,A,A,B,B,B,B,C,A,C,B,B,B,B,C,B
+Male,English,Pahang,Yes,Diploma,Mostly A's,Sometimes,Year 2 Trimester 3,2003,4,4,8,3.7691,A,A,A,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,B,A,A,A,B,A
+Male,Chinese,Penang,Yes,Foundation in Art,Mostly A's,Often,Year 3 Trimester 1,2002,4,5,20,3.604,A,A,B,B,B,B,A,A,A,A,C,B,B,B,A,A,A,A,A,A,B,B,A,B,A,A,A,A,B,A,A,A,A,A,A
+Male,English,Kedah,Yes,Foundation in Science,Mostly C's,Never,Year 3 Trimester 2,2000,3,4,-4,2.7116,F,B,B,B,C,F,B,B,B,A,B,A,A,B,A,F,C,C,A,C,A,A,F,B,C,C,B,C,B,F,B,C,B,A,A
+Male,English,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2003,3,4,-5,2.8459,B,A,B,B,C,C,C,B,B,A,B,A,B,C,A,A,B,C,B,A,B,A,B,B,C,C,C,C,B,F,C,B,B,C,A
+Male,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 1,2001,3,5,0,3.6329,B,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,B,A,A,C,A,B,A,C,B
+Male,Chinese,Perak,Yes,Foundation in Science,Mostly C's,Sometimes,Year 1 Trimester 3,2000,2,5,11,3.0601,B,B,B,C,B,B,B,A,A,A,B,B,B,B,A,B,B,C,B,A,B,B,B,B,C,B,B,C,A,A,B,B,B,B,B
+Male,English,Pahang,No,Diploma,Mostly B's,Sometimes,Year 3 Trimester 1,2003,5,5,8,3.8779,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A
+Male,Chinese,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 2 Trimester 3,2000,3,3,7,3.4921,B,B,B,B,B,B,A,A,A,A,B,B,A,A,B,A,B,B,A,A,B,A,A,B,A,B,A,B,B,A,B,B,A,B,B
+Male,English,Malacca,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 3 Trimester 3,2001,5,4,6,1.4615,B,C,C,C,F,F,F,F,F,C,F,B,C,F,C,C,C,C,C,C,C,C,B,C,B,F,C,F,C,F,C,F,B,C,F
+Female,Chinese,Malacca,Yes,Foundation in Science,Mostly A's,Very Often,Year 3 Trimester 2,2001,5,4,13,2.6029,B,B,B,B,C,C,C,C,C,F,B,A,B,B,C,F,B,C,B,C,C,A,C,A,B,C,A,C,C,B,B,C,B,B,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly C's,Very Often,Year 2 Trimester 3,2004,3,4,0,3.006,B,B,A,B,C,C,B,C,B,B,B,A,A,A,B,A,C,B,C,A,B,B,A,B,A,B,B,B,A,B,C,B,F,A,A
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 2,2003,4,5,8,3.1021,B,B,B,B,B,B,A,A,A,B,B,B,B,C,B,B,B,B,A,A,B,A,F,A,A,C,A,B,B,B,F,A,B,C,B
+Male,Chinese,Selangor,No,Foundation in Art,Mostly A's,Very Often,Year 2 Trimester 3,2003,4,4,13,2.8315,B,B,C,C,C,A,C,C,B,B,C,C,B,C,B,B,C,B,B,B,A,C,C,C,B,A,A,C,A,C,B,B,B,C,A
+Male,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2000,4,3,22,3.2764,B,A,B,B,B,A,A,B,A,B,C,B,B,B,B,A,B,A,C,B,A,A,B,B,A,B,B,A,B,B,B,B,B,B,B
+Female,Chinese,Kedah,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2001,3,3,9,3.8493,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A
+Male,English,Kelantan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 1,2002,3,4,4,2.9407,A,A,C,A,A,A,B,C,B,A,C,B,B,F,A,C,B,A,A,A,C,A,A,C,A,A,A,A,B,B,F,B,F,A,C
+Male,Chinese,Negeri Sembilan,No,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 2,2002,3,3,10,2.7096,B,A,C,C,B,A,B,B,A,A,F,C,C,F,B,C,B,B,B,A,C,A,B,B,A,F,B,B,C,A,B,B,B,C,B
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 3,2004,3,4,18,2.7667,C,B,B,A,B,B,B,B,A,A,C,B,C,C,A,B,B,F,B,B,B,A,C,B,F,A,B,B,B,B,C,B,B,B,C
+Female,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 2,2001,3,4,4,3.4189,B,B,B,B,B,B,A,A,A,B,A,A,A,A,A,A,A,C,C,C,A,B,B,B,A,A,B,B,B,A,A,B,B,A,A
+Male,English,Kedah,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 1,2002,5,4,10,3.4083,B,A,B,B,A,F,A,A,A,A,B,A,B,A,A,A,A,B,A,A,A,B,A,B,A,B,C,A,A,C,A,C,A,A,A
+Female,Chinese,Sarawak,Yes,Foundation in Science,Mostly C's,Sometimes,Year 3 Trimester 2,2002,3,3,5,2.8809,B,F,A,C,C,B,B,B,B,A,B,A,A,A,B,C,C,B,B,C,A,B,A,A,B,C,B,A,C,F,B,C,A,A,C
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 2,2001,4,4,0,2.4865,C,C,F,C,C,C,B,B,B,B,C,B,A,A,A,B,C,B,B,A,B,B,C,F,B,C,F,B,F,B,C,F,B,C,B
+Male,English,Selangor,Yes,Foundation in Science,Mostly C's,Sometimes,Year 3 Trimester 3,2003,5,5,5,2.1281,C,A,B,B,F,F,F,C,C,B,B,B,B,B,A,B,B,C,A,A,F,B,C,C,C,F,C,B,C,C,C,C,B,C,C
+Male,English,Malacca,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 1,2001,4,4,15,3.51,A,A,B,B,A,B,A,B,B,A,A,A,A,A,B,B,B,B,A,B,B,B,A,A,A,A,A,A,A,A,A,B,B,C,A
+Male,English,Sabah,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2004,4,3,9,3.3219,A,A,C,B,A,B,A,A,A,A,B,B,A,B,A,B,A,C,B,A,F,A,B,A,A,A,B,A,B,A,A,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2003,3,5,15,2.4445,B,B,C,C,F,B,B,B,C,B,B,A,A,B,B,B,B,F,A,F,B,B,C,C,B,B,B,F,B,C,B,F,C,B,B
+Male,English,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 2,2002,4,3,9,3.1542,B,B,B,B,B,C,B,C,B,A,A,A,A,A,B,C,B,C,A,C,B,A,B,A,A,B,B,A,B,B,A,A,B,B,A
+Male,Chinese,Pahang,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 3 Trimester 1,2002,3,3,10,3.6009,A,B,B,B,A,A,A,A,A,A,B,B,A,A,A,A,B,B,F,A,A,B,A,A,A,B,B,A,A,A,A,A,A,B,B
+Female,Chinese,Sabah,Yes,Diploma,Mostly B's,Sometimes,Year 2 Trimester 2,2001,3,3,4,3.7376,A,B,B,C,B,C,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,B,A,A,B,A,A
+Male,English,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 2,2004,4,4,7,3.5904,B,A,B,B,A,B,A,A,A,A,B,A,A,B,A,A,B,A,A,A,B,A,A,A,B,B,A,A,B,A,A,A,A,A,A
+Female,Chinese,Johor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 1,2001,3,4,16,3.8123,A,B,A,A,A,A,A,A,A,A,A,B,A,A,C,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A
+Male,Chinese,Kuala Lumpur,Yes,Diploma,Mostly A's,Sometimes,Year 1 Trimester 3,2000,3,4,15,3.801,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,B,B,A,B,B,A,A,A
+Female,English,Sabah,Yes,Foundation in Art,Mostly A's,Often,Year 3 Trimester 2,2001,5,4,17,3.1425,C,B,B,B,B,A,B,B,C,A,A,B,B,B,A,A,B,A,C,B,B,A,A,B,C,A,A,A,B,C,A,B,C,B,B
+Male,English,Johor,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 3,2001,4,4,0,3.4334,A,B,A,B,B,B,A,B,B,B,A,A,A,A,B,C,A,C,B,A,B,C,A,A,A,A,A,A,A,B,A,A,A,A,A
+Male,Chinese,Selangor,No,Diploma,Mostly B's,Sometimes,Year 2 Trimester 2,2004,4,4,0,2.4945,B,B,B,C,C,B,C,C,C,B,C,B,C,C,B,A,B,F,B,B,C,B,F,B,B,C,B,C,B,B,C,C,C,B,C
+Male,English,Sabah,No,Foundation in Art,Mostly B's,Often,Year 3 Trimester 3,2002,4,5,6,1.9314,C,B,C,B,F,B,F,C,B,A,F,B,C,C,A,A,F,F,A,B,C,A,F,C,B,C,C,F,C,C,F,F,C,F,B
+Male,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly B's,Very Often,Year 2 Trimester 3,2001,4,3,9,2.6584,B,A,C,B,B,B,C,F,B,B,F,C,C,F,A,A,F,B,A,B,B,A,B,C,A,B,A,B,C,A,B,B,C,B,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 3 Trimester 1,2002,3,4,15,3.6414,A,B,A,B,A,B,A,A,B,A,A,A,A,A,A,A,A,B,A,A,B,B,A,B,B,A,B,A,A,A,A,A,A,A,A
+Male,Chinese,Perak,Yes,Foundation in Art,Mostly A's,Often,Year 3 Trimester 3,2001,5,4,21,3.1739,B,B,B,B,B,A,B,B,A,B,A,B,A,A,B,B,C,B,B,B,B,B,B,A,B,B,A,B,A,B,A,B,B,C,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Very Often,Year 2 Trimester 3,2003,3,4,9,3.002,B,B,B,B,B,B,B,C,B,B,B,B,B,B,C,C,B,B,B,B,C,B,B,C,A,A,B,B,B,B,B,A,B,A,B
+Male,English,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 2,2003,4,4,12,3.8035,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,B,B
+Female,Chinese,Kedah,Yes,UEC (Unified Examination Certificate),Mostly B's,Never,Year 1 Trimester 2,2002,3,3,5,3.8803,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,B,A,A,A,B,B,A,B,A
+Male,Chinese,Sarawak,Yes,Foundation in Art,Mostly A's,Very Often,Year 2 Trimester 2,2003,4,4,11,3.8782,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,A,A
+Male,Chinese,Sarawak,Yes,Foundation in Art,Mostly B's,Sometimes,Year 3 Trimester 2,2004,3,3,4,2.9962,B,B,B,B,C,B,B,B,B,B,B,B,A,B,B,B,C,C,B,A,C,B,B,B,B,B,B,B,B,A,A,B,B,B,C
+Male,Chinese,Kelantan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 1,2002,3,4,13,3.3909,A,A,B,A,A,B,A,B,B,B,C,B,B,B,B,A,A,A,A,A,A,C,B,B,B,B,A,B,A,B,B,A,A,B,A
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 1,2000,3,4,8,3.4419,A,A,B,B,B,B,A,A,A,A,C,B,A,B,A,A,B,B,A,A,A,B,B,B,B,B,A,A,B,B,A,B,B,B,A
+Male,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2003,3,4,12,3.1199,B,A,A,A,B,C,B,B,A,A,C,C,C,C,B,B,B,A,A,A,B,A,B,B,C,B,B,A,A,B,A,C,A,C,B
+Male,Chinese,Sarawak,Yes,Foundation in Art,Mostly A's,Very Often,Year 3 Trimester 2,2004,4,5,19,1.8829,B,B,B,B,C,B,F,F,F,C,F,F,F,F,C,B,F,C,C,B,C,C,C,C,B,B,B,C,B,B,B,F,C,B,C
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 3,2003,3,3,14,2.9804,B,A,B,A,A,A,C,C,C,B,A,A,B,B,F,B,C,A,B,B,C,B,C,B,B,A,B,A,B,A,B,B,B,A,A
+Male,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 2,2002,3,3,9,2.6238,C,B,B,B,B,F,B,B,B,A,F,A,B,C,B,C,B,B,C,B,A,B,C,B,B,A,C,C,C,B,F,C,F,B,B
+Male,English,Selangor,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 1,2003,4,5,9,3.1365,B,C,B,B,B,C,A,B,A,A,B,A,A,A,B,B,B,C,C,F,B,C,A,A,A,B,B,B,B,B,B,A,A,A,B
+Female,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 3,2002,3,4,14,3.0454,B,B,B,B,B,B,B,B,B,A,B,C,B,B,A,A,B,B,C,B,C,B,A,B,A,B,B,A,B,B,B,B,B,B,B
+Female,Chinese,Negeri Sembilan,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 1,2003,4,4,32,3.6098,A,A,A,A,A,A,B,B,A,A,B,B,B,B,B,A,A,A,C,B,A,A,A,B,A,A,A,A,B,B,A,A,A,B,A
+Male,English,Malacca,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 1,2001,4,4,-2,3.8777,A,A,A,A,A,B,A,A,A,A,A,A,A,A,C,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A
+Female,English,Pahang,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2001,3,3,4,3.7668,B,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,B,A,A,A,A,A,A,A,B,B
+Male,English,Sarawak,No,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 3,2003,4,3,5,2.361,C,C,B,F,C,B,C,C,C,C,B,B,B,B,C,C,C,C,C,C,B,B,C,B,F,B,C,C,B,C,C,C,A,C,C
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 3 Trimester 3,2003,4,4,5,3.4326,B,A,C,A,B,B,B,B,B,B,A,A,A,A,A,B,A,A,A,B,B,A,A,B,A,A,B,B,B,B,A,B,A,B,B
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2002,3,3,9,3.1634,B,A,A,A,B,B,A,B,B,B,A,A,A,B,B,B,B,B,A,B,B,F,B,A,B,B,A,A,A,B,B,A,B,A,C
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 2,2004,4,4,3,3.1191,A,A,B,B,B,B,B,B,B,B,C,B,B,B,B,B,B,B,B,A,B,B,B,B,B,B,B,B,A,C,B,B,B,C,A
+Female,Chinese,Kelantan,No,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 3,2002,4,4,0,3.0246,B,B,C,B,B,C,B,B,A,B,B,A,B,B,B,C,A,C,C,B,B,B,B,B,B,C,A,B,C,A,A,C,B,B,C
+Male,English,Johor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2001,4,4,18,3.7303,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,B,B,B,A,A,B
+Male,English,Kuala Lumpur,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 1,2003,4,4,9,3.6756,A,B,A,B,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,B,A,B,A,A,A,A,A,B,C,B,A,A,A,B,A
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 1,2002,3,3,13,3.7717,A,B,B,A,A,B,A,A,A,A,A,B,A,A,A,A,A,B,B,A,A,B,A,A,A,A,A,A,A,A,A,B,A,B,B
+Male,English,Johor,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 2,2001,3,4,5,3.5643,B,A,A,A,A,F,A,A,A,B,A,A,A,A,A,B,B,A,B,B,A,A,A,B,A,B,A,A,A,A,B,B,C,A,A
+Male,Chinese,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 3 Trimester 1,2001,4,4,7,3.5556,A,B,A,B,B,B,A,B,A,A,B,A,A,A,B,B,C,B,A,A,A,B,C,A,A,A,A,B,A,A,A,A,A,B,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Very Often,Year 3 Trimester 1,2003,3,4,9,3.1227,B,B,B,B,B,A,B,B,C,A,B,B,B,A,B,B,A,B,A,A,B,B,A,C,B,C,B,B,B,B,B,B,B,A,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 3 Trimester 2,2001,4,5,5,3.6579,A,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,B,B,A,A,B,A,A,C,A,B,A,B,A,B,A,A,B,A,A
+Male,English,Perak,Yes,Foundation in Art,Mostly B's,Often,Year 3 Trimester 2,2003,4,4,10,3.3677,B,A,B,B,B,B,B,B,B,A,A,A,A,A,A,A,B,B,B,A,B,B,A,A,A,A,C,B,B,B,B,A,A,B,A
+Female,English,Pahang,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 2,2002,4,4,7,2.7236,B,C,F,B,B,C,B,B,B,A,C,B,B,B,B,B,B,B,F,B,B,C,B,A,A,B,C,A,B,B,B,C,B,F,B
+Female,English,Negeri Sembilan,Yes,Foundation in Art,Mostly A's,Sometimes,Alumni,2003,4,3,10,3.6895,A,A,B,B,A,B,A,A,A,B,A,A,A,A,B,B,B,A,A,B,A,A,B,A,A,A,A,A,B,A,A,A,B,B,A
+Male,English,Kelantan,No,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 3,2002,4,3,4,3.2507,B,B,B,B,A,B,B,B,B,B,B,B,B,B,B,A,B,A,C,B,B,C,A,A,A,A,B,A,A,A,A,B,B,B,B
+Female,English,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Never,Year 3 Trimester 2,2004,4,4,1,3.4677,A,B,A,B,B,B,B,A,B,A,A,A,A,A,B,A,B,A,A,B,A,B,B,A,B,B,A,A,C,A,B,A,B,B,A
+Female,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 3 Trimester 2,2003,3,3,3,3.8271,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Male,English,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 1,2004,4,5,9,3.8723,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A
+Male,English,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 3,2002,5,4,10,2.7749,C,B,B,B,B,B,B,B,C,B,B,B,C,C,B,B,B,C,B,A,B,B,C,B,C,B,B,B,C,C,B,B,C,A,B
+Female,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 1 Trimester 2,2004,4,4,-4,3.1824,B,C,A,B,B,B,B,B,B,B,A,A,A,A,B,C,A,A,C,C,B,B,A,B,A,B,A,B,B,A,C,B,B,A,B
+Male,English,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 3,2003,4,4,9,3.3022,B,B,B,B,B,A,A,B,A,A,B,A,B,B,B,B,B,B,B,B,B,A,B,B,A,A,A,A,A,B,B,A,B,B,B
+Female,English,Perak,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 1,2003,4,4,16,3.5812,B,B,A,B,A,A,A,A,A,A,A,A,A,A,A,B,B,A,C,B,B,A,B,B,B,A,A,A,A,A,B,B,A,A,A
+Male,English,Perak,Yes,Foundation in Science,Mostly C's,Sometimes,Year 3 Trimester 3,2001,4,5,3,2.9746,B,B,B,B,B,B,B,B,B,B,B,A,B,B,B,B,B,B,B,B,A,B,C,B,B,B,C,C,C,B,B,B,B,A,C
+Male,English,Sarawak,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 2,2004,5,5,13,3.9176,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2003,4,4,0,3.325,A,A,B,B,B,B,B,B,B,A,C,A,B,B,B,A,A,A,B,A,B,B,A,B,B,A,A,B,B,A,A,A,B,B,B
+Male,Chinese,Kedah,No,UEC (Unified Examination Certificate),Mostly B's,Never,Year 3 Trimester 1,2002,3,4,2,3.5387,A,A,A,A,B,B,B,A,A,A,A,A,A,A,A,B,A,B,A,A,B,A,B,B,B,A,B,A,B,B,A,B,A,B,A
+Female,English,Sarawak,Yes,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 2,2002,5,4,20,3.4902,B,B,A,B,B,B,A,A,A,B,A,A,A,A,B,A,B,C,C,A,A,B,B,A,B,A,A,A,B,A,B,A,B,A,A
+Male,Chinese,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 2 Trimester 1,2001,3,4,16,3.7126,A,A,A,A,A,B,A,A,A,B,A,B,A,B,B,B,A,A,B,A,A,A,A,A,B,A,B,A,B,A,A,A,A,A,A
+Male,English,Kedah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 1,2001,4,4,8,3.6733,A,A,A,B,A,B,A,A,A,A,A,A,A,B,C,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 2 Trimester 2,2003,4,4,8,3.5932,A,A,A,A,A,B,A,B,A,A,A,A,A,A,C,B,A,A,A,A,A,B,B,A,A,B,B,B,A,B,A,A,B,B,A
+Male,English,Sarawak,Yes,Foundation in Science,Mostly B's,Never,Year 1 Trimester 3,2003,3,4,7,3.525,B,A,A,A,A,A,B,A,A,A,B,A,A,A,A,A,A,A,B,A,B,B,A,B,A,B,A,C,B,A,A,B,A,A,B
+Female,Chinese,Sabah,No,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2002,5,4,13,3.3332,B,B,B,B,B,B,B,A,A,A,A,A,A,A,B,A,B,B,A,A,B,A,A,A,C,A,B,C,C,A,A,A,C,C,B
+Male,English,Johor,No,Foundation in Art,Mostly A's,Never,Year 3 Trimester 3,2001,3,5,5,2.4642,C,B,B,B,C,C,B,B,A,B,F,B,C,F,B,C,B,C,B,B,B,A,F,B,C,C,C,B,B,F,C,A,C,B,C
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 2 Trimester 2,2002,2,3,5,3.5009,B,A,C,A,A,A,B,B,A,A,A,A,A,A,B,A,A,B,A,B,B,A,B,B,A,A,B,B,B,B,C,A,B,A,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Alumni,2004,4,4,4,3.9149,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B
+Male,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Never,Year 2 Trimester 3,2002,4,4,-2,3.3767,B,A,B,B,B,C,A,A,A,A,A,A,A,A,A,A,B,B,A,A,B,A,B,B,B,B,B,A,B,B,B,A,B,B,A
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 1,2003,4,5,14,3.7841,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,B,A,A,B,A,A,A
+Male,Chinese,Selangor,No,Foundation in Science,Mostly B's,Very Often,Year 2 Trimester 3,2002,3,4,10,3.2964,A,B,B,B,C,C,A,A,A,A,B,A,A,A,A,A,B,B,B,B,B,A,C,A,A,C,A,A,B,A,A,C,C,B,B
+Male,Chinese,Malacca,Yes,Foundation in Science,Mostly A's,Often,Year 1 Trimester 3,2001,3,4,9,3.8977,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B
+Female,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 2 Trimester 3,2001,4,4,0,2.9719,B,C,B,A,B,C,B,B,B,C,B,A,A,B,B,B,C,A,C,F,A,C,A,C,C,B,B,B,B,B,A,A,A,B,B
+Male,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 2,2003,4,4,11,3.6185,B,A,A,A,B,B,A,B,A,B,A,A,A,A,B,B,B,A,A,A,A,B,B,A,A,A,A,A,B,B,A,A,A,A,B
+Female,English,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Never,Year 3 Trimester 2,2005,5,3,15,3.8466,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,B,A,A,A,A,A,B,A,A,A,A,A
+Female,Chinese,Pahang,Yes,Foundation in Science,Mostly B's,Often,Year 2 Trimester 3,2002,4,4,-1,3.2337,A,B,C,B,B,B,B,B,A,A,B,B,B,A,A,A,B,C,C,A,B,B,A,A,B,B,B,B,C,A,A,A,A,B,B
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 3 Trimester 1,2002,4,4,6,2.3379,C,C,C,C,B,C,C,F,C,B,B,B,B,B,C,F,B,C,F,C,C,C,B,B,B,C,C,C,B,C,B,B,C,B,B
+Male,English,Kuala Lumpur,Yes,Diploma,Mostly B's,Often,Year 3 Trimester 2,2003,5,5,6,3.1162,B,A,B,B,B,C,B,B,B,A,C,B,B,B,B,A,B,A,A,C,B,B,B,B,B,B,C,A,B,B,C,A,B,B,B
+Male,Chinese,Penang,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 2 Trimester 3,2003,3,5,6,3.4158,A,A,B,A,A,C,B,B,B,A,B,A,B,B,A,A,B,B,A,B,B,B,A,B,A,A,B,C,A,A,A,A,B,B,A
+Female,Chinese,Perak,Yes,Foundation in Art,Mostly A's,Often,Year 2 Trimester 2,2002,3,5,-3,3.5647,A,A,A,B,B,A,B,A,A,A,B,A,A,A,B,A,B,A,A,A,B,A,A,B,B,A,A,B,A,A,A,B,A,A,B
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 3,2001,4,4,-1,2.8291,B,A,C,B,B,B,B,C,C,A,C,C,C,C,A,A,A,B,B,B,B,A,C,A,B,B,C,C,B,B,C,B,C,C,B
+Male,Chinese,Pahang,Yes,Diploma,Mostly B's,Very Often,Year 2 Trimester 2,2003,4,4,12,3.8208,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,B,A,A,A,B,A,A,A,A,A,A,A,B,A
+Male,Chinese,Sarawak,No,Foundation in Art,Mostly B's,Sometimes,Year 2 Trimester 2,2003,4,5,0,3.4875,B,A,A,B,B,B,A,B,B,A,A,A,A,A,A,C,B,B,A,A,A,A,B,B,A,A,B,A,B,A,A,B,A,B,B
+Female,English,Selangor,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 2 Trimester 2,2004,3,4,5,3.1939,C,C,A,A,A,B,B,B,A,A,A,A,A,B,B,A,B,B,A,B,A,C,A,B,C,A,A,A,C,A,F,F,A,A,C
+Male,English,Perak,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 1,2001,5,5,9,3.3907,A,A,B,B,B,C,A,B,A,A,A,A,A,B,A,A,A,C,B,A,A,A,A,B,A,B,C,A,B,C,B,A,B,C,A
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 3 Trimester 3,2000,4,4,2,2.6506,B,B,B,B,C,B,C,B,B,B,B,C,B,B,F,B,B,B,A,C,B,B,B,B,F,C,A,B,B,A,B,C,B,B,B
+Female,English,Perak,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 3,2001,4,5,7,3.2649,B,B,B,C,B,C,A,A,A,B,B,A,B,A,A,B,B,B,B,C,B,A,B,B,B,B,A,A,B,B,A,A,B,B,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 2,2003,3,4,4,2.7613,B,B,B,A,C,C,C,B,B,B,A,B,B,B,C,A,B,C,A,A,B,A,C,C,C,A,B,B,C,C,B,F,B,B,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 3,2001,4,5,-1,3.519,A,B,B,A,B,B,A,B,A,A,A,A,A,A,B,B,B,B,A,A,A,B,B,A,B,A,B,A,A,A,B,A,A,A,C
+Male,Chinese,Perak,No,Foundation in Art,Mostly B's,Often,Year 3 Trimester 1,2004,4,5,-5,2.7663,F,A,F,B,F,C,A,A,B,A,B,A,A,B,A,A,B,F,A,A,A,B,C,C,A,B,B,B,C,F,F,B,B,A,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 2,2002,4,5,8,2.3018,B,B,C,C,F,C,B,B,B,A,C,B,B,C,B,A,B,B,B,C,F,A,F,B,F,B,B,B,C,F,C,B,B,B,C
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Very Often,Year 1 Trimester 2,2002,5,4,4,3.8377,A,A,A,A,A,C,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,C,A,A,A,A,A,B,A,A
+Female,English,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Never,Year 2 Trimester 3,2002,4,5,11,3.8295,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,B,B
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly B's,Sometimes,Year 1 Trimester 3,2002,3,4,7,2.6097,C,B,C,B,B,C,C,C,B,B,C,B,B,B,B,B,B,C,B,B,B,B,C,C,C,B,C,C,C,B,B,B,C,A,C
+Female,English,Malacca,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 2,2001,4,4,4,3.4389,A,A,A,A,B,A,B,B,B,A,C,A,B,B,A,A,A,A,A,A,A,A,B,C,A,B,B,B,A,B,B,C,B,A,B
+Male,English,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 1,2004,4,5,-4,3.5844,A,A,A,A,A,A,B,B,B,A,B,A,B,B,A,A,A,A,A,A,B,A,A,B,A,A,B,B,A,A,B,B,A,A,A
+Female,English,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 3,2002,4,3,18,3.7695,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,C,A,A,A,A,A,B,A,A,A,A,B,B,A,A,B
+Male,English,Penang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 2,2002,4,4,3,3.8235,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A,A,A,C,B,A,A,A,A,A,A,A,A
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly C's,Often,Year 3 Trimester 2,2002,5,3,-5,2.6784,C,B,C,B,B,C,B,B,B,A,B,A,A,B,B,A,B,F,B,A,C,B,F,A,C,B,B,B,B,B,A,B,B,C,F
+Male,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly A's,Sometimes,Year 1 Trimester 3,2001,3,3,10,3.6298,B,A,A,B,B,B,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,B,B,C,B,A,A,A,B,A,A,A,A,A,B
+Female,English,Kuala Lumpur,Yes,Foundation in Science,Mostly A's,Never,Year 2 Trimester 1,2001,4,4,8,3.7463,A,A,A,A,A,B,A,B,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,A,B,B,A,A,A,A,B,A,A,B,A
+Female,Chinese,Kelantan,Yes,Foundation in Science,Mostly A's,Often,Year 3 Trimester 3,2002,3,3,10,3.7268,A,A,B,A,A,A,B,A,B,A,B,A,B,B,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,B,A,A
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Very Often,Year 2 Trimester 1,2003,4,4,16,3.7689,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,B,A,B,B,B,B,A,A,B,A,B,A,A,B,A,A
+Male,English,Perak,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2000,3,4,-1,2.6554,C,B,B,B,B,C,C,B,B,A,B,A,A,B,F,C,C,C,A,A,B,A,C,C,B,C,F,A,C,A,F,B,F,A,A
+Male,Chinese,Sabah,No,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2003,5,4,10,2.1738,F,B,C,B,B,B,C,B,B,B,B,A,B,C,B,B,C,F,B,C,F,B,B,C,F,B,A,C,C,B,F,B,C,C,C
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 2,2003,4,4,4,3.5598,A,A,A,B,A,B,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,C,C,B,A,B,A,A,A,A,A
+Female,English,Selangor,Yes,Diploma,Mostly B's,Sometimes,Year 1 Trimester 3,2003,4,4,15,3.5329,B,B,A,B,A,B,A,A,A,A,B,A,A,A,A,A,B,B,A,B,A,C,A,A,A,B,A,B,B,B,A,A,B,B,B
+Male,Chinese,Selangor,No,Foundation in Science,Mostly C's,Often,Alumni,2003,4,3,1,3.439,B,B,B,B,A,B,A,A,A,A,A,A,A,A,A,A,B,C,A,A,B,B,A,A,B,B,A,A,B,B,A,C,A,C,A
+Female,Chinese,Perak,Yes,Foundation in Art,Mostly A's,Sometimes,Year 3 Trimester 1,2001,5,4,15,3.0512,B,C,C,B,C,C,A,A,B,A,B,A,A,B,A,C,B,A,A,A,C,B,B,B,A,B,C,B,B,A,B,B,B,B,C
+Male,English,Malacca,Yes,UEC (Unified Examination Certificate),Mostly B's,Often,Year 1 Trimester 2,2003,3,4,-1,3.7979,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A,B,B,A
+Male,Chinese,Kelantan,Yes,Foundation in Science,Mostly A's,Sometimes,Year 1 Trimester 3,2003,4,4,-3,3.8405,A,A,A,A,A,C,A,A,A,A,A,A,A,A,A,B,B,A,A,B,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly A's,Very Often,Year 2 Trimester 1,2003,3,4,17,3.4444,B,B,A,B,B,B,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,B,F,C,C,A,A,B,B,A,A,B,A,B,B
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly C's,Very Often,Year 2 Trimester 3,2003,3,4,10,3.0077,B,B,C,B,C,C,B,A,A,B,B,A,A,A,A,B,B,C,B,B,C,A,C,F,A,B,A,A,B,C,B,C,A,B,C
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 2 Trimester 3,2002,5,3,2,2.766,A,C,B,B,B,B,C,C,C,C,A,B,A,A,B,C,B,B,F,C,B,F,A,C,A,C,A,B,B,B,A,A,B,F,C
+Female,Chinese,Malacca,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 2 Trimester 2,2001,3,3,10,2.8976,B,B,B,B,C,B,B,B,B,A,B,B,A,B,C,B,F,B,B,B,B,B,B,A,B,B,A,B,A,B,C,C,B,B,C
+Male,English,Sarawak,Yes,Diploma,Mostly B's,Sometimes,Year 2 Trimester 3,2001,4,4,12,3.2562,B,A,A,B,C,B,A,A,A,A,B,A,A,B,B,A,B,A,A,A,B,B,A,B,B,C,C,A,F,B,C,B,A,C,A
+Male,Chinese,Sarawak,Yes,Diploma,Mostly B's,Sometimes,Year 3 Trimester 1,2002,5,4,17,2.9283,B,A,F,C,C,B,B,C,B,A,B,C,B,B,A,C,C,B,B,B,A,C,B,B,B,B,B,B,B,A,C,C,B,A,B
+Male,English,Pahang,Yes,Foundation in Science,Mostly C's,Often,Year 2 Trimester 2,2002,4,4,-6,2.978,C,B,B,B,C,C,A,A,B,A,B,A,A,B,B,B,C,A,A,A,B,B,A,B,A,B,A,F,B,B,B,B,B,C,C
+Male,English,Selangor,Yes,Diploma,Mostly B's,Very Often,Year 3 Trimester 2,2001,5,4,9,3.116,B,B,B,B,C,B,B,C,B,A,A,A,A,A,B,B,B,B,C,B,B,B,B,C,B,C,A,C,A,A,C,C,A,B,A
+Male,Chinese,Pahang,Yes,Diploma,Mostly B's,Often,Year 1 Trimester 3,2001,3,3,6,3.1965,C,A,A,A,B,A,A,A,B,A,B,B,B,B,A,B,A,B,B,B,C,B,B,C,B,B,B,B,B,B,B,A,A,A,B
+Female,Chinese,Pahang,Yes,UEC (Unified Examination Certificate),Mostly C's,Never,Year 3 Trimester 2,2001,3,3,2,2.7805,B,B,C,B,B,B,C,C,B,A,B,B,A,B,A,A,B,C,B,C,C,B,B,C,C,C,C,A,B,C,B,B,B,B,B
+Male,Chinese,Pahang,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 2,2001,4,4,14,3.7756,A,A,A,A,A,B,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,A,B,A,A,A,A,A,A,A,A,A,B,A,B
+Male,English,Sarawak,Yes,Foundation in Science,Mostly B's,Very Often,Year 3 Trimester 3,2003,5,5,-4,1.6693,C,C,F,B,F,C,F,F,F,B,B,B,C,F,C,B,C,C,F,C,C,B,B,F,F,C,B,F,C,C,C,C,B,C,C
+Male,English,Sarawak,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 2,2002,3,5,-8,3.0969,B,B,A,A,B,B,B,B,B,B,A,A,A,B,C,F,B,B,B,B,B,C,B,B,B,B,B,B,A,B,A,A,B,A,B
+Male,Chinese,Negeri Sembilan,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 1,2003,4,3,7,3.698,B,B,A,B,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,C,B,A,A,A,A,A,A,A,B,A,B,B
+Male,English,Selangor,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2003,4,4,16,3.294,B,A,B,B,A,A,B,B,A,B,B,B,B,B,A,B,A,B,B,B,A,C,A,A,B,A,B,C,B,B,A,A,B,B,A
+Female,Chinese,Perak,Yes,Foundation in Science,Mostly A's,Sometimes,Year 3 Trimester 2,2000,3,3,20,3.7471,A,A,A,B,A,C,A,A,B,A,A,A,A,A,B,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Year 3 Trimester 1,2002,4,4,-7,2.737,B,B,B,B,C,C,C,C,B,B,C,A,B,B,C,A,C,A,B,B,B,C,B,C,B,C,B,C,A,B,C,F,B,C,C
+Male,Chinese,Perak,No,Foundation in Art,Mostly B's,Often,Year 2 Trimester 1,2001,3,3,3,3.3682,B,B,B,B,B,B,A,A,A,A,B,B,A,A,A,A,B,B,A,A,A,B,B,A,C,A,B,A,B,C,A,A,B,B,B
+Male,Chinese,Pahang,No,ALevel,Mostly A's,Sometimes,Year 1 Trimester 2,2001,4,3,7,3.8777,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,B,A,A,A
+Male,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Sometimes,Year 3 Trimester 1,2000,3,5,-1,3.371,B,A,B,A,B,C,A,A,B,A,A,A,A,A,A,B,B,A,A,A,C,A,A,B,A,A,B,A,B,C,A,A,C,A,A
+Female,English,Selangor,Yes,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 3,2003,5,4,16,3.357,A,A,B,A,B,C,A,A,A,A,B,A,A,A,A,A,B,B,B,B,B,A,A,A,A,A,C,A,B,B,A,B,B,B,C
+Male,English,Sabah,Yes,Foundation in Science,Mostly A's,Sometimes,Year 2 Trimester 2,2002,4,5,0,3.8263,A,A,A,A,A,C,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,B,A
+Female,Chinese,Sabah,Yes,Foundation in Art,Mostly C's,Sometimes,Year 3 Trimester 3,2001,4,4,5,1.7946,C,F,F,C,F,F,B,C,C,B,C,B,B,B,F,B,B,F,B,C,C,C,F,C,F,F,B,B,B,C,C,C,C,F,B
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Sometimes,Year 1 Trimester 3,2002,4,4,3,3.4506,A,B,A,B,B,B,A,A,B,B,A,A,A,A,C,B,B,A,A,A,A,A,B,A,A,B,A,A,A,A,B,B,B,A,F
+Male,Chinese,Malacca,No,Foundation in Art,Mostly B's,Often,Year 3 Trimester 1,2003,4,4,7,3.8692,A,A,A,B,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A
+Male,Chinese,Pahang,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 1,2002,3,3,12,3.1567,C,B,B,B,B,B,A,B,A,A,B,A,A,B,B,A,A,C,A,A,B,B,B,A,B,C,A,B,B,B,C,C,B,A,C
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Year 3 Trimester 1,2002,5,4,6,3.3875,A,A,A,B,B,B,C,B,B,B,A,A,A,B,B,A,B,A,B,A,B,A,A,A,A,B,A,C,B,A,A,C,A,A,B
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 1,2004,3,5,3,3.4877,A,A,A,A,A,C,A,B,B,A,A,A,A,B,B,A,A,B,B,A,A,C,B,A,A,B,C,B,A,B,B,A,A,A,A
+Male,English,Selangor,No,Foundation in Science,Mostly C's,Sometimes,Year 2 Trimester 3,2003,4,5,-2,3.4273,B,A,B,B,B,C,B,B,B,A,A,A,A,B,B,A,A,A,B,A,A,A,A,B,B,B,B,A,B,A,A,B,B,B,B
+Male,Chinese,Negeri Sembilan,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Sometimes,Year 2 Trimester 3,2000,4,4,9,3.9062,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A
+Male,English,Selangor,No,Foundation in Science,Mostly B's,Sometimes,Year 3 Trimester 1,2002,5,3,12,2.7604,B,B,C,B,B,B,B,F,C,B,B,B,B,B,F,C,C,B,A,B,A,C,B,B,B,B,B,B,C,B,B,B,B,B,C
+Male,Chinese,Sarawak,Yes,Foundation in Art,Mostly A's,Very Often,Year 3 Trimester 1,2002,3,5,20,3.6353,A,A,A,A,A,A,B,A,A,B,A,A,A,B,B,C,A,A,A,A,A,A,A,B,B,C,A,B,A,A,A,B,C,A,A
+Female,Chinese,Selangor,Yes,Diploma,Mostly B's,Very Often,Year 2 Trimester 1,2003,4,4,19,3.8697,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,A
+Female,Chinese,Kuala Lumpur,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Often,Year 2 Trimester 1,2005,3,4,2,3.8097,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,B,A,A,A,A,A,A,A,A,B,B
+Female,Chinese,Kuala Lumpur,Yes,Foundation in Science,Mostly B's,Often,Year 1 Trimester 3,2003,3,3,10,2.9978,A,B,C,B,A,B,B,C,B,A,B,B,B,A,B,A,A,B,C,A,F,A,A,B,A,A,B,A,A,A,A,B,B,C,B
+Male,Chinese,Selangor,No,Foundation in Art,Mostly B's,Often,Year 2 Trimester 3,2002,4,4,10,3.2508,B,B,B,C,A,A,B,B,B,A,B,A,B,A,B,A,B,C,A,B,B,A,A,B,B,A,A,B,B,C,A,B,A,B,B
+Male,Chinese,Negeri Sembilan,No,Foundation in Science,Mostly A's,Often,Year 3 Trimester 2,2002,5,5,0,2.9199,B,A,B,B,B,B,B,B,C,B,A,B,B,C,B,B,B,B,A,A,C,A,B,C,C,B,B,B,C,B,B,B,C,B,B
+Female,Chinese,Selangor,Yes,Foundation in Science,Mostly A's,Very Often,Year 2 Trimester 3,2004,5,4,11,3.4279,A,A,B,A,B,B,B,B,A,A,A,A,A,A,A,A,B,A,B,B,B,A,B,B,A,A,B,A,A,B,B,A,B,B,B
+Male,Chinese,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 3,2004,4,3,9,1.6065,C,F,F,C,F,B,B,F,C,B,B,B,B,B,F,C,F,F,B,F,F,C,C,C,C,B,B,B,C,F,C,F,B,F,B
+Male,Chinese,Sarawak,Yes,Foundation in Art,Mostly B's,Often,Year 2 Trimester 3,2001,4,4,-1,1.8579,F,C,B,C,C,C,B,F,B,B,B,A,B,B,C,F,F,F,F,A,F,B,B,B,B,C,A,F,F,B,B,B,F,C,B
+Male,English,Perak,Yes,Foundation in Science,Mostly A's,Often,Year 2 Trimester 2,2003,3,5,13,3.7126,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A,B,A,A,B,A,A,A,A,A,A,A,A,B,B,A,A,A,B
+Male,English,Perak,No,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Often,Year 3 Trimester 2,2005,4,3,-6,2.527,B,A,B,B,B,B,F,F,C,C,B,A,C,C,C,F,B,C,A,A,B,B,B,C,B,B,B,B,B,C,B,B,B,F,B
+Female,Chinese,Kuala Lumpur,Yes,UEC (Unified Examination Certificate),Mostly A's,Sometimes,Year 2 Trimester 3,2001,4,3,17,3.5585,A,B,A,B,A,B,A,C,B,B,A,A,A,A,B,B,B,A,B,B,A,A,A,A,A,A,A,B,B,A,A,B,A,B,A
+Male,English,Kelantan,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 1,2002,4,4,5,3.5016,B,A,B,A,A,A,B,B,B,A,A,A,A,C,A,A,B,B,A,A,A,A,C,B,B,A,B,B,A,A,A,B,B,A,A
+Male,Chinese,Sarawak,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 2,2001,3,5,11,3.1025,C,B,A,A,B,A,B,B,B,A,C,B,B,C,A,B,B,B,A,B,B,C,B,B,B,A,A,A,B,B,A,B,C,B,C
+Male,Chinese,Selangor,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 3 Trimester 2,2001,5,5,10,3.3254,A,B,C,B,A,B,B,B,B,B,B,B,B,A,A,B,B,A,B,B,B,B,A,A,B,A,A,A,A,A,A,A,B,B,A
+Male,Chinese,Selangor,Yes,Diploma,Mostly B's,Sometimes,Year 3 Trimester 1,2002,4,4,6,2.9625,B,B,B,B,C,C,B,B,B,A,B,A,A,B,A,B,B,B,A,C,B,B,C,B,B,B,B,B,C,C,B,B,C,C,B
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 2,2003,4,4,8,3.3782,B,B,B,B,B,C,A,A,A,B,A,B,A,A,B,B,B,B,A,B,B,A,A,B,C,A,B,B,B,A,B,A,B,A,B
+Male,Chinese,Kelantan,Yes,UEC (Unified Examination Certificate),Mostly B's,Sometimes,Year 2 Trimester 2,2004,4,4,6,3.7926,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,B,B,B,A,B,A,A,A,A,A,A,A,A
+Male,English,Sabah,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 2 Trimester 3,2001,3,5,9,3.5617,A,A,C,A,B,B,A,A,A,A,A,A,A,A,A,B,A,A,A,A,B,A,A,A,A,A,C,A,B,B,A,B,B,A,B
+Female,English,Selangor,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 2,2002,5,4,8,2.1592,C,C,C,C,F,C,C,C,B,B,C,B,C,C,F,C,B,B,B,B,A,B,C,C,C,F,B,C,F,F,C,C,F,B,B
+Male,Chinese,Sabah,Yes,Foundation in Science,Mostly B's,Sometimes,Year 2 Trimester 3,2002,4,3,4,3.6326,B,A,A,B,A,B,A,B,A,B,A,B,A,A,B,B,A,B,A,B,A,B,A,A,A,A,A,A,B,B,A,A,A,A,A
+Male,Chinese,Selangor,Yes,Foundation in Science,Mostly B's,Very Often,Year 1 Trimester 2,2003,3,4,12,3.9228,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,B,A,A,A,A,A,A,B,A
+Male,Chinese,Malacca,Yes,Foundation in Science,Mostly A's,Never,Year 3 Trimester 1,2003,4,4,2,3.5357,A,A,B,B,A,B,B,A,B,A,A,A,A,B,A,A,A,A,A,A,A,A,B,B,A,B,B,A,B,B,B,B,B,C,A
+Male,English,Johor,Yes,Foundation in Art,Mostly B's,Never,Year 2 Trimester 3,2000,4,4,0,3.8356,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,B,A,A,A,A,A,A
+Male,English,Negeri Sembilan,Yes,Foundation in Science,Mostly B's,Often,Year 3 Trimester 3,2004,4,4,14,2.8315,B,B,C,B,B,B,B,B,B,B,C,C,B,C,A,A,A,B,C,B,A,A,B,A,F,B,B,B,B,F,F,B,A,F,B
+Male,Chinese,Selangor,Yes,Foundation in Art,Mostly B's,Very Often,Year 3 Trimester 1,2004,4,3,8,2.3104,B,C,F,C,C,B,B,F,B,B,C,B,B,B,C,A,F,F,C,C,B,B,C,B,C,B,A,B,F,F,B,B,B,B,B
+Male,Chinese,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly C's,Sometimes,Year 3 Trimester 1,2001,4,3,2,3.4018,A,B,B,A,B,A,B,B,A,A,B,A,A,A,B,B,B,A,B,B,B,B,B,B,A,A,B,B,B,A,A,A,A,B,B
+Male,Chinese,Kedah,No,Foundation in Art,Mostly A's,Sometimes,Year 2 Trimester 1,2003,4,4,19,3.6671,A,B,A,B,A,A,A,A,A,A,B,B,A,A,B,A,A,B,B,A,A,A,B,A,A,B,A,B,A,A,A,A,A,B,A
+Male,Chinese,Negeri Sembilan,No,Foundation in Science,Mostly A's,Never,Year 2 Trimester 2,2001,4,3,14,3.8632,A,A,A,A,A,A,A,A,A,A,A,A,A,A,B,B,A,B,A,A,A,A,A,A,A,A,B,A,B,A,A,A,A,A,A
+Male,English,Sarawak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Often,Year 3 Trimester 1,2005,3,4,2,3.0426,C,A,A,B,C,B,A,A,B,B,B,A,B,B,A,A,B,B,B,B,B,B,C,A,A,F,B,B,A,B,B,C,A,B,F
+Male,Chinese,Selangor,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Very Often,Year 2 Trimester 1,2001,4,4,7,1.5325,C,F,C,C,C,C,F,F,C,F,F,C,B,C,C,C,F,C,F,F,C,F,C,C,F,B,F,C,B,C,C,B,B,F,B
+Male,Chinese,Perak,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly B's,Sometimes,Year 3 Trimester 2,2002,3,3,6,3.3821,B,B,B,B,B,C,A,A,B,A,B,B,A,B,A,A,B,A,A,B,A,A,A,A,B,B,A,B,B,A,B,B,B,A,C
+Male,English,Malacca,Yes,STPM (Sijil Tinggi Persekolahan Malaysia),Mostly A's,Never,Year 3 Trimester 1,2002,4,4,-6,3.8805,A,A,A,A,A,A,A,A,A,B,A,A,A,A,A,A,A,A,A,A,A,A,A,B,A,A,B,A,B,A,A,A,A,A,A

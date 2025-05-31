@@ -1,0 +1,8 @@
+app/services/predictive-models/backup
+app/services/predictive-models/lgbm_4
+app/services/predictive-models/lgbm_9_old
+app/services/predictive-models/rf_4
+app/services/predictive-models/rf_9
+app/services/predictive-models/rf-cgpa-9-old.pkl
+.env
+seed.py

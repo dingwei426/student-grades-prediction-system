@@ -24,9 +24,9 @@ A full-stack AI-powered academic advising tool that predicts student performance
 ## 🛠️ Developer Setup Guide
 
 > [!NOTE]
-> ai_ml directory includes the script to train and download the ML models.
-> Random Forest Models should be store in /backend/app/services/predictive-models/rf_9.
-> LightGBM Models should be store in /backend/app/services/predictive-models/lgbm_9.
+> - ai_ml directory includes the script to train and download the ML models.
+> - Random Forest Models should be store in /backend/app/services/predictive-models/rf_9.
+> - LightGBM Models should be store in /backend/app/services/predictive-models/lgbm_9.
 
 ### ⚙️ Environment Configuration & Database Setup
 
